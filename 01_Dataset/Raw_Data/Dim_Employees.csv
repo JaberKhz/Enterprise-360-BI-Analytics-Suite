@@ -1,0 +1,93 @@
+﻿EmployeeID,EmployeeName,JobTitle,Department,BranchID,HireDate,EmploymentStatus
+EMP-0001,Morgan Saleh,Branch Manager,Sales,BR-015,"Apr 26, 2024",Leave
+EMP-0002,Amir Wilson,Key Account Lead,Commercial,BR-009,10/03/2021,Active
+EMP-0003,Maya Khan,Regional Sales Manager,Commercial,BR-018,"Aug 22, 2015",Active
+EMP-0004,Kareem Smith,Key Account Lead,Sales,BR-013,17/12/2017,Active
+EMP-0005,Jamie Martin,Key Account Lead,Sales,BR-002,12.05.2022,Former
+EMP-0006,Sara Hall,Branch Manager,Operations,BR-017,04-Oct-2016,Former
+EMP-0007,Maya Clark,Key Account Lead,Commercial,BR-016,05/10/2019,Active
+EMP-0008,Kareem Hassan,Sales Analyst,Operations,BR-012,27/06/2023,Active
+EMP-0009,Kareem King,Key Account Lead,Operations,BR-006,2016-08-22,Active
+EMP-0010,Omar Martin,Regional Sales Manager,Customer Success,BR-010,"Jun 09, 2020",Leave
+EMP-0011,Riley Saleh,Account Manager,Sales,BR-006,09/05/2017,Active
+EMP-0012,Taylor Hall,Account Manager,Sales,BR-014,15.11.2020,Active
+EMP-0013,Casey Green,Branch Manager,Commercial,BR-002,20-Aug-2017,Leave
+EMP-0014,Riley Martin,Regional Sales Manager,Sales  ,BR-003,2025-07-28,Former
+EMP-0015,Jamie Lewis,Account Manager,Sales,BR-010,2015-11-03,Active
+EMP-0016,Lina Lewis,Sales Executive,Customer Success,BR-017,21.07.2025,Active
+EMP-0017,Sam Scott,Sales Executive,Customer Success,BR-002,03.09.2023,Active
+EMP-0018,Chris Hall,Key Account Lead,Commercial,BR-011,15/05/2024,Active
+EMP-0019,Cameron Green,Regional Sales Manager,Sales,BR-004,29/04/2024,Leave
+EMP-0020,Morgan Smith,Regional Sales Manager,Commercial,BR-014,20/01/2017,Active
+EMP-0021,Chris King,Regional Sales Manager,Sales,BR-015,13.03.2025,Former
+EMP-0022,Robin Adams,Regional Sales Manager  ,Commercial,BR-006,2021-07-05,Active
+EMP-0023,Dana Brown,Regional Sales Manager,Operations,BR-001,15.07.2025,Former
+EMP-0024,Daniel Saleh,Branch Manager,Sales,BR-010,13.08.2024,Active
+EMP-0025,Cameron Walker,Sales Analyst,Commercial,BR-011,"May 07, 2021",Leave
+EMP-0026,Lina Walker,Regional Sales Manager,Sales,BR-010,06-Feb-2019,Active
+EMP-0027,Chris Wilson,key account lead,Sales,BR-014,14-Apr-2016,Active
+EMP-0028,Amir Smith,Sales Executive,Sales,BR-011,09-Feb-2016,Leave
+EMP-0029,Kareem Walker,Sales Analyst,Sales,BR-001,2019-04-08,Former
+EMP-0030,Jamie Adams,Branch Manager,Sales,BR-014,18-Nov-2023,Active
+EMP-0031,Lee Hassan,Key Account Lead,Sales,BR-013,2020-07-14,Former
+EMP-0032,Lee Foster,Branch Manager,Commercial,BR-015,11.04.2020,Active
+EMP-0033,Chris Khan,Regional Sales Manager,Commercial,BR-003,"Sep 04, 2017",Former
+EMP-0034,Lina Johnson,Account Manager,Sales,BR-004,"Mar 07, 2021",Active
+EMP-0035,Sam Johnson,Customer Success Rep,Operations,BR-010,27-Dec-2021,Leave
+EMP-0036,Dana Johnson,Sales Executive,Sales,BR-014,03/10/2025,Active
+EMP-0037,Alex Scott,Sales Analyst,Sales,BR-016,2022-12-27,Former
+EMP-0038,Casey Martin,Sales Analyst,Customer Success,BR-009,"Aug 25, 2021",Active
+EMP-0039,Maya Baker,Key Account Lead,Sales,BR-011,2024-12-19,Leave
+EMP-0040,Nora Clark,Account Manager,Sales,BR-017,27.08.2019,Active
+EMP-0041,Kareem Young,Customer Success Rep,Sales,BR-010,28/03/2025,Active
+EMP-0042,Yara Baker,Customer Success Rep,Customer Success,BR-003,19.01.2019,Leave
+EMP-0043,Alex Green,Account Manager,Sales,BR-006,2016-05-26,Leave
+EMP-0044,Riley Saleh,Regional Sales Manager,Operations,BR-018,29.07.2019,Active
+EMP-0045,Omar Wilson,Branch Manager,Sales,BR-008,30.05.2016,Active
+EMP-0046,Omar Green,Branch Manager,Sales,BR-010,18/04/2016,Former
+EMP-0047,Omar Mitchell,Account Manager,Sales,BR-008,25-Aug-2024,Former
+EMP-0048,Yara Smith,Branch Manager,Operations,BR-015,15.09.2023,Former
+EMP-0049,Avery Brown,Regional Sales Manager,SALES,BR-017,03-Jun-2017,Active
+EMP-0050,Omar Hassan,Branch Manager,Sales,BR-005,2024-03-04,Leave
+EMP-0051,Kareem Khan,Sales Analyst,Sales,BR-013,03-Oct-2015,Active
+EMP-0052,Sara Taylor,Customer Success Rep,Sales,BR-009,"Feb 11, 2018",Active
+EMP-0053,Amir Hassan,Sales Executive,Customer Success,BR-004,"Sep 25, 2022",Active
+EMP-0054,Dana Foster,Sales Analyst,Sales,BR-002,2018-04-30,Leave
+EMP-0055,Avery Scott,Account Manager,Customer Success,BR-010,"Jan 01, 2023",Active
+EMP-0056,Alex Mitchell,Sales Analyst,Operations,BR-011,29/07/2024,Leave
+EMP-0057,Amir Walker,Sales Analyst,Customer Success,BR-004,22.09.2015,Active
+EMP-0058,Avery Adams,  Account Manager,Operations,BR-001,2015-04-06,Leave
+EMP-0059,Jordan Foster,Account Manager,Customer Success,BR-009,18/04/2025,Active
+EMP-0060,Daniel Scott,Account Manager,Commercial,BR-016,2020-09-12,Active
+EMP-0061,Alex Hall,Customer Success Rep,Sales,BR-012,"Jul 18, 2020",Active
+EMP-0062,Lina Brown,Account Manager,Customer Success,BR-001,29-Jan-2020,Former
+EMP-0063,Lee Scott,Customer Success Rep,Operations,BR-015,,Active
+EMP-0064,Jamie Scott,Regional Sales Manager,COMMERCIAL,BR-008,23.07.2022,Active
+EMP-0065,Maya Brown,Regional Sales Manager,Commercial,BR-009,07/05/2021,Leave
+EMP-0066,Yara Walker,Key Account Lead,Sales,BR-015,15/10/2016,Former
+EMP-0067,Robin Walker,Sales Analyst,Sales,BR-008,11.11.2021,Leave
+EMP-0068,Lee Ibrahim,Key Account Lead,Operations,BR-012,"Apr 27, 2022",Leave
+EMP-0069,Sara Martin,Sales Executive,Sales,BR-013,30.03.2016,Former
+EMP-0070,daniel wilson,Sales Analyst,Customer Success,BR-014,15-Feb-2019,Leave
+EMP-0071,Daniel Saleh,Key Account Lead,Sales,BR-018,29-Aug-2023,Former
+EMP-0072,Kareem Adams,Sales Analyst,Customer Success,BR-015,10-Oct-2021,Leave
+EMP-0073,Alex Hall,Branch Manager,Sales,BR-009,29/06/2016,Active
+EMP-0074,Sam Clark,Customer Success Rep,Operations,BR-005,2015-06-10,Active
+EMP-0075,Taylor Hall,Customer Success Rep,Customer Success,BR-005,2021-05-13,Active
+EMP-0076,Kareem Foster,REGIONAL SALES MANAGER,Operations,BR-010,21/01/2020,Former
+EMP-0077,Lina Adams,Customer Success Rep,Customer Success,BR-018,11-Jul-2025,Leave
+EMP-0078,Drew Martin,Customer Success Rep,Sales,BR-001,20/09/2020,Active
+EMP-0079,Maya Martin,Regional Sales Manager,Operations,BR-014,2025-03-14,Former
+EMP-0080,Cameron Khan,Sales Analyst,Operations,BR-018,2017-05-07,Active
+EMP-0081,Chris Khan,Sales Executive,Commercial,BR-001,25.11.2019,Leave
+EMP-0082,Morgan Hassan,Branch Manager,Sales,BR-010,2016-07-12,Active
+EMP-0083,Jamie Hall,Sales Executive,Commercial,BR-003,15.04.2021,Former
+EMP-0084,Sam Scott,Sales Executive,Customer Success,BR-006,23-Jan-2017,Active
+EMP-0085,Jamie Green,Key Account Lead,Sales,BR-005,"May 23, 2020",Former
+EMP-0086,Daniel Brown,Key Account Lead,Sales,BR-007,08/10/2018,Active
+EMP-0087,Drew Walker,Branch Manager,Sales,BR-016,12.01.2017,Former
+EMP-0088,Dana Wilson,Branch Manager,Sales,BR-016,2016-01-23,Former
+EMP-0089,Taylor Adams,Customer Success Rep,Commercial,BR-008,10/08/2020,Former
+EMP-0090,Lina King,Branch Manager,  Commercial,BR-018,"May 17, 2025",Active
+EMP-UNKNOWN,Unknown Employee,Unknown,Unknown,BR-UNKNOWN,,Unknown
+EMP-0041,Kareem Young,Customer Success Rep,Sales,BR-010,28/03/2025,Active

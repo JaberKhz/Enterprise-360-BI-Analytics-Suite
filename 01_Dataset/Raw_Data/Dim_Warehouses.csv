@@ -1,0 +1,13 @@
+﻿WarehouseID,WarehouseName,City,Country,Region,CapacityUnits,WarehouseStatus
+WH-001,WH-East-01,Newark,United States,North America,56425.0,Active
+WH-002,WH-Central-02,Dallas,United States,North America,33064.0,Active
+WH-003,WH-West-03,Los Angeles,United States,North America,236056.0,Active
+WH-004,WH-UK-04,Birmingham,United Kingdom,Europe,240950.0,Active
+WH-005,WH-DE-05,Frankfurt,Germany,Europe,191332.0,Active
+WH-006,WH-GCC-06,Dubai,United Arab Emirates,Middle East,48175.0,Maintenance
+WH-007,wh-eg-07,Cairo,Egypt,Middle East & Africa,91071.0,Active
+WH-008,WH-IN-08,Mumbai,India,Asia Pacific,34242.0,Active
+WH-009,WH-SG-09,Singapore,Singapore,Asia Pacific,36530.0,Active
+WH-010,WH-TR-10,Istanbul,TURKEY,Europe & Asia,80365.0,Maintenance
+WH-UNKNOWN,Unknown Warehouse,Unknown,Unknown,Unknown,,Unknown
+WH-006,WH-GCC-06,Dubai,United Arab Emirates,Middle East,48175.0,Maintenance

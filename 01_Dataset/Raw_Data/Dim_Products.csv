@@ -1,0 +1,303 @@
+﻿ProductID,ProductName,Category,Subcategory,Brand,SupplierID,StandardCost,ListPrice,ProductStatus
+PROD-0001,Flex Storage Bin 001,Outdoor,Camping,Vertex,SUP-0024,6.41,11.41,Active
+PROD-0002,ESSENTIAL CHAIR 002,Electronics,Mobile,Apex,SUP-0011,66.12,130.93,Active
+PROD-0003,Select Lamp 003,HEALTHCARE ,Storage,ProLine,SUP-0007,4.48,10.54,Active
+PROD-0004,Flex Lamp 004,Industrial,Safety,BlueArc,SUP-0001,25.95,64.2,Active
+PROD-0005,Edge Label Roll 005,Industrial,Tools,NorthPeak,SUP-0054,162.46,351.04,Active
+PROD-0006,Select Label Roll 006,Home & Office,Lighting,CoreAxis,SUP-0044,22.09,41.08,Active
+PROD-0007,Pro Safety Shoe 007,Healthcare,Cleaning,CoreAxis,SUP-0046,29.08,76.39,Active
+PROD-0008,advance desk 008,Electronics,Computing,Everwell,SUP-0002,10.64,14.68,Active
+PROD-0009,Prime Storage Bin 009,Home and Office,Furniture,Everwell,SUP-0070,4.7,8.05,Active
+PROD-0010,Advance Label Roll 010,Home & Office,Office Supplies,OmniWorks,SUP-0032,58.19,113.37,Active
+PROD-0011,Pro Storage Bin 011,PACKAGING ,Labels,  CoreAxis,SUP-0051,57.27,82.73,Discontinued
+PROD-0012,Core Work Jacket 012,Electronics,Audio  ,TerraNova,SUP-0017,368.74,761.65,Active
+PROD-0013,Prime Sensor 013,Apparel,Bags,,SUP-0051,21.88,45.88,Discontinued
+PROD-0014,Max Label Roll 014,Healthcare,Storage,BlueArc,SUP-0049,70.3,107.6,Active
+PROD-0015,Flex Cable 015,Outdoor,Travel,Vertex,SUP-0074,14.11,27.54,Active
+PROD-0016,Prime Label Roll 016,Apparel,Footwear,NorthPeak,SUP-0054,493.13,1234.59,Active
+PROD-0017,Pro Hand Truck 017,Packaging,Labels,,SUP-0015,64.49,97.03,Active
+PROD-0018,Edge Helmet 018,Automotive,TOOLS,ProLine,SUP-0073,7.21,18.07,Discontinued
+PROD-0019,Select Cable 019,Packaging,Labels,NorthPeak,SUP-0031,12.64,16.91,Discontinued
+PROD-0020,Eco Gloves 020,Industrial,Safety,ProLine,SUP-0017,3.83,8.41,Active
+PROD-0021,Select Storage Bin 021,Healthcare,PPE,,SUP-0025,4.02,9.48,Discontinued
+PROD-0022,Advance Lamp 022,Industrial,Safety,BlueArc,SUP-0063,109.65,230.04,Active
+PROD-0023,Flex Chair 023,Packaging,Cartons,TerraNova,SUP-0041,107.55,174.57,Discontinued
+PROD-0024,Eco Chair 024,Healthcare,Clinical Supplies,OmniWorks,SUP-0062,304.13,796.37,Active
+PROD-0025,Vision Gloves 025,Home & Office,Storage,Everwell,SUP-0040,510.6,813.52,Active
+PROD-0026,Max Safety Shoe 026,Home & Office,Office Supplies,TerraNova,SUP-0030,13.31,19.31,Active
+PROD-0027,Prime Desk 027,Industrial,Safety,Vertex,SUP-0068,396.41,822.93,Active
+PROD-0028,Essential Sensor 028,Home & Office,Storage  ,NorthPeak,SUP-0027,651.37,1159.47,Active
+PROD-0029,Ultra Gloves 029,Outdoor,Travel,BlueArc,SUP-0025,162.6,210.11,Active
+PROD-0030,Flex Label Roll 030,Industrial,Safety,,SUP-0008,39.98,56.69,Active
+PROD-0031,Edge Battery Pack 031,Apparel,Protective Clothing,Vertex,SUP-0003,31.4,44.88,Active
+PROD-0032,Advance Desk 032,Home & Office,Storage,Vertex,SUP-0068,96.61,207.07,Active
+PROD-0033,Prime Helmet 033,Home & Office,Furniture,BrightPath,SUP-0020,38.2,75.33,Active
+PROD-0034,  Flex Safety Shoe 034,Apparel,Workwear,BrightPath,SUP-0051,4.79,12.21,Discontinued
+PROD-0035,Ultra Work Jacket 035,Electronics,Accessories,OmniWorks,SUP-0075,20.25,52.25,Active
+PROD-0036,Advance Scanner 036,Outdoor,Garden,CoreAxis,SUP-0029,13.13,19.6,Discontinued
+PROD-0037,Prime Lamp 037,Packaging,Cartons,Vertex,SUP-0016,250.17,370.38,Active
+PROD-0038,Prime Router 038,Outdoor,Travel,TerraNova,SUP-0035,32.81,44.58,Active
+PROD-0039,Core Safety Shoe 039,Home & Office,Furniture,CoreAxis,SUP-0019,85.85,199.47,Active
+PROD-0040,Advance Lamp 040,Outdoor,Camping,Apex,SUP-0037,11.45,17.42,Discontinued
+PROD-0041,Advance Scanner 041,Industrial,Components,NorthPeak,SUP-0031,11.9,20.41,Active
+PROD-0042,Advance Shipping Box 042,HOME & OFFICE,Lighting,BrightPath,SUP-0073,656.96,1721.57,Active
+PROD-0043,Edge Work Jacket 043,Healthcare,Cleaning,OmniWorks,SUP-0047,6.8,8.75,Active
+PROD-0044,Vision Safety Shoe 044,Automotive,Accessories,TerraNova,SUP-0009,81.75,189.79,Discontinued
+PROD-0045,Max Desk 045,Apparel,  Bags,CoreAxis,SUP-0040,755.63,1032.07,Active
+PROD-0046,Flex Lamp 046,Packaging,Labels,Everwell,SUP-0024,91.79,145.99,Active
+PROD-0047,Edge Case 047,Apparel,Workwear,Everwell,SUP-0016,14.06,35.13,Active
+PROD-0048,Advance Hand Truck 048,Electronics,Mobile,BlueArc,SUP-0041,99.71,200.27,Active
+PROD-0049,Edge Sensor 049,Apparel,Workwear,  NorthPeak,SUP-0064,207.99,291.1,Active
+PROD-0050,Select Desk 050,Industrial,Tools,Everwell,SUP-0027,5.46,8.83,Active
+PROD-0051,Flex Shipping Box 051,Outdoor,Travel,ProLine,SUP-0064,20.43,28.0,Active
+PROD-0052,Eco Shipping Box 052,Industrial,Safety,ProLine,SUP-0017,19.73,31.6,Discontinued
+PROD-0053,Flex Router 053,AUTOMOTIVE,Accessories,NorthPeak,SUP-0046,86.35,160.37,Active
+PROD-0054,Pro Storage Bin 054,Healthcare,PPE,Vertex,SUP-0023,210.5,314.03,Active
+PROD-0055,Max Label Roll 055,Home & Office,Lighting,CoreAxis,SUP-0074,117.84,172.44,Active
+PROD-0056,Core Desk 056,Apparel,  Protective Clothing,CoreAxis,SUP-0020,901.19,1645.38,Discontinued
+PROD-0057,Vision Cable 057,Industrial,Safety,Vertex,SUP-0046,49.99,129.86,Active
+PROD-0058,Max Gloves 058,Apparel,Footwear,Apex,SUP-0023,350.7,596.34,Active
+PROD-0059,Edge Helmet 059,Outdoor,Garden,TerraNova,SUP-0005,30.44,72.89,Discontinued
+PROD-0060,Pro Hand Truck 060,Automotive,Maintenance,BlueArc,SUP-0021,532.73,990.2,Active
+PROD-0061,Select Monitor 061,Automotive,Maintenance,TerraNova,SUP-0072,141.86,322.59,Active
+PROD-0062,Advance Headset 062,Home & Office,Storage,BrightPath,SUP-0042,659.74,1461.61,Discontinued
+PROD-0063,Max Router 063,Outdoor,Travel,Vertex,SUP-0066,17.06,23.57,Active
+PROD-0064,Prime Gloves 064,Home & Office,Lighting,Vertex,SUP-0046,521.16,1121.12,Discontinued
+PROD-0065,Max Lamp 065,Electronics,Accessories,BrightPath,SUP-0062,68.61,101.89,Active
+PROD-0066,Core Scanner 066,Home & Office,Furniture,APEX,SUP-0030,495.18,931.46,Active
+PROD-0067,Max Monitor 067,Home & Office,Lighting,NorthPeak,SUP-0037,89.05,131.59,Discontinued
+PROD-0068,Advance Storage Bin 068,Apparel,Protective Clothing,OmniWorks,SUP-0073,290.87,419.62,Active
+PROD-0069,Essential Desk 069,Industrial,Safety,OmniWorks,SUP-0035,73.93,175.26,Active
+PROD-0070,Vision Router 070,Home & Office,Storage,NorthPeak,SUP-0001,777.09,1070.04,Active
+PROD-0071,Max Headset 071,Electronics,Mobile,ProLine,SUP-0012,253.25,603.06,Active
+PROD-0072,Ultra Sensor 072,Outdoor,Camping,ProLine,SUP-0059,16.39,24.2,Discontinued
+PROD-0073,Ultra Desk 073,Electronics,Accessories,CoreAxis,SUP-0024,7.0,9.07,Active
+PROD-0074,Advance Monitor 074,Healthcare,Storage,CoreAxis,SUP-0070,41.19,61.69,Discontinued
+PROD-0075,Advance Router 075,Packaging,Labels,Everwell,SUP-0012,526.6,979.08,Discontinued
+PROD-0076,Ultra Monitor 076,Packaging,Protective Packaging,Vertex,SUP-0019,28.09,45.06,Active
+PROD-0077,Vision Desk 077,INDUSTRIAL ,Safety,Everwell,SUP-0059,101.16,186.07,Active
+PROD-0078,eco scanner 078,Healthcare,PPE,TerraNova,SUP-0056,157.04,208.24,Discontinued
+PROD-0079,Vision Battery Pack 079,Automotive,Accessories,Apex,SUP-0045,46.2,100.71,Discontinued
+PROD-0080,Essential Scanner 080  ,Electronics,Mobile,NorthPeak,SUP-0050,33.18,61.71,Active
+PROD-0081,Edge Battery Pack 081,Automotive,Parts,CoreAxis,SUP-0029,7.24,16.27,Active
+PROD-0082,Eco Storage Bin 082,Apparel,Workwear,Vertex,SUP-0060,168.18,326.07,Discontinued
+PROD-0083,Prime Helmet 083,Apparel,Protective Clothing,CoreAxis,SUP-0073,673.14,1409.89,Active
+PROD-0084,Prime Headset 084,Automotive,Accessories,Everwell,SUP-0040,9.31,13.67,Active
+PROD-0085,Vision Chair 085,Home & Office,Lighting,Apex,SUP-0034,464.24,945.03,Active
+PROD-0086,Ultra Sensor 086,Healthcare,Cleaning,TerraNova,SUP-0029,10.86,23.9,Active
+PROD-0087,Max Lamp 087,Packaging,Pallets,TerraNova,SUP-0067,76.7,135.19,Active
+PROD-0088,Max Chair 088,Home & Office,Office Supplies,NorthPeak,SUP-0015,12.98,32.61,Discontinued
+PROD-0089,Essential Tool Kit 089,Electronics,Accessories,BrightPath,SUP-0061,82.9,108.55,Active
+PROD-0090,ULTRA MONITOR 090,Industrial,Safety,BlueArc,SUP-0029,158.5,274.12,Active
+PROD-0091,Eco Storage Bin 091,Electronics,Computing,OmniWorks,SUP-0046,7.01,14.57,Discontinued
+PROD-0092,Vision Label Roll 092,Apparel,Bags,BrightPath,SUP-0011,27.09,39.49,Active
+PROD-0093,Eco Storage Bin 093,Home & Office,Lighting,Apex,SUP-0029,683.74,923.15,Active
+PROD-0094,Prime Cable 094,Electronics,Computing,NorthPeak,SUP-0025,1279.74,1655.67,Active
+PROD-0095,Max Case 095,Healthcare,Cleaning  ,CoreAxis,SUP-0051,570.36,1395.46,Active
+PROD-0096,Eco Gloves 096,Electronics,Mobile,Vertex,SUP-0012,8.47,16.87,Discontinued
+PROD-0097,Select Battery Pack 097,Healthcare,Cleaning,NorthPeak,SUP-0069,66.93,159.81,Active
+PROD-0098,Max Hand Truck 098,Electronics,Computing,OmniWorks,SUP-0021,489.35,780.83,Active
+PROD-0099,Core Gloves 099,Apparel,Footwear,BrightPath,SUP-0014,67.34,150.95,Active
+PROD-0100,Ultra Monitor 100,Apparel,Workwear,BlueArc,SUP-0055,14.01,31.54,Discontinued
+PROD-0101,Edge Headset 101,Packaging,Cartons,OmniWorks,SUP-0008,495.38,807.22,Active
+PROD-0102,Ultra Scanner 102,Outdoor,Garden,TerraNova,SUP-0063,213.71,428.79,Active
+PROD-0103,Ultra Case 103,Apparel,Workwear,Everwell,SUP-0075,32.38,59.75,Active
+PROD-0104,Eco Cable 104,Home & Office,Storage,OmniWorks,SUP-0053,338.04,490.66,Active
+PROD-0105,Edge Safety Shoe 105,Healthcare,PPE,CoreAxis,SUP-0024,18.55,24.52,Active
+PROD-0106,Essential Hand Truck 106,Electronics,Accessories,ProLine,SUP-0044,11.36,15.38,Active
+PROD-0107,Essential Lamp 107,Industrial,Tools,TerraNova,SUP-0033,6.69,13.78,Active
+PROD-0108,Ultra Router 108,Apparel,Protective Clothing,Vertex,SUP-0007,354.08,783.72,Active
+PROD-0109,Ultra Storage Bin 109,Healthcare,PPE,NorthPeak,SUP-0010,42.07,75.14,Discontinued
+PROD-0110,Prime Scanner 110,Electronics,Accessories,CoreAxis,SUP-0033,20.06,30.2,Active
+PROD-0111,Eco Chair 111,Industrial,Components,BrightPath,SUP-0032,587.23,804.61,Active
+PROD-0112,Max Monitor 112,Healthcare,Clinical Supplies,BrightPath,SUP-0034,29.77,50.26,Discontinued
+PROD-0113,Eco Monitor 113,Apparel,Footwear,Everwell,SUP-0003,14.68,30.72,Active
+PROD-0114,Pro Case 114,Healthcare,CLEANING,BrightPath,SUP-0045,14.49,19.16,Active
+PROD-0115,Advance Battery Pack 115,Packaging,Labels,Apex,SUP-0041,678.02,981.3,Discontinued
+PROD-0116,Max Battery Pack 116,Apparel,Bags,OmniWorks,SUP-0003,76.09,132.05,Discontinued
+PROD-0117,Essential Hand Truck 117,Home & Office,Storage,CoreAxis,SUP-0021,83.83,140.98,Active
+PROD-0118,Select Label Roll 118,Outdoor,Camping,Vertex,SUP-0041,36.43,84.19,Discontinued
+PROD-0119,Ultra Battery Pack 119,Apparel,Protective Clothing,CoreAxis,SUP-0024,12.02,15.8,Active
+PROD-0120,Select Label Roll 120,Automotive,Tools,Apex,SUP-0014,82.88,108.87,Active
+PROD-0121,Prime Sensor 121,Electronics,Audio,BlueArc,SUP-0020,11.67,19.4,Active
+PROD-0122,Essential Tool Kit 122,Industrial,Safety,Vertex,SUP-0070,11.86,24.64,Discontinued
+PROD-0123,Prime Monitor 123,Healthcare,Storage,TerraNova,SUP-0040,4.02,9.41,Active
+PROD-0124,Pro Work Jacket 124,Industrial,Safety,TerraNova,SUP-0041,583.54,1147.32,Active
+PROD-0125,Prime Work Jacket 125,Automotive,Tools,Vertex,SUP-0024,122.0,215.54,Active
+PROD-0126,Max Cable 126,Industrial,Equipment,Everwell,SUP-0033,41.49,69.99,Active
+PROD-0127,Eco Safety Shoe 127,Home & Office,Lighting,BlueArc,SUP-0058,17.11,22.06,Active
+PROD-0128,Vision Shipping Box 128,Automotive,Accessories,TerraNova  ,SUP-0056,455.26,672.82,Discontinued
+PROD-0129,Eco Cable 129,Automotive,Maintenance,Vertex,SUP-0025,44.7,101.32,Discontinued
+PROD-0130,Pro Label Roll 130,Apparel,Workwear,TerraNova,SUP-0071,605.04,1171.29,Active
+PROD-0131,Flex Lamp 131,Packaging,Labels,ProLine,SUP-0056,5.42,10.49,Active
+PROD-0132,Ultra Helmet 132,Healthcare,Storage,TerraNova,SUP-0050,371.97,591.29,Active
+PROD-0133,Flex Desk 133,Apparel,Protective Clothing,BrightPath,SUP-0059,325.62,466.87,Active
+PROD-0134,Core Tool Kit 134,Apparel,Protective Clothing,TerraNova,SUP-0026,18.9,25.21,Active
+PROD-0135,Advance Hand Truck 135,Industrial,Safety,ProLine,SUP-0009,54.52,85.77,Discontinued
+PROD-0136,Flex Safety Shoe 136,Packaging,CARTONS,Vertex,SUP-0067,6.3,8.1,Active
+PROD-0137,Select Lamp 137,Outdoor,Travel,TerraNova,SUP-0046,14.83,36.63,Discontinued
+PROD-0138,Essential Safety Shoe 138,Apparel,Bags,Vertex,SUP-0049,41.31,95.72,Active
+PROD-0139,Max Lamp 139,Automotive,Tools,Apex,SUP-0065,11.56,18.26,Active
+PROD-0140,Ultra Lamp 140,Packaging,Protective Packaging,Everwell,SUP-0075,50.31,67.19,Active
+PROD-0141,Advance Safety Shoe 141,Healthcare,Cleaning,Everwell,SUP-0057,30.21,45.06,Discontinued
+PROD-0142,Core Monitor 142,Healthcare,PPE,Everwell,SUP-0074,62.59,97.2,Active
+PROD-0143,Select Shipping Box 143,Automotive,Accessories,BrightPath,SUP-0037,117.19,205.91,Discontinued
+PROD-0144,Flex Sensor 144,Packaging,Labels,CoreAxis,SUP-0034,710.18,1373.43,Active
+PROD-0145,Vision Cable 145,Packaging,Cartons,,SUP-0022,13.6,20.89,Active
+PROD-0146,Flex Gloves 146,ELECTRONICS,Computing,Northpeak,SUP-0023,309.64,781.73,Active
+PROD-0147,Core Chair 147,out door,Garden,NorthPeak,SUP-0040,67.32,91.35,Active
+PROD-0148,Eco Chair 148,Healthcare,Cleaning,,SUP-0058,360.24,463.8,Active
+PROD-0149,PRO ROUTER 149,Electronics,Audio,CoreAxis,SUP-0046,91.62,142.26,Active
+PROD-0150,Flex Tool Kit 150,Electronics,Mobile,TerraNova,SUP-0038,31.25,41.17,Discontinued
+PROD-0151,Core Safety Shoe 151,Healthcare,PPE,Vertex,SUP-0005,39.3,58.18,Active
+PROD-0152,Flex Storage Bin 152,Home & Office,Office Supplies,Everwell,SUP-0033,42.94,71.01,Active
+PROD-0153,Edge Case 153,Electronics,Accessories,OmniWorks,SUP-0005,230.27,394.59,Discontinued
+PROD-0154,Select Label Roll 154,Industrial,Tools,OmniWorks,SUP-0023,596.05,1088.23,Active
+PROD-0155,Vision Monitor 155,Industrial,Safety,ProLine,SUP-0034,137.58,266.15,Discontinued
+PROD-0156,Flex Tool Kit 156,Outdoor,Fitness,CoreAxis,SUP-0022,40.57,72.97,Active
+PROD-0157,Essential Monitor 157,Apparel,Footwear,OmniWorks,SUP-0022,6.59,15.81,Active
+PROD-0158,Flex Gloves 158,Electronics,Computing,ProLine,SUP-0019,190.91,297.27,Discontinued
+PROD-0159,Flex Case 159,Healthcare,Clinical Supplies,OmniWorks,SUP-0042,112.49,289.98,Active
+PROD-0160,Vision Tool Kit 160,Industrial,Tools,BlueArc,SUP-0065,21.53,46.9,Active
+PROD-0161,Vision Desk 161,Healthcare,Cleaning,NorthPeak,SUP-0012,392.04,541.31,Active
+PROD-0162,Prime Case 162,Healthcare,Storage,Vertex,SUP-0068,19.69,30.43,Active
+PROD-0163,Select Storage Bin 163,Home & Office,Storage,Everwell,SUP-0027,7.9,16.12,Active
+PROD-0164,Edge Shipping Box 164,Packaging,Labels,BlueArc,SUP-0009,8.36,16.95,Active
+PROD-0165,Flex Scanner 165,Apparel,Footwear,TerraNova,SUP-0023,230.06,309.17,Discontinued
+PROD-0166,Pro Tool Kit 166,Healthcare,Clinical Supplies,Vertex,SUP-0040,14.3,23.96,Discontinued
+PROD-0167,Essential Helmet 167,Packaging,Labels,CoreAxis,SUP-0046,271.87,357.18,Discontinued
+PROD-0168,Prime Case 168,Healthcare,Clinical Supplies,BrightPath,SUP-0051,104.99,217.8,Active
+PROD-0169,Ultra Work Jacket 169,Outdoor,Travel,BrightPath,SUP-0044,120.33,236.77,Active
+PROD-0170,Select Scanner 170,Electronics,Audio,TerraNova,SUP-0044,853.91,1581.69,Active
+PROD-0171,Core Lamp 171,Home & Office,Furniture,Everwell,SUP-0066,127.53,327.6,Active
+PROD-0172,Edge Cable 172,Healthcare,Cleaning,OmniWorks,SUP-0074,50.99,69.84,Active
+PROD-0173,Vision Scanner 173,Industrial,Safety,TerraNova,SUP-0010,121.55,218.0,Active
+PROD-0174,Advance Lamp 174,Outdoor,Travel,,SUP-0043,918.08,1272.29,Active
+PROD-0175,Select Case 175,Outdoor,Garden,TerraNova,SUP-0067,27.39,45.81,Active
+PROD-0176,Eco Router 176,Home & Office,Office Supplies,TerraNova,SUP-0011,71.88,113.57,Active
+PROD-0177,Prime Label Roll 177,Healthcare,Ppe,CoreAxis,SUP-0022,23.34,48.86,Active
+PROD-0178,Vision Scanner 178,Healthcare,Storage,CoreAxis,SUP-0048,840.74,1121.66,Active
+PROD-0179,Eco Battery Pack 179,packaging,Cartons,  BrightPath,SUP-0016,594.23,770.44,Active
+PROD-0180,Ultra Hand Truck 180,Home & Office,Furniture,OmniWorks,SUP-0032,310.23,452.32,Discontinued
+PROD-0181,Eco Shipping Box 181,Electronics,Audio,BlueArc,SUP-0042,284.72,497.55,Active
+PROD-0182,Ultra Battery Pack 182,Industrial,Components,TerraNova,SUP-0049,45.13,94.79,Discontinued
+PROD-0183,Select Router 183,Industrial,Equipment,Apex,SUP-0008,130.34,262.92,Active
+PROD-0184,Flex Desk 184,Packaging,Protective Packaging,OmniWorks,SUP-0049,19.86,32.32,Active
+PROD-0185,Essential Storage Bin 185,Healthcare,Clinical Supplies,CoreAxis,SUP-0018,34.46,73.7,Active
+PROD-0186,Max Battery Pack 186  ,Healthcare,Storage,BrightPath,SUP-0044,481.37,664.66,Active
+PROD-0187,Core Desk 187,Outdoor,Travel,BrightPath,SUP-0014,7.6,19.84,Discontinued
+PROD-0188,Essential Hand Truck 188,Packaging,Labels,NorthPeak,SUP-0016,34.53,49.4,Active
+PROD-0189,Max Safety Shoe 189,Apparel ,Workwear,Vertex,SUP-0066,327.94,753.32,Active
+PROD-0190,Advance Case 190,Outdoor,Garden,Apex,SUP-0074,226.03,530.24,Discontinued
+PROD-0191,Edge Work Jacket 191,Electronics,Accessories,NorthPeak,SUP-0023,51.57,66.16,Active
+PROD-0192,Essential Storage Bin 192,Healthcare,Cleaning,TerraNova,SUP-0059,10.02,22.7,Active
+PROD-0193,Edge Case 193,HEALTHCARE ,PPE,BlueArc,SUP-0050,49.6,78.99,Active
+PROD-0194,Prime Router 194,Electronics,Computing,Apex,SUP-0057,966.59,1251.53,Active
+PROD-0195,Ultra Work Jacket 195,Apparel,FOOTWEAR,NorthPeak,SUP-0015,5.08,11.67,Active
+PROD-0196,Pro Cable 196,Apparel,Protective Clothing,NorthPeak,SUP-0009,282.94,579.5,Active
+PROD-0197,Vision Scanner 197,Apparel,Workwear,,SUP-0036,622.63,964.75,Active
+PROD-0198,Eco Safety Shoe 198,Electronics,Audio,Vertex,SUP-0031,10.45,14.66,Active
+PROD-0199,Eco Lamp 199,Electronics,Accessories,Everwell,SUP-0060,11.42,20.79,Active
+PROD-0200,Eco Work Jacket 200,Healthcare,Clinical Supplies,Vertex,SUP-0064,92.38,159.2,Active
+PROD-0201,Prime Monitor 201,Industrial,Tools,BrightPath,SUP-0069,210.85,328.9,Active
+PROD-0202,Prime Work Jacket 202,Electronics,Computing,NorthPeak,SUP-0052,1344.38,1724.07,Discontinued
+PROD-0203,MAX SCANNER 203,Industrial,Safety,BrightPath,SUP-0009,54.85,131.19,Active
+PROD-0204,CORE SENSOR 204,Apparel,Protective Clothing,BlueArc,SUP-0018,317.67,412.2,Active
+PROD-0205,Edge Router 205,Electronics,Audio,ProLine,SUP-0012,25.32,44.86,Active
+PROD-0206,Vision Scanner 206,Apparel,Protective Clothing,Vertex,SUP-0004,31.98,79.84,Active
+PROD-0207,Eco Headset 207,Packaging,Protective Packaging,BlueArc,SUP-0001,159.04,305.06,Discontinued
+PROD-0208,Ultra Headset 208  ,Outdoor,Garden,Vertex,SUP-0019,405.83,569.31,Active
+PROD-0209,Max Label Roll 209,Automotive,Maintenance,NorthPeak,SUP-0040,373.68,683.56,Discontinued
+PROD-0210,Flex Lamp 210  ,Healthcare,Clinical Supplies,Apex,SUP-0061,31.02,45.65,Discontinued
+PROD-0211,Vision Tool Kit 211,HOME & OFFICE,Storage,OmniWorks,SUP-0045,353.92,613.91,Active
+PROD-0212,Max Chair 212,Automotive,Maintenance,CoreAxis,SUP-0012,441.27,1008.47,Active
+PROD-0213,Eco Tool Kit 213,Automotive,Tools,TerraNova,SUP-0066,391.25,935.02,Discontinued
+PROD-0214,Edge Work Jacket 214,Industrial,Tools,ProLine,SUP-0066,10.9,18.37,Active
+PROD-0215,Vision Chair 215,Healthcare,PPE,BlueArc,SUP-0006,4.62,11.53,Active
+PROD-0216,Flex Lamp 216,Automotive,Parts,Apex,SUP-0035,4.45,8.02,Discontinued
+PROD-0217,Pro Shipping Box 217,Outdoor,Fitness,Everwell,SUP-0019,209.2,531.06,Active
+PROD-0218,Max Router 218,Industrial,Safety,NorthPeak,SUP-0043,194.14,273.73,Active
+PROD-0219,Pro Scanner 219,Apparel,Footwear,BrightPath,SUP-0015,8.72,19.87,Active
+PROD-0220,Select Case 220,Electronics,  Audio,Vertex,SUP-0018,600.69,846.94,Discontinued
+PROD-0221,Eco Sensor 221,Apparel,Protective Clothing,CoreAxis,SUP-0002,104.86,148.18,Active
+PROD-0222,Core Headset 222,Outdoor,Camping,CoreAxis,SUP-0066,7.11,13.22,Active
+PROD-0223,Flex Chair 223,Apparel,Footwear,BlueArc,SUP-0011,210.12,435.04,Active
+PROD-0224,Eco Case 224,Home & Office,Lighting,Vertex,SUP-0025,273.77,470.66,Active
+PROD-0225,Essential Router 225,Electronics,Audio,OmniWorks,SUP-0074,263.37,465.43,Active
+PROD-0226,Flex Headset 226,Outdoor,Garden,Everwell,SUP-0003,27.44,58.68,Active
+PROD-0227,Max Helmet 227,Home & Office,Office Supplies,Vertex,SUP-0051,16.83,24.73,Active
+PROD-0228,Core Desk 228,Electronics,Mobile,OmniWorks,SUP-0025,6.31,15.23,Discontinued
+PROD-0229,Ultra Storage Bin 229,OUTDOOR,Travel,TerraNova,SUP-0071,9.36,20.79,Active
+PROD-0230,Advance Headset 230,Home & Office,Furniture,OmniWorks,SUP-0037,372.48,690.54,Discontinued
+PROD-0231,Pro Battery Pack 231,Home & Office,Furniture,NorthPeak,SUP-0072,743.08,1708.69,Active
+PROD-0232,Select Monitor 232,Industrial,Equipment,Vertex,SUP-0055,154.22,275.64,Active
+PROD-0233,Max Monitor 233,Packaging,Cartons,ProLine,SUP-0056,49.05,67.19,Active
+PROD-0234,Prime Work Jacket 234,Apparel,Bags,Vertex,SUP-0054,1149.96,1577.14,Active
+PROD-0235,Pro Chair 235,Outdoor,fitness,Apex,SUP-0040,10.62,22.67,Discontinued
+PROD-0236,Ultra Storage Bin 236,Industrial,Components,Vertex,SUP-0041,138.5,279.44,Active
+PROD-0237,Advance Cable 237,Industrial,Equipment,BrightPath,SUP-0052,259.53,427.86,Active
+PROD-0238,Select Lamp 238,Industrial,Components,TerraNova,SUP-0035,112.48,158.1,Active
+PROD-0239,Select Cable 239,Healthcare,Storage,BlueArc,SUP-0039,146.61,375.31,Discontinued
+PROD-0240,Max Helmet 240,Outdoor,Travel,BrightPath,SUP-0049,6.49,10.46,Active
+PROD-0241,Select Label Roll 241,Home & Office,Office Supplies,OmniWorks,SUP-0033,53.9,111.35,Active
+PROD-0242,Advance Case 242,Electronics,Accessories,CoreAxis,SUP-0026,52.77,77.24,Active
+PROD-0243,Ultra Monitor 243,Industrial,Equipment,CoreAxis,SUP-0065,425.42,703.77,Active
+PROD-0244,Vision Headset 244,Home & Office,Lighting,NorthPeak,SUP-0013,31.49,64.5,Active
+PROD-0245,Select Cable 245,Electronics,Computing,BlueArc,SUP-0024,68.36,135.13,Active
+PROD-0246,Eco Work Jacket 246,Electronics,Audio,,SUP-0031,110.48,169.8,Discontinued
+PROD-0247,Eco Shipping Box 247,Industrial,Safety,Apex,SUP-0058,4.35,11.44,Active
+PROD-0248,Prime Scanner 248,Home & Office,Furniture,BlueArc,SUP-0064,18.64,25.26,Active
+PROD-0249,Pro Chair 249,Healthcare,Storage,OmniWorks,SUP-0007,118.94,265.02,Active
+PROD-0250,Advance Battery Pack 250,Home & Office,Lighting,,SUP-0016,564.27,993.47,Active
+PROD-0251,Essential Helmet 251,Apparel,Protective Clothing,Vertex,SUP-0057,79.52,105.43,Active
+PROD-0252,Edge Lamp 252,Healthcare,Clinical Supplies,BlueArc,SUP-0071,5.15,11.04,Active
+PROD-0253,Max Router 253,Healthcare,Clinical Supplies,Everwell,SUP-0016,87.5,190.96,Active
+PROD-0254,Ultra Scanner 254,Healthcare,Cleaning,NorthPeak,SUP-0037,147.74,317.29,Active
+PROD-0255,Edge Shipping Box 255  ,Packaging,Protective Packaging,Vertex,SUP-0051,6.34,13.69,Active
+PROD-0256,flex sensor 256,Industrial,Safety,ProLine,SUP-0061,35.57,78.97,Active
+PROD-0257,Advance Storage Bin 257,Automotive,Tools,OmniWorks,SUP-0019,12.01,16.59,Active
+PROD-0258,Eco Chair 258,Packaging,Cartons,NorthPeak,SUP-0002,23.79,45.37,Active
+PROD-0259,Pro Shipping Box 259,Apparel,Bags,BlueArc,SUP-0029,5.64,10.79,Active
+PROD-0260,Core Desk 260,Outdoors,Garden,BlueArc,SUP-0041,20.95,33.57,Active
+PROD-0261,Select Storage Bin 261,Electronics,Computing,TerraNova,SUP-0038,17.89,24.33,Discontinued
+PROD-0262,Advance Lamp 262,Apparel,Footwear,  OmniWorks,SUP-0036,516.43,1229.8,Discontinued
+PROD-0263,Max Safety Shoe 263,Automotive,Accessories,BlueArc,SUP-0032,6.1,14.31,Active
+PROD-0264,Max Hand Truck 264,Packaging,Cartons,BlueArc,SUP-0048,98.33,229.31,Discontinued
+PROD-0265,Essential Case 265,Home & Office,Lighting,CoreAxis,SUP-0030,551.63,809.19,Discontinued
+PROD-0266,Prime Tool Kit 266,Electronics,Computing,BrightPath,SUP-0060,400.49,678.31,Active
+PROD-0267,Select Battery Pack 267,Electronics,Mobile,BlueArc,SUP-0034,703.04,1767.9,Discontinued
+PROD-0268,Advance Scanner 268,Apparel,Protective Clothing,NorthPeak,SUP-0057,35.82,70.3,Active
+PROD-0269,Core Label Roll 269,Home & Office,Lighting,Vertex,SUP-0051,832.41,1362.94,Discontinued
+PROD-0270,Max Hand Truck 270,Industrial,equipment,vertex,SUP-0027,282.36,630.08,Active
+PROD-0271,Eco Router 271,Healthcare,PPE,ProLine,SUP-0018,929.04,1603.3,Active
+PROD-0272,Core Headset 272,Industrial,Tools,NorthPeak,SUP-0067,89.1,115.96,Discontinued
+PROD-0273,Pro Label Roll 273,Apparel,Footwear,NorthPeak,SUP-0019,33.9,62.9,Discontinued
+PROD-0274,Eco Desk 274,Apparel,Protective Clothing,Everwell,SUP-0041,81.89,189.9,Active
+PROD-0275,Edge Scanner 275,Packaging,Pallets,OmniWorks,SUP-0021,20.82,45.53,Discontinued
+PROD-0276,Ultra Shipping Box 276,Home & Office,Furniture,Vertex,SUP-0027,10.17,14.0,Active
+PROD-0277,Max Gloves 277,Electronics,Computing,OmniWorks,SUP-0063,101.9,194.67,Discontinued
+PROD-0278,Select Headset 278,Home & Office,Storage,OmniWorks,SUP-0035,40.43,73.17,Discontinued
+PROD-0279,Essential Cable 279,Apparel,Workwear,,SUP-0075,185.29,246.82,Active
+PROD-0280,Max Headset 280,Industrial,Safety,,SUP-0035,671.13,1250.71,Active
+PROD-0281,Edge Desk 281,Automotive,Accessories,NorthPeak,SUP-0011,26.68,47.6,Discontinued
+PROD-0282,Pro Label Roll 282,Apparel,Protective Clothing,Vertex,SUP-0059,97.91,173.37,Active
+PROD-0283,Flex Sensor 283,Outdoor,Garden,Everwell,SUP-0056,170.62,283.53,Active
+PROD-0284,Vision Scanner 284,Electronics,Computing,OmniWorks,SUP-0071,23.55,45.44,Active
+PROD-0285,Eco Lamp 285,Home & Office,Office Supplies,Vertex,SUP-0012,25.98,62.17,Active
+PROD-0286,Ultra Storage Bin 286,Home & Office,Storage,NorthPeak,SUP-0056,13.16,19.67,Discontinued
+PROD-0287,Advance Label Roll 287,Healthcare,Storage,OmniWorks,SUP-0063,30.66,65.81,Active
+PROD-0288,Edge Monitor 288,Packaging,Cartons,,SUP-0064,114.95,168.5,Active
+PROD-0289,Max Scanner 289,Automotive,Maintenance,Vertex,SUP-0022,22.92,32.25,Active
+PROD-0290,Prime Helmet 290,Home & Office,Lighting,CoreAxis,SUP-0021,752.34,1215.49,Active
+PROD-0291,Ultra Cable 291  ,Apparel,Footwear,OmniWorks,SUP-0043,120.16,299.62,Active
+PROD-0292,Vision Helmet 292,Electronics,Audio,NorthPeak,SUP-0052,719.6,1340.06,Active
+PROD-0293,Ultra Router 293,Apparel,Footwear,CoreAxis,SUP-0001,729.01,1191.99,Active
+PROD-0294,Select Gloves 294,Packaging,Labels,CoreAxis,SUP-0043,3.24,8.2,Discontinued
+PROD-0295,Pro Chair 295,Packaging,Labels,ProLine,SUP-0048,192.91,318.83,Active
+PROD-0296,Pro Work Jacket 296,Industrial,Safety,Apex,SUP-0044,6.26,9.24,Active
+PROD-0297,Flex Battery Pack 297,Industrial,Tools,BrightPath,SUP-0055,467.57,808.15,Active
+PROD-0298,Max Shipping Box 298,Healthcare,Cleaning,Vertex,SUP-0055,38.1,99.69,Active
+PROD-0299,Pro Monitor 299,Healthcare,Clinical Supplies,Everwell,SUP-0018,290.37,566.81,Active
+PROD-0300,Max Chair 300,Electronics,Computing,OmniWorks,SUP-0027,494.01,933.47,Active
+PROD-UNKNOWN,Unknown Product,Unknown,Unknown,Unknown,SUP-0001,,,Unknown
+PROD-0178,Vision Scanner 178,Healthcare,Storage,CoreAxis,SUP-0048,840.74,1121.66,Active

@@ -1,0 +1,1206 @@
+﻿CustomerID,CustomerName,Email,City,StateProvince,Country,Segment,RegistrationDate,IsActive
+CUST-00001,Lee Green,lee.green1@example.com,Mumbai,Maharashtra,  India,Small Business,"Jun 03, 2024",No
+CUST-00002,Morgan Baker,morgan.baker2@example.com,Chicago,IL,United States,Enterprise,"Aug 07, 2022",No
+CUST-00003,Lee Martin,lee.martin3@example.com,Bengaluru,Karnataka,India,Corporate,06.05.2022,Yes
+CUST-00004,Cameron Young,cameron.young4@example.com,Cairo,Cairo,Egypt,Consumer,28.05.2019,No
+CUST-00005,Chris Saleh,chris.saleh5@example.com,SEETTLE,WA,United States,Enterprise,"Sep 05, 2021",N
+CUST-00006,Jamie Adams,jamie.adams6@example.com,Giza,Giza,Egypt,Consumer,"Oct 20, 2024",Y
+CUST-00007,Lina Saleh,lina.saleh7@example.com,Seattle,WA,United States,Small Business,26.02.2018,Yes
+CUST-00008,Cameron Brown,cameron.brown8@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,09/01/2024,Yes
+CUST-00009,Casey Lewis,casey.lewis9@example.com,Bengaluru,Karnataka,India,Enterprise,2021-11-30, yes 
+CUST-00010,Morgan Saleh,,Jeddah,Makkah,Saudi Arabia,Small Business,18-Sep-2023, yes 
+CUST-00011,Lina Johnson,lina.johnson11@example.com,Cairo,cairo,Egypt,Corporate,08.04.2023,N
+CUST-00012,Kareem Hassan,kareem.hassan12@example.com,Chicago,IL,United States,Enterprise,2021-06-07,Yes
+CUST-00013,Lee Saleh,lee.saleh13@example.com,Mumbai,Maharashtra,India,Consumer,"Jun 14, 2020",N
+CUST-00014,Alex Hassan,alex.hassan14@example.com,Bengaluru,Karnataka,India,Small Business,2022-12-25,Yes
+CUST-00015,Drew Mitchell,drew.mitchell15@example.com,Chicago,IL,United States,Enterprise,11/02/2019,Yes
+CUST-00016,Morgan Khan,morgan.khan16@example.com,Alexandria,Alexandria,Egypt,Consumer,2022-08-21, yes 
+CUST-00017,Robin Martin,robin.martin17@example.com,Chicago,IL,United States,Consumer,02.10.2018,Yes
+CUST-00018,Drew Adams,drew.adams18@example.com,Bengaluru,Karnataka,India,Consumer,2023-02-28,Yes
+CUST-00019,Drew Brown,drew.brown19@example.com,Atlanta,GA,United States,Small Business,"Dec 29, 2022",No
+CUST-00020,Daniel Taylor,daniel.taylor20@example.com,London,England,United Kingdom,Consumer,"Sep 02, 2018",No
+CUST-00021,Drew Hall,drew.hall21@example.com,Manchester,England,United Kingdom,Consumer,"Jan 06, 2024",Yes
+CUST-00022,Casey Brown,casey.brown22@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,20-Apr-2021,Y
+CUST-00023,Taylor Ibrahim,taylor.ibrahim23@example.com,Abu Dhabi  ,Abu Dhabi,United Arab Emirates,Corporate,31-Mar-2024,Y
+CUST-00024,Nora Hassan,nora.hassan24@example.com,Chicago,IL,United States,Consumer,01-May-2018,N
+CUST-00025,Sam Green,sam.green25@example.com,Chicago,IL,United States,Small Business,05.06.2019, yes 
+CUST-00026,Sara Khan,sara.khan26@example.com,Berlin,Berlin,Germany,Enterprise,03-Dec-2021,No
+CUST-00027,Morgan Smith,morgan.smith27@example.com,Delhi,delhi,India,Consumer,30.06.2019,Yes
+CUST-00028,Nora Hall,nora.hall28@example.com,Dubai,Dubai,United Arab Emirates,Small Business,14/08/2020, yes 
+CUST-00029,Sam Hassan,sam.hassan29@example.com,Seettle,WA,United States,Corporate,31-Mar-2023,Y
+CUST-00030,Lee Young,lee.young30@example.com,Jeddah,Makkah,saudi arabia,Consumer,24.02.2019,N
+CUST-00031,Casey Adams,casey.adams31@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,20/05/2023,No
+CUST-00032,Taylor Adams,taylor.adams32@example.com,Mumbai,Maharashtra,India,Enterprise,27-Oct-2018,N
+CUST-00033,Omar Johnson,omar.johnson33@example.com,Alexandria,Alexandria,Egypt,Corporate,24.05.2019,Yes
+CUST-00034,Jordan Young,jordan.young34@example.com,Cairo,Cairo,Egypt,Corporate,"Sep 01, 2022", yes 
+CUST-00035,Nora Saleh,nora.saleh35@example.com,Manchester,England,United Kingdom,Corporate,2024-04-20,No
+CUST-00036,Amir Green,amir.green36@example.com,Lyon,Auvergne-Rhone-Alpes,France,Corporate,10-May-2019,Yes
+CUST-00037,Cameron Smith,cameron.smith37@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,19-May-2020,Yes
+CUST-00038,Cameron Mitchell,cameron.mitchell38@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,06/05/2025,Yes
+CUST-00039,Kareem Green,kareem.green39@example.com,Delhi,Delhi,India,Enterprise,10.11.2025, yes 
+CUST-00040,Morgan Baker,morgan.baker40@example.com,Bristol,England,United Kingdom,Consumer,13.08.2022,Yes
+CUST-00041,Lee King,lee.king41@example.com,London,England,United Kingdom,Enterprise,"Jul 20, 2021",Yes
+CUST-00042,Amir Brown,amir.brown42@example.com,Mumbai,Maharashtra,india,Corporate,"Oct 02, 2020",Yes
+CUST-00043,Sara Khan,sara.khan43@example.com,Bristol,England,United Kingdom,Consumer,12-Nov-2022,Yes
+CUST-00044,Robin Taylor,robin.taylor44@example.com,Berlin,Berlin,Germany,Corporate,10/09/2022,N
+CUST-00045,Jordan Young,jordan.young45@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,04/05/2020, yes 
+CUST-00046,Cameron Wilson,cameron.wilson46@example.com,Mumbai,Maharashtra,India,Consumer,2018-03-08,Yes
+CUST-00047,Kareem Green,kareem.green47@example.com,Manchester,England,United Kingdom,Small Business,"Mar 16, 2019",Yes
+CUST-00048,Jordan Adams,jordan.adams48@example.com,Berlin,Berlin,Germany,Consumer,11-Aug-2025,Y
+CUST-00049,Yara Young,yara.young49@example.com,Sharjah,Sharjah,United Arab Emirates,Corporate,"Apr 27, 2021",N
+CUST-00050,Lee Lewis,lee.lewis50@example.com,Delhi,Delhi,India,Small Business,30.10.2021,Yes
+CUST-00051,Taylor Green,taylor.green51@example.com,New York,NY,United States,Consumer,16.09.2021, yes 
+CUST-00052,Drew Ibrahim,drew.ibrahim52@example.com,Mumbai,Maharashtra,India,Enterprise,19-Mar-2024,Y
+CUST-00053,Omar Ibrahim,omar.ibrahim53@example.com,Seattle,WA,UNITED STATES,Consumer,08-Jul-2018,Yes
+CUST-00054,Lina Mitchell,lina.mitchell54@example.com,Chicago,IL,United States,Consumer,28-Aug-2018, yes 
+CUST-00055,Jordan Wilson,jordan.wilson55@example.com,Paris,Ile-de-France,France,Consumer,2020-03-10,Yes
+CUST-00056,sara mitchell,sara.mitchell56@example.com,Hamburg,Hamburg,Germany,Corporate,12-Nov-2021,Yes
+CUST-00057,Nora Green,nora.green57@example.com,London,England,United Kingdom,Consumer,2023-05-01,No
+CUST-00058,Lina Green,lina.green58@example.com,Delhi,Delhi,India,Small Business,24-Nov-2021,Yes
+CUST-00059,Jamie Green,jamie.green59@example.com,Berlin,Berlin,Germany,Small Business,"Jul 03, 2021",Y
+CUST-00060,Robin Foster,robin.foster60@example.com,Austin,TX,United States,Consumer,12.06.2025,No
+CUST-00061,Lee Mitchell,lee.mitchell61@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,12-Apr-2019,Y
+CUST-00062,Taylor Hall,taylor.hall62@example.com,Atlanta,GA,United States,Corporate,17.07.2022,Y
+CUST-00063,Jordan Baker,jordan.baker63@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,22-Apr-2022,N
+CUST-00064,Jordan Lewis,jordan.lewis64@example.com,Chicago,IL,United States,Enterprise,"Oct 05, 2021",Yes
+CUST-00065,Sam Brown,sam.brown65@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,"May 31, 2024",N
+CUST-00066,Drew Foster,drew.foster66@example.com,Austin,TX,United States,Enterprise,"Feb 14, 2020",Yes
+CUST-00067,Maya King,,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,2025-07-28,Y
+CUST-00068,Maya Johnson,maya.johnson68@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,19/08/2020,N
+CUST-00069,Robin Mitchell,robin.mitchell69@example.com,Hamburg,Hamburg,Germany,Enterprise,30.04.2022, yes 
+CUST-00070,Lee Baker,lee.baker70@example.com,Atlanta,GA,United States,Enterprise,18.02.2022, yes 
+CUST-00071,Yara Hassan,yara.hassan71@example.com,London,England,United Kingdom,Consumer,30.09.2024,Yes
+CUST-00072,Jordan Scott,jordan.scott72@example.com,  Lyon,Auvergne-Rhone-Alpes,France,Consumer,26-Jun-2021, yes 
+CUST-00073,Yara Adams  ,yara.adams73@example.com,Berlin,Berlin,Germany,Consumer,05-Apr-2020,Yes
+CUST-00074,Jamie Green,jamie.green74@example.com,London,England,United Kingdom,Consumer,04-Mar-2018,No
+CUST-00075,Jamie Saleh,jamie.saleh75@example.com,Austin,TX,United States,Consumer,2020-11-20,No
+CUST-00076,Amir Scott,amir.scott76@example.com,Mumbai  ,Maharashtra,India,Consumer,24-Jul-2024,Yes
+CUST-00077,Sam Foster,sam.foster77@example.com,Atlanta,GA,United States,Small Business,2018-01-29,Yes
+CUST-00078,Jordan Young,jordan.young78@example.com,Chicago  ,IL,United States,Enterprise,11-Feb-2025,Yes
+CUST-00079,Chris Baker,chris.baker79@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,2022-04-24,No
+CUST-00080,Omar Hall,omar.hall80@example.com,Dubai,Dubai,United Arab Emirates,Corporate,11-Feb-2019,Y
+CUST-00081,Amir Johnson,amir.johnson81@example.com,Lyon,Auvergne-Rhone-Alpes,France,Corporate,26/05/2020,Yes
+CUST-00082,Robin Scott,robin.scott82@example.com,Austin,TX,United States,Consumer,26.05.2022,Yes
+CUST-00083,Morgan Smith,morgan.smith83@example.com,Dubai,Dubai,United Arab Emirates,Small Business,04.07.2020,Yes
+CUST-00084,Lee Martin,lee.martin84@example.com,New York,NY,United States,Consumer,11-Nov-2018,Yes
+CUST-00085,Yara Foster,yara.foster85@example.com,Bengaluru,Karnataka,India,CONSUMER,16.04.2023, yes 
+CUST-00086,Daniel Brown,daniel.brown86@example.com,Paris,Ile-de-France,France,Small Business,04.05.2023,No
+CUST-00087,Casey Khan,casey.khan87@example.com,Alexandria,Alexandria,Egypt,Consumer,11-Dec-2018,N
+CUST-00088,Drew Brown,drew.brown88@example.com,Atlanta,GA,United States,Enterprise,"Mar 26, 2020",Yes
+CUST-00089,Kareem Ibrahim,kareem.ibrahim89@example.com,  Atlanta,GA,United States,Consumer,"Dec 09, 2019",No
+CUST-00090,Nora Foster,nora.foster90@example.com,Dubai,Dubai,United Arab Emirates,Corporate,28.03.2023,No
+CUST-00091,Sam Ibrahim,sam.ibrahim91@example.com,Berlin,Berlin,Germany,Corporate,19-Oct-2023,Yes
+CUST-00092,Lee Lewis,lee.lewis92@example.com,Hamburg,Hamburg,Germany,Small Business,10-Oct-2023,Yes
+CUST-00093,Maya Baker,maya.baker93@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,15-Jun-2025,No
+CUST-00094,Sara Adams,sara.adams94@example.com,Sherjah,Sharjah,United Arab Emirates,Consumer,"Feb 08, 2024",Y
+CUST-00095,Drew Brown,drew.brown95@example.com,Atlanta,GA,United States,Enterprise,18-Jul-2020,Y
+CUST-00096,RILEY IBRAHIM,riley.ibrahim96@example.com,Paris,Ile-de-France,France,Consumer,"Nov 09, 2018",Yes
+CUST-00097,Kareem Hall,kareem.hall97@example.com,Atlanta,GA,United States,Enterprise,18.11.2022,Y
+CUST-00098,Daniel Adams,daniel.adams98@example.com,London,England,United Kingdom,Enterprise,10.04.2025,Yes
+CUST-00099,Jordan Saleh,jordan.saleh99@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,28.09.2025, yes 
+CUST-00100,Jordan Wilson,jordan.wilson100@example.com,Bengaluru,Karnataka,India,Small Business,30-Oct-2019,Y
+CUST-00101,Cameron Khan,cameron.khan101@example.com,Berlin,Berlin,Germany,Corporate,17-Nov-2019,Yes
+CUST-00102,Chris Scott,chris.scott102@example.com,Atlanta,GA,United States,Consumer,19.04.2018,Yes
+CUST-00103,Cameron Khan,cameron.khan103@example.com,Atlanta,GA,United States,Enterprise,2019-02-14,No
+CUST-00104,Morgan Mitchell,morgan.mitchell104@example.com,Glesgow,Scotland,United Kingdom,Enterprise,29-May-2022,Yes
+CUST-00105,Taylor Foster,taylor.foster105@example.com,London,England,United Kingdom,Consumer,05.05.2022, yes 
+CUST-00106,Drew Johnson,,Munich,Bavaria,Germany,Consumer,11/12/2020, yes 
+CUST-00107,Riley Taylor,riley.taylor107@example.com,HAMBURG,Hamburg,Germany,Corporate,17.06.2020, yes 
+CUST-00108,Taylor Scott,taylor.scott108@example.com,Hamburg,hamburg,Germany,Consumer,03-Aug-2024,Y
+CUST-00109,Cameron Foster,cameron.foster109@example.com,Cairo,Cairo,Egypt,Consumer,2021-08-27,N
+CUST-00110,Robin Ibrahim,robin.ibrahim110@example.com,Delhi,Delhi,India,Small Business,"Jun 01, 2024", yes 
+CUST-00111,Jamie Mitchell,jamie.mitchell111@example.com,Cairo,Cairo,Egypt,Consumer,"Aug 25, 2025",Yes
+CUST-00112,Avery Young,avery.young112@example.com,Dubai,Dubai,United Arab Emirates,Consumer,08.07.2020,No
+CUST-00113,Lee Mitchell,lee.mitchell113@example.com,Sharjah  ,Sharjah,UNITED ARAB EMIRATES,Small Business,2019-08-11,Yes
+CUST-00114,Jordan Hall,jordan.hall114@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,"Jul 26, 2025",Yes
+CUST-00115,Morgan Martin,morgan.martin115@example.com,Alexandria,  Alexandria,Egypt,Consumer,16.01.2023,Y
+CUST-00116,jamie baker,jamie.baker116@example.com,Manchester,England,United Kingdom,Consumer,"Apr 23, 2020",Yes
+CUST-00117,Yara Johnson,yara.johnson117@example.com,Munich,Bavaria,Germany,Small Business,"Dec 09, 2022",Yes
+CUST-00118,Sam Lewis,sam.lewis118@example.com,Sharjah,Sharjah,United Arab Emirates,Enterprise,02.02.2022,Y
+CUST-00119,Amir Mitchell,amir.mitchell119@example.com,Hamburg,Hamburg,Germany,Small Business,11/03/2025, yes 
+CUST-00120,Omar Green,omar.green120@example.com,Berlin,Berlin,Germany,Consumer,"Jan 13, 2020",N
+CUST-00121,Cameron Scott,cameron.scott121@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,15-Nov-2025,Yes
+CUST-00122,Riley Clark,riley.clark122@example.com,Paris,Ile-de-France,France,Small Business,07-Jun-2025,No
+CUST-00123,Robin Hall,robin.hall123@example.com,Munich,Bavaria,Germany,Small Business,09-Jun-2019,No
+CUST-00124,Kareem Wilson,,Chicago,IL,United States,Enterprise,23.04.2019,Y
+CUST-00125,Sam Walker,sam.walker125@example.com,Giza,Giza,Egypt,Small Business,"Mar 27, 2022",N
+CUST-00126,Taylor Mitchell,taylor.mitchell126@example.com,Peris,Ile-de-France,France,Consumer,"May 11, 2018",No
+CUST-00127,Alex Khan,alex.khan127@example.com,Ceiro,Cairo,Egypt,Enterprise,16/05/2020,Yes
+CUST-00128,Casey Lewis,casey.lewis128@example.com,Bengaluru,Karnataka,India,Corporate,15/06/2021,Yes
+CUST-00129,Amir Foster,amir.foster129@example.com,Cairo,Cairo,Egypt,Small Business,12-Sep-2025,Y
+CUST-00130,Maya Johnson,maya.johnson130@example.com,  Paris,Ile-de-France,France,Enterprise,17/11/2025, yes 
+CUST-00131,Lina Wilson,lina.wilson131@example.com,Manchester,England,United Kingdom,Small Business,"Mar 16, 2019",Yes
+CUST-00132,Yara Brown,yara.brown132@example.com,Manchester,England,United Kingdom,Consumer,29-Jan-2025,Yes
+CUST-00133,Nora Lewis,nora.lewis133@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,2018-09-21,Yes
+CUST-00134,Yara Foster,yara.foster134@example.com,GLASGOW,Scotland,United Kingdom,Corporate,11.12.2023,No
+CUST-00135,Dana Taylor,,Sharjah,Sharjah,united arab emirates,Consumer,"Sep 18, 2024",Yes
+CUST-00136,Sara Scott,sara.scott136@example.com,dubai,Dubai,United Arab Emirates,Corporate,27/01/2025,N
+CUST-00137,Daniel Clark,daniel.clark137@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,"Oct 10, 2019",Yes
+CUST-00138,Nora Young,nora.young138@example.com,Manchester,England,United Kingdom,Corporate,03.02.2025,Yes
+CUST-00139,riley saleh,riley.saleh139@example.com,Atlanta,GA,United States,Enterprise,03.12.2018,N
+CUST-00140,Drew Lewis,drew.lewis140@example.com,Munich,Bavaria,Germany,Small Business,13.02.2022,Y
+CUST-00141,Yara Khan,yara.khan141@example.com,Austin,TX,United States,CONSUMER,23.09.2021, yes 
+CUST-00142,Morgan Smith,morgan.smith142@example.com,Glasgow,Scotland,United Kingdom,Enterprise,"Jul 05, 2020",Yes
+CUST-00143,Nora Taylor,nora.taylor143@example.com,London,England,United Kingdom,Consumer,06.03.2018,Yes
+CUST-00144,KAREEM BAKER,kareem.baker144@example.com,Hamburg,Hamburg,Germany,Consumer,17/02/2024,Y
+CUST-00145,Dana Baker,dana.baker145@example.com,Atlanta,GA,United States,Consumer,31.08.2020,No
+CUST-00146,Riley Walker,riley.walker146@example.com,Chicago,IL,United States,Consumer,03.04.2023,Y
+CUST-00147,Daniel Scott,daniel.scott147@example.com,Lyon,Auvergne-Rhone-Alpes,France,Corporate,"Apr 04, 2021",Yes
+CUST-00148,Morgan Lewis,morgan.lewis148@example.com,Alexandria,Alexandria,Egypt,Consumer,19/12/2020,Y
+CUST-00149,Casey Martin,casey.martin149@example.com,Austin,TX,United States,Consumer,14.01.2025,No
+CUST-00150,Yara Baker,yara.baker150@example.com,Alexandria,Alexandria  ,Egypt,Consumer,01.10.2018,Y
+CUST-00151,Morgan Walker,morgan.walker151@example.com,Munich,Bavaria,Germany,Corporate,07/11/2023,Yes
+CUST-00152,Lee Walker,lee.walker152@example.com,Mumbai,Maharashtra,India,Small Business,"Dec 06, 2023",N
+CUST-00153,Casey Clark,casey.clark153@example.com,Munich,Bavaria,Germany,Enterprise,06-Jan-2021, yes 
+CUST-00154,Morgan Wilson,morgan.wilson154@example.com,Munich,Bavaria,Germany,Consumer,01/02/2020, yes 
+CUST-00155,Nora Wilson,nora.wilson155@example.com,Delhi,Delhi,India,Small Business,16-Jan-2018,No
+CUST-00156,Lina Smith,lina.smith156@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,09/06/2025,No
+CUST-00157,Cameron Young,cameron.young157@example.com,Jeddah,Makkah,Saudi Arabia,Enterprise,11.07.2025,Yes
+CUST-00158,Lee Baker,,Chicago,IL,United States,Consumer,2019-11-30,N
+CUST-00159,Robin Mitchell,robin.mitchell159@example.com,London,England,United Kingdom,Small Business,03/04/2018,No
+CUST-00160,Jamie Hassan,jamie.hassan160@example.com,Atlenta,GA,United States,Corporate,2018-12-22,Yes
+CUST-00161,Casey Scott,casey.scott161@example.com,Bristol,England,United Kingdom,Consumer,16-Jul-2018,N
+CUST-00162,Dana Ibrahim,dana.ibrahim162@example.com,Chicago,IL,United States,Consumer,07/08/2024,Yes
+CUST-00163,Jamie Khan,jamie.khan163@example.com,London,England,United Kingdom,Corporate,"Jan 30, 2025",Yes
+CUST-00164,Amir Johnson,amir.johnson164@example.com,Alexandria,Alexandria,Egypt,Consumer,21-Mar-2019,Yes
+CUST-00165,Dana King,dana.king165@example.com,Atlanta,  GA,United States  ,Small busines,06.12.2023,Y
+CUST-00166,Dana Scott,dana.scott166@example.com,Glasgow,Scotland,United Kingdom,Enterprise,04-Jun-2019,No
+CUST-00167,  Sara Foster,sara.foster167@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,30/11/2020,Yes
+CUST-00168,Yara Smith,yara.smith168@example.com,Chicago,IL,United States,Enterprise,2022-10-05, yes 
+CUST-00169,Dana Walker,dana.walker169@example.com,Delhi,Delhi,India,Enterprise,2023-09-19,Y
+CUST-00170,Jamie Hassan,,Cairo,Cairo,Egypt,Consumer,"Dec 11, 2024", yes 
+CUST-00171,Amir Green,amir.green171@example.com,Bengaluru,Karnataka,India,Corporate,"May 10, 2018",Yes
+CUST-00172,Lee Hall,lee.hall172@example.com,Paris  ,Ile-de-France,France,Consumer,24-Jul-2019,Y
+CUST-00173,Kareem Khan,kareem.khan173@example.com,Paris,Ile-de-France,France,Consumer,2020-03-24, yes 
+CUST-00174,Kareem Hall,kareem.hall174@example.com,Giza,Giza,Egypt,Consumer,18/06/2020, yes 
+CUST-00175,Robin Baker,robin.baker175@example.com,Munich,Bavaria,Germany,Consumer,04/12/2025,Yes
+CUST-00176,Chris Young,chris.young176@example.com,Bristol,England,United Kingdom,Consumer,04-Mar-2024,No
+CUST-00177,Riley Baker,riley.baker177@example.com,Austin,TX,United States,Consumer,18-Jul-2020,Yes
+CUST-00178,Robin Scott,robin.scott178@example.com,Chicago,IL,United States,Corporate,2025-09-19,No
+CUST-00179,Morgan Smith,morgan.smith179@example.com,Chicago,IL,United States,Consumer,18-Dec-2021, yes 
+CUST-00180,Riley Foster,riley.foster180@example.com,New York,NY,United States,Corporate,23.12.2021,Yes
+CUST-00181,Avery King,avery.king181@example.com,Glasgow,Scotland,United Kingdom,Corporate,"Jun 11, 2021",No
+CUST-00182,Chris Wilson,chris.wilson182@example.com,Austin,TX,united states,Enterprise,"Feb 22, 2019", yes 
+CUST-00183,Maya Young,maya.young183@example.com,MUNICH,Bavaria,Germany,Corporate,02/06/2025,Yes
+CUST-00184,Cameron Khan,cameron.khan184@example.com,Chicago,IL,United States,Consumer,10/02/2018,Yes
+CUST-00185,Kareem King,kareem.king185@example.com,Austin,TX,United States,Corporate,21.05.2019,Y
+CUST-00186,Jordan Brown,jordan.brown186@example.com,Glasgow,Scotland,United Kingdom,Consumer,29-Oct-2019,Yes
+CUST-00187,Yara Wilson,yara.wilson187@example.com,Atlanta,GA,United States,Corporate,20/03/2020,Yes
+CUST-00188,Amir Adams,amir.adams188@example.com,Alexandria,Alexandria,Egypt,Enterprise,18-Jan-2019,N
+CUST-00189,Avery Smith,avery.smith189@example.com,Cairo,Cairo,Egypt,Small Business,"Feb 22, 2018",Yes
+CUST-00190,Nora Wilson,nora.wilson190@example.com,Dubai,Dubai,United Arab Emirates,Corporate,20-May-2023,No
+CUST-00191,jamie brown,jamie.brown191@example.com,Chicago,IL,United States,Consumer,"Sep 11, 2025",No
+CUST-00192,Lina Foster,lina.foster192@example.com,Seattle,WA,United States,Small Business,20/12/2018,No
+CUST-00193,Omar Brown,omar.brown193@example.com,New York,NY,United States,Small Business,09-May-2020,Yes
+CUST-00194,Yara Khan,yara.khan194@example.com,Lyon,Auvergne-Rhone-Alpes,France,Corporate,2022-01-08,Yes
+CUST-00195,Drew Mitchell  ,drew.mitchell195@example.com,New York,NY,United States,Consumer,13.05.2025,No
+CUST-00196,Taylor Foster,taylor.foster196@example.com,Delhi,Delhi,India,Small Business,2023-07-07,Yes
+CUST-00197,Morgan Brown,morgan.brown197@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,"Jan 31, 2024",N
+CUST-00198,Lina Lewis,lina.lewis198@example.com,Delhi,Delhi,India,Consumer,13.08.2022,Yes
+CUST-00199,Riley Clark,riley.clark199@example.com,Paris,Ile-de-France,France,Small Business,2021-04-24,Yes
+CUST-00200,Omar Young,omar.young200@example.com,Glasgow,Scotland,United Kingdom,Consumer,"Aug 03, 2019",Y
+CUST-00201,Morgan Saleh,morgan.saleh201@example.com,Riyadh,Riyadh,Saudi Arabia,Enterprise,11/11/2024,Yes
+CUST-00202,jordan scott,jordan.scott202@example.com,Glasgow,Scotland,UNITED KINGDOM,Consumer,2024-05-20, yes 
+CUST-00203,Kareem Baker,kareem.baker203@example.com,Austin,TX,United States,Small Business,"Mar 14, 2018", yes 
+CUST-00204,Maya Martin,maya.martin204@example.com,London,England,United Kingdom  ,Small Business,2023-09-06,Yes
+CUST-00205,Robin Clark,robin.clark205@example.com,New York,NY,United States,Enterprise,02.09.2018,Y
+CUST-00206,  Avery Walker,avery.walker206@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Corporate,14/11/2023,Yes
+CUST-00207,Alex Mitchell,,GIZA,Giza,Egypt,Consumer,23-Jul-2024,No
+CUST-00208,Lee Walker,lee.walker208@example.com,Delhi,Delhi,India,Enterprise,16-Jan-2019,Y
+CUST-00209,Drew Hall,drew.hall209@example.com,Sharjah,Sharjah,United Arab Emirates,Corporate,12-Jun-2021,Yes
+CUST-00210,Jordan Ibrahim,jordan.ibrahim210@example.com,Chicago,IL,United States,Consumer,2018-12-25,Y
+CUST-00211,Riley Young,riley.young211@example.com,Giza,Giza,Egypt,Enterprise,"Jul 04, 2022",Yes
+CUST-00212,Casey Walker,casey.walker212@example.com,Glasgow,Scotland,United Kingdom,Consumer,13.05.2025, yes 
+CUST-00213,Cameron Saleh,cameron.saleh213@example.com,Delhi,Delhi,India,Small Business,23.08.2018,Y
+CUST-00214,Casey Wilson,casey.wilson214@example.com,London,England,United Kingdom,Enterprise,26-Feb-2021,N
+CUST-00215,Amir Johnson,,Lyon,Auvergne-Rhone-Alpes,France,Consumer,23.09.2025,No
+CUST-00216,Chris Smith,chris.smith216@example.com,Hamburg,Hamburg,Germany,Corporat,22/05/2020,Yes
+CUST-00217,Drew Wilson,drew.wilson217@example.com,Alexandria,Alexandria,Egypt,Corporate,19-Jan-2019,No
+CUST-00218,Sam Adams  ,sam.adams218@example.com,Mumbai,Maharashtra,India,Small Business,17-Nov-2021,N
+CUST-00219,Chris Foster,chris.foster219@example.com,  Cairo,Cairo,  Egypt,Consumer,"Jan 14, 2022",Yes
+CUST-00220,Riley Mitchell,riley.mitchell220@example.com,Berlin,Berlin,Germany,Consumer,"Apr 07, 2023",Yes
+CUST-00221,Nora Clark,nora.clark221@example.com,London,England,United Kingdom,Enterprise,28.06.2020,Yes
+CUST-00222,Sara Brown,sara.brown222@example.com,New York,NY,United States,Small Business,03/08/2025,No
+CUST-00223,Cameron Baker,cameron.baker223@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,2022-02-19,Yes
+CUST-00224,Amir Martin,amir.martin224@example.com,Bengaluru,Karnataka,India,Enterprise,10.04.2020,Yes
+CUST-00225,Nora Green,nora.green225@example.com,Bengaluru,Karnataka,India,Consumer,16.08.2025, yes 
+CUST-00226,Avery Ibrahim,avery.ibrahim226@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,05.05.2025,No
+CUST-00227,Amir Young,,Austin,TX,United States,Enterprise,"Dec 18, 2021",N
+CUST-00228,Dana Mitchell,dana.mitchell228@example.com,Cairo,Cairo,Egypt,Small busines,14.03.2018, yes 
+CUST-00229,Taylor Adams  ,taylor.adams229@example.com,Berlin,Berlin,Germany,Corporate,"Sep 28, 2022",No
+CUST-00230,Lee Young,lee.young230@example.com,Seattle,WA,  United States,Consumer,30-May-2022,Y
+CUST-00231,Sara Baker,sara.baker231@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,06-Mar-2019,N
+CUST-00232,Sara Lewis,,Berlin,Berlin,Germany,Corporate,13.01.2023,Yes
+CUST-00233,Riley Taylor,riley.taylor233@example.com,Manchester,England,United Kingdom,Small Business,"Sep 04, 2024",Yes
+CUST-00234,  Lee Mitchell,lee.mitchell234@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,04/11/2018,N
+CUST-00235,Casey Taylor,casey.taylor235@example.com,Sharjah,Sharjah,United Arab Emirates,Corporate,29-Sep-2023,Yes
+CUST-00236,Casey Green,casey.green236@example.com,Berlin,Berlin,Germany,Enterprise,11/02/2019,Yes
+CUST-00237,Sara King,sara.king237@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,"Dec 12, 2023",N
+CUST-00238,Kareem Khan,kareem.khan238@example.com,Giza  ,Giza,EGYPT,Consumer,30-Apr-2021,N
+CUST-00239,Yara Hall,yara.hall239@example.com,London,England,United Kingdom,Corporate,"Jan 19, 2018",No
+CUST-00240,Yara Mitchell,yara.mitchell240@example.com,Austin,TX,United States,SMALL BUSINESS,03.09.2025, yes 
+CUST-00241,Lina Khan,lina.khan241@example.com,Austin,TX,United States,Consumer,27.04.2019,Yes
+CUST-00242,Cameron Wilson,cameron.wilson242@example.com,Munich,Bavaria,Germany,Consumer,"Sep 25, 2022", yes 
+CUST-00243,Lina Khan,lina.khan243@example.com,Alexandria,Alexandria,Egypt,Corporate,11.06.2019,Yes
+CUST-00244,Sara Young,sara.young244@example.com,Manchester,England,United Kingdom,ENTERPRISE ,29/05/2025,N
+CUST-00245,Jamie Johnson,jamie.johnson245@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,"Nov 12, 2023",No
+CUST-00246,Amir Clark,amir.clark246@example.com,Hamburg,Hamburg,  Germany,Consumer,21/05/2024, yes 
+CUST-00247,Riley Khan,riley.khan247@example.com,Cairo,Cairo,Egypt,Small Business,2021-06-07,Yes
+CUST-00248,Omar Brown,omar.brown248@example.com,Austin,TX,United States,Corporate,2021-09-17,N
+CUST-00249,Kareem Saleh,kareem.saleh249@example.com,Cairo,Cairo,Egypt,Corporate,14.01.2023,No
+CUST-00250,Nora Martin,nora.martin250@example.com,London,England,United Kingdom,Small Business,25-Mar-2024,Yes
+CUST-00251,Casey Taylor,casey.taylor251@example.com,Sharjah,Sharjah,United Arab Emirates,Small Business,22.09.2024,N
+CUST-00252,Avery Martin,avery.martin252@example.com,Mumbai,Maharashtra,India,Consumer,21-Feb-2018,N
+CUST-00253,Riley Saleh,riley.saleh253@example.com,New York,NY,United States,Consumer,09-Apr-2023,Y
+CUST-00254,Lina Wilson,lina.wilson254@example.com,Giza,Giza,Egypt,Corporate,13-Nov-2018, yes 
+CUST-00255,Nora Baker,nora.baker255@example.com,Bristol,England,United Kingdom,Small Business,"Apr 15, 2020",Yes
+CUST-00256,Kareem Brown,kareem.brown256@example.com,London,England,United Kingdom,Consumer ,"Aug 02, 2024",No
+CUST-00257,Robin Scott,robin.scott257@example.com,Cairo,Cairo,Egypt,Corporat,"Dec 28, 2019",N
+CUST-00258,Casey Baker,casey.baker258@example.com,Atlanta,GA,United States,Enterprise,29.04.2024,Yes
+CUST-00259,Jamie Johnson,jamie.johnson259@example.com,Austin,TX,UNITED STATES,Corporate,04-Sep-2021, yes 
+CUST-00260,Omar Saleh,omar.saleh260@example.com,Giza,Giza,Egypt,Corporate,06.11.2019,Yes
+CUST-00261,Nora Adams,nora.adams261@example.com,Jeddeh,Makkah,Saudi Arabia,Consumer,"Aug 27, 2020",N
+CUST-00262,Jamie Green,jamie.green262@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,20/03/2022,Y
+CUST-00263,Amir Hassan,amir.hassan263@example.com,Dubai,Dubai,United Arab Emirates,Consumer,28-Jan-2024,Yes
+CUST-00264,Nora Adams,nora.adams264@example.com,Atlanta,GA,United States,Enterprise,24-Oct-2022,No
+CUST-00265,Jamie Scott,jamie.scott265@example.com,Dubai,Dubai,United Arab Emirates,Consumer,"May 30, 2025",Y
+CUST-00266,Maya Taylor,maya.taylor266@example.com,atlanta,GA,United States,ENTERPRISE ,21.11.2024, yes 
+CUST-00267,Lina Saleh,lina.saleh267@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,2023-12-25,N
+CUST-00268,Lina Hassan,lina.hassan268@example.com,Ceiro,Cairo,Egypt,Consumer,"Oct 16, 2022",No
+CUST-00269,Cameron Mitchell,cameron.mitchell269@example.com,Sharjah,Sharjah,United Arab Emirates,Enterprise,20-Apr-2020, yes 
+CUST-00270,Casey Mitchell,casey.mitchell270@example.com,Giza,Giza,Egypt,Consumer,2021-04-11,Yes
+CUST-00271,Taylor Wilson,taylor.wilson271@example.com,London,England,united kingdom,Consumer,"Dec 11, 2018",Yes
+CUST-00272,Jordan Martin,jordan.martin272@example.com,Giza,Giza,Egypt,Consumer,21/12/2020,Y
+CUST-00273,Robin Lewis,robin.lewis273@example.com,New York,NY,United States,Consumer,2025-05-10,Yes
+CUST-00274,Omar Saleh,omar.saleh274@example.com,Sharjah,Sharjah,United Arab Emirates,Corporat,2021-05-20,Y
+CUST-00275,Sam Taylor,sam.taylor275@example.com,Austin,TX,United States,Enterprise,26-Nov-2018, yes 
+CUST-00276,Lina Smith,lina.smith276@example.com,Hamburg,Hamburg,Germany,Small Business,"Mar 06, 2023",Y
+CUST-00277,Jamie Hall,jamie.hall277@example.com,Austin,TX,United States,Corporate,23/08/2025,No
+CUST-00278,Kareem Lewis,kareem.lewis278@example.com,Cairo,Cairo,Egypt,Consumer,20.11.2024,Y
+CUST-00279,Jordan Adams,jordan.adams279@example.com,Atlanta,GA,United States,Enterprise,"Mar 05, 2020",Yes
+CUST-00280,Nora Khan,,Seattle,WA,United States,CONSUMER,"Aug 09, 2021",Yes
+CUST-00281,Avery Khan,avery.khan281@example.com,Bristol,England,United Kingdom,Enterprise,20.03.2022,Yes
+CUST-00282,Casey Saleh,casey.saleh282@example.com,Munich,Bavaria,Germany,Corporate,20.12.2019, yes 
+CUST-00283,Nora Wilson,nora.wilson283@example.com,Seattle,WA,United States,Enterprise,2020-02-19,N
+CUST-00284,Cameron Adams,cameron.adams284@example.com,Chicago,IL,United States,Corporate,18-Nov-2019, yes 
+CUST-00285,Riley Saleh,riley.saleh285@example.com,Giza,Giza,Egypt,Consumer,2025-11-24,No
+CUST-00286,Amir Wilson,amir.wilson286@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Corporate,04-Dec-2023,Yes
+CUST-00287,Cameron Ibrahim,cameron.ibrahim287@example.com,Giza,Giza,Egypt,Small Business,2024-09-04,Yes
+CUST-00288,Cameron Brown,cameron.brown288@example.com,Giza,Giza,egypt,Consumer,2024-06-26,Yes
+CUST-00289,Amir Scott,amir.scott289@example.com,Dubai,Dubai,United Arab Emirates,CORPORATE ,13-Aug-2025, yes 
+CUST-00290,Cameron Khan,cameron.khan290@example.com,Munich,Bavaria,Germany,Enterprise,"Nov 02, 2018",Yes
+CUST-00291,Omar Lewis,omar.lewis291@example.com,Delhi,Delhi,India,Corporate,31.12.2024,Y
+CUST-00292,Nora Hall,,Seattle,WA,United States,Corporate,13/07/2018,Yes
+CUST-00293,Chris Scott,chris.scott293@example.com,Giza,Giza,Egypt,Consumer,"Oct 10, 2021", yes 
+CUST-00294,Taylor Martin,taylor.martin294@example.com,Manchester,England,United Kingdom,Small busines,2022-09-20,Yes
+CUST-00295,Cameron Wilson,cameron.wilson295@example.com,Lyon  ,Auvergne-Rhone-Alpes,France,Consumer,03.11.2020,N
+CUST-00296,Taylor Wilson,taylor.wilson296@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,28/02/2019,No
+CUST-00297,Jamie Johnson,jamie.johnson297@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,2019-07-12,N
+CUST-00298,Cameron Adams,cameron.adams298@example.com,Paris,Ile-de-France,France,Consumer,19-Jul-2024,Y
+CUST-00299,Alex Johnson,alex.johnson299@example.com,Chicago,IL,United States,Enterprise,2020-07-13,Yes
+CUST-00300,Yara Khan,yara.khan300@example.com,Manchester,England,United Kingdom,Consumer,2020-06-18,N
+CUST-00301,Cameron Johnson,cameron.johnson301@example.com,Manchester,England,United Kingdom,Corporate,"May 01, 2025", yes 
+CUST-00302,Maya Wilson,maya.wilson302@example.com,Dubai,Dubai,United Arab Emirates,enterprise,22/02/2019,Yes
+CUST-00303,Omar Scott,omar.scott303@example.com,Giza,Giza,Egypt,Enterprise,2025-04-08, yes 
+CUST-00304,Jordan Clark,jordan.clark304@example.com,Paris,Ile-de-France,France,Consumer,24-Apr-2025,Yes
+CUST-00305,Alex Clark,alex.clark305@example.com,Dubai,Dubai,United Arab Emirates,Consumer,2022-10-02, yes 
+CUST-00306,Jordan Brown,jordan.brown306@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,26/04/2019,Y
+CUST-00307,Omar Khan,omar.khan307@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,28.03.2019,Y
+CUST-00308,Omar Ibrahim,omar.ibrahim308@example.com,Manchester,England,United Kingdom,Corporate,05-Apr-2020,Y
+CUST-00309,Riley Scott,riley.scott309@example.com,Atlanta,GA,  United States,Corporate,"Aug 02, 2022",Yes
+CUST-00310,ALEX HALL,alex.hall310@example.com,Lyon,Auvergne-Rhone-Alpes,France,Corporate,22.03.2019,Yes
+CUST-00311,Robin Saleh,robin.saleh311@example.com,Austin,TX,United States,Corporate,14/08/2021,No
+CUST-00312,Yara Saleh,yara.saleh312@example.com,Dammam,Eastern Province,Saudi Arabia,Corporate,01.12.2018,No
+CUST-00313,Jamie Foster,jamie.foster313@example.com,Paris,Ile-de-France,France,Small Business,16.04.2022,No
+CUST-00314,Maya Brown,maya.brown314@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,03.03.2018,Y
+CUST-00315,Casey Wilson,casey.wilson315@example.com,Munich,Bavaria,Germany,Small Business,19.08.2023,Yes
+CUST-00316,Taylor Taylor,taylor.taylor316@example.com,Giza,Giza,Egypt,Corporate,10.06.2018,Y
+CUST-00317,Jamie Clark,jamie.clark317@example.com,New York,NY,United States,Consumer,2019-07-19,Yes
+CUST-00318,Sam Clark,sam.clark318@example.com,Berlin,Berlin,Germany,Enterprise,2019-05-22,No
+CUST-00319,Maya Johnson,maya.johnson319@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer ,06-Aug-2024, yes 
+CUST-00320,Amir Scott,amir.scott320@example.com,Austin,TX,United States,Consumer,"Jun 04, 2018",N
+CUST-00321,MAYA HALL,maya.hall321@example.com,Chicago,IL,United States,Consumer,2021-05-29,N
+CUST-00322,Alex Khan,alex.khan322@example.com,Glasgow,Scotland,United Kingdom,Corporate,11/09/2022,No
+CUST-00323,Dana Hall,dana.hall323@example.com,Chicago,IL,United States,Enterprise,"Feb 05, 2022",Yes
+CUST-00324,Amir Saleh,amir.saleh324@example.com,Berlin,Berlin,Germany,Enterprise,29-May-2023,No
+CUST-00325,Lee Foster,lee.foster325@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,17/05/2024,Y
+CUST-00326,Robin Brown,robin.brown326@example.com,New York,NY,United States,Enterprise,15/02/2021,Yes
+CUST-00327,Alex Walker,alex.walker327@example.com,seattle,WA,United States,Consumer,29/07/2024,No
+CUST-00328,Daniel Scott,daniel.scott328@example.com,London,England,United Kingdom,Enterprise,2020-07-11,Yes
+CUST-00329,Kareem Johnson,kareem.johnson329@example.com,Hamburg,Hamburg,Germany,Consumer,25-Oct-2025,Y
+CUST-00330,Maya Wilson,maya.wilson330@example.com,Bengaluru,Karnataka,India,Consumer,03.01.2022,Yes
+CUST-00331,Lee Saleh,lee.saleh331@example.com,Berlin,Berlin,Germany,Small Business,2023-11-05,Yes
+CUST-00332,Robin Brown,robin.brown332@example.com,Giza,Giza,Egypt  ,Enterprise,12/12/2024,Yes
+CUST-00333,Yara Johnson,yara.johnson333@example.com,Mumbai,Maharashtra,India,SMALL BUSINESS,17.04.2024, yes 
+CUST-00334,Daniel Adams,daniel.adams334@example.com,Berlin,Berlin,Germany,Small Business,04/10/2024,Yes
+CUST-00335,Amir King,amir.king335@example.com,New York,NY,united states,Enterprise,05-Apr-2022,Y
+CUST-00336,Daniel Saleh,daniel.saleh336@example.com,Giza,GIZA,Egypt,Small Business,07.05.2018, yes 
+CUST-00337,Nora Wilson,nora.wilson337@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Corporate,"Nov 30, 2021",Yes
+CUST-00338,Daniel Hall,daniel.hall338@example.com,Munich,Bavaria,Germany,Corporate,11.06.2019,No
+CUST-00339,Jamie Hall,jamie.hall339@example.com,Demmam,Eastern Province,Saudi Arabia,Consumer,2025-01-22,Yes
+CUST-00340,Alex Foster,alex.foster340@example.com,Manchester,England,UNITED KINGDOM,Consumer,"Nov 18, 2019",Yes
+CUST-00341,Sam Young,sam.young341@example.com,Mumbai,Maharashtra,India,Small Business,24-Oct-2019,No
+CUST-00342,Kareem Johnson,kareem.johnson342@example.com,Jeddah,Makkah,Saudi Arabia,Corporate,25/12/2019,Yes
+CUST-00343,Chris Foster,chris.foster343@example.com,Delhi,Delhi,India,Enterprise,2023-02-07,Yes
+CUST-00344,Jamie King,jamie.king344@example.com,Hamburg,Hamburg,Germany  ,Consumer,2022-07-15, yes 
+CUST-00345,Casey Clark,casey.clark345@example.com,Munich,Bavaria,Germany,Enterprise,14/07/2025,Yes
+CUST-00346,Chris Hassan,chris.hassan346@example.com,Alexandria,Alexandria,Egypt,Consumer,22-Apr-2021,Yes
+CUST-00347,Amir Clark,amir.clark347@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Corporate,"Mar 29, 2020",Y
+CUST-00348,Omar King,omar.king348@example.com,Berlin,Berlin,Germany,Corporate,2018-05-23,No
+CUST-00349,Morgan Scott,morgan.scott349@example.com,Mumbai,Maharashtra,India,Consumer,21-Jan-2018, yes 
+CUST-00350,Taylor Baker,taylor.baker350@example.com,Atlanta,GA,United States,Small Business,19/12/2020, yes 
+CUST-00351,Robin Scott,robin.scott351@example.com,Delhi,Delhi,india,Corporate,08/05/2025,Yes
+CUST-00352,Lina Wilson,lina.wilson352@example.com,Dammam,Eastern Province,Saudi Arabia,Consumer,"Feb 27, 2022",Yes
+CUST-00353,Chris Brown,chris.brown353@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,2025-02-04,N
+CUST-00354,Morgan Saleh,morgan.saleh354@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,22.10.2018,Yes
+CUST-00355,Jordan Brown,jordan.brown355@example.com,Munich,Bavaria  ,Germany,Enterprise,"Sep 28, 2018",Y
+CUST-00356,Sara Young,sara.young356@example.com,Berlin,Berlin,Germany,Corporate,"Aug 14, 2024",Y
+CUST-00357,Drew Johnson,drew.johnson357@example.com,Manchester,England,United Kingdom,Consumer,"Nov 06, 2018",No
+CUST-00358,Chris Scott,chris.scott358@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,31/05/2018,Yes
+CUST-00359,Casey Adams,casey.adams359@example.com,New York,NY,United States,Consumer,17.03.2021,Y
+CUST-00360,Dana Khan,dana.khan360@example.com,Atlanta,GA,United States,Consumer,06.05.2025,Y
+CUST-00361,Jordan Saleh,jordan.saleh361@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,23-Jun-2023,No
+CUST-00362,Daniel Brown,daniel.brown362@example.com,Munich,Bavaria,Germany,Consumer,2018-10-15,No
+CUST-00363,Lina Young,lina.young363@example.com,Hamburg,Hamburg,Germany,Corporate,24.08.2024,Y
+CUST-00364,Sara Hall,sara.hall364@example.com,New York,NY,United States,Corporate,12-Sep-2024, yes 
+CUST-00365,Daniel Martin,daniel.martin365@example.com,London,England,United Kingdom,Small Business,2024-05-11,Yes
+CUST-00366,Daniel Wilson,daniel.wilson366@example.com,Paris,Ile-de-France,France,Small Business,02-Mar-2025,Yes
+CUST-00367,Jordan Martin,jordan.martin367@example.com,Dubai,Dubai,United Arab Emirates,Small Business,27/11/2019,Y
+CUST-00368,Drew Baker,drew.baker368@example.com,Mumbai,Maharashtra,India,Enterprise,11-Oct-2025,Yes
+CUST-00369,Cameron Foster,cameron.foster369@example.com,London,England,United Kingdom,Consumer,"Jul 19, 2020",Yes
+CUST-00370,Alex Green,alex.green370@example.com,Cairo,Cairo,Egypt,Small Business,14/05/2024,Y
+CUST-00371,Morgan Brown,morgan.brown371@example.com,Sharjah,Sharjah,United Arab Emirates,Enterprise,2022-08-08,N
+CUST-00372,Dana Mitchell,dana.mitchell372@example.com,Hamburg,Hamburg,Germany,Consumer,10-Mar-2024,Yes
+CUST-00373,Riley Ibrahim,riley.ibrahim373@example.com,Hamburg,Hamburg,Germany,Consumer,2022-12-26,Yes
+CUST-00374,Kareem Walker,kareem.walker374@example.com,Atlenta,GA,United States,Small Business,07.02.2023,Y
+CUST-00375,Nora Green,nora.green375@example.com,seattle,WA,United States,Consumer,23-Nov-2022,No
+CUST-00376,Robin Khan,robin.khan376@example.com,New York,NY,United States,Small Business,09-Mar-2024,N
+CUST-00377,Amir King,amir.king377@example.com,London,England,United Kingdom,Small Business,2023-11-14, yes 
+CUST-00378,  Nora Khan,nora.khan378@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,"Jan 26, 2019",No
+CUST-00379,Kareem Saleh,kareem.saleh379@example.com,Paris,Ile-de-France,France,Consumer,2024-07-23,Yes
+CUST-00380,Lee Ibrahim,lee.ibrahim380@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,04.04.2022,Yes
+CUST-00381,Omar Wilson,omar.wilson381@example.com,Atlanta,GA,United States,Consumer,25-Jul-2020,Y
+CUST-00382,Lina Johnson,lina.johnson382@example.com,Chicago,IL,United States,Enter prise,"Jan 31, 2022",Yes
+CUST-00383,Yara Wilson,yara.wilson383@example.com,Hamburg,Hamburg,Germany,Enterprise,"Sep 05, 2025",Yes
+CUST-00384,Robin Green,,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,22.10.2024, yes 
+CUST-00385,Cameron Johnson,cameron.johnson385@example.com,Dubai,Dubai,UNITED ARAB EMIRATES,Small Business,14-Aug-2024,Y
+CUST-00386,Jordan Taylor,jordan.taylor386@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,04-Sep-2021,No
+CUST-00387,Jamie Taylor,jamie.taylor387@example.com,Austin,TX,United States,Small Business,23/03/2024,Yes
+CUST-00388,Avery Scott,avery.scott388@example.com,Delhi,Delhi,India,Consumer,21/01/2021,Yes
+CUST-00389,Dana Martin,dana.martin389@example.com,Delhi,Delhi,India,Corporate,13/06/2023,Yes
+CUST-00390,nora clark,nora.clark390@example.com,Munich,Bavaria,Germany,Corporate,"Jan 29, 2023",Yes
+CUST-00391,Dana Johnson,dana.johnson391@example.com,Mumbai,Maharashtra,India,Enterprise,2019-12-26,Y
+CUST-00392,Kareem Green,kareem.green392@example.com,Dammam,EASTERN PROVINCE,Saudi Arabia,Corporate,"Feb 12, 2020",Yes
+CUST-00393,Casey Scott,casey.scott393@example.com,  Lyon,Auvergne-Rhone-Alpes,France,Small Business,27-Jun-2018,N
+CUST-00394,Sara Brown,sara.brown394@example.com,Paris,Ile-de-France,france,Consumer,10-Feb-2019,Yes
+CUST-00395,Yara Brown,yara.brown395@example.com,Atlanta,GA,United States,Consumer,11/06/2021, yes 
+CUST-00396,Sam King,sam.king396@example.com,CAIRO,Cairo,Egypt,Small Business,"Oct 17, 2021",N
+CUST-00397,Lee Ibrahim,lee.ibrahim397@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,2019-04-24,Yes
+CUST-00398,Yara Wilson,yara.wilson398@example.com,new york,NY,United States,Enterprise,23.04.2021,N
+CUST-00399,Riley Brown,,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,"Oct 19, 2022", yes 
+CUST-00400,Drew Saleh,drew.saleh400@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,06-Nov-2019,No
+CUST-00401,Yara Khan,yara.khan401@example.com,Paris,Ile-de-France,France,Consumer,07/09/2020,Y
+CUST-00402,Sam King,sam.king402@example.com,Giza,giza,Egypt,Consumer,01/12/2020,Yes
+CUST-00403,Amir Hall,amir.hall403@example.com,Lyon,Auvergne-Rhone-Alpes,France,Enterprise,04.01.2022,Yes
+CUST-00404,Morgan Hall,,Atlanta,GA,United States,Consumer,28-Nov-2020,Yes
+CUST-00405,Lee Mitchell,lee.mitchell405@example.com,Atlanta,GA,United States,Enterprise,08.11.2023,Yes
+CUST-00406,Robin Scott,robin.scott406@example.com,Alexandria,Alexandria,Egypt,Corporate,07.08.2020, yes 
+CUST-00407,Kareem Green,kareem.green407@example.com,Berlin,Berlin,Germany,Enterprise,"Jun 12, 2021", yes 
+CUST-00408,Dana Foster,dana.foster408@example.com,London,England,United Kingdom,Enterprise,05.01.2021,Yes
+CUST-00409,  Lina Hall,lina.hall409@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,15-Jun-2019,No
+CUST-00410,Alex Taylor,alex.taylor410@example.com,Chicago,IL,United States,Consumer,2023-06-12,Yes
+CUST-00411,Alex Walker,alex.walker411@example.com,Munich,Bavaria,GERMANY,Corporate,14-Nov-2019,Yes
+CUST-00412,Maya Clark,maya.clark412@example.com,London,England,United Kingdom,Consumer,10-May-2020,N
+CUST-00413,Morgan Khan,morgan.khan413@example.com,Alexandria,Alexandria,Egypt,Consumer,17/04/2024,Yes
+CUST-00414,Omar Ibrahim,omar.ibrahim414@example.com,Berlin,Berlin,Germany,Enterprise,14/07/2025,Yes
+CUST-00415,Yara King,yara.king415@example.com,Hamburg,Hamburg,Germany,Enterprise,30/04/2023, yes 
+CUST-00416,Jamie Hall,jamie.hall416@example.com,Giza,Giza,egypt,Consumer,2025-04-11,Yes
+CUST-00417,Lina Johnson,lina.johnson417@example.com,Dammam,Eastern Province,Saudi Arabia,Consumer,13/10/2024,Yes
+CUST-00418,Taylor Wilson,taylor.wilson418@example.com,Cairo,Cairo,Egypt,Enterprise,2021-10-26, yes 
+CUST-00419,Maya Clark,maya.clark419@example.com,Dubai,Dubai,United Arab Emirates,Consumer,12.02.2024,Yes
+CUST-00420,Lee Mitchell,lee.mitchell420@example.com,Cairo,Cairo,Egypt,Corporate,10.08.2020,Yes
+CUST-00421,Robin Hall,robin.hall421@example.com,Hamburg,Hamburg,Germany,Corporate,28/08/2021,Y
+CUST-00422,Riley Brown,riley.brown422@example.com,Glasgow,Scotland,United Kingdom,Corporate,2022-04-02,Yes
+CUST-00423,Yara Saleh,yara.saleh423@example.com,Seattle,WA,United States,Consumer,17.08.2025,N
+CUST-00424,Lina Saleh,lina.saleh424@example.com,Munich,Bavaria,Germany,Small Business,26.09.2024,Yes
+CUST-00425,Nora Lewis,nora.lewis425@example.com,Seattle,WA,United States  ,Consumer,19/11/2021,Yes
+CUST-00426,Taylor Mitchell,taylor.mitchell426@example.com,Dubai,Dubai,United Arab Emirates,Small Business,"Mar 08, 2023",Yes
+CUST-00427,Dana Taylor,dana.taylor427@example.com,Paris  ,Ile-de-France,France,Small Business,10.08.2019,No
+CUST-00428,Nora Taylor,nora.taylor428@example.com,Seattle,WA,United States,Enterprise,21.05.2024,Y
+CUST-00429,Drew Young,drew.young429@example.com,Lyon,Auvergne-Rhone-Alpes,FRANCE,Consumer,23-May-2022,No
+CUST-00430,Jamie Lewis,jamie.lewis430@example.com,Manchester,England,United Kingdom,CONSUMER,"Mar 25, 2022",Y
+CUST-00431,Alex Adams,alex.adams431@example.com,Delhi,Delhi,India,Small Business,01.02.2024,Y
+CUST-00432,Sam Martin,sam.martin432@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,10-Jan-2023,Yes
+CUST-00433,Jamie Ibrahim,jamie.ibrahim433@example.com,Glasgow,Scotland,United Kingdom,Enterprise,2018-07-30,N
+CUST-00434,Drew Green,drew.green434@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,"Apr 15, 2020", yes 
+CUST-00435,Riley Mitchell,riley.mitchell435@example.com,Seattle,WA,United States,Small Business,2019-05-28,Y
+CUST-00436,Casey Lewis,casey.lewis436@example.com,Seattle,WA,United States,Corporate,02-Nov-2023, yes 
+CUST-00437,Cameron Mitchell,cameron.mitchell437@example.com,MANCHESTER,England,United Kingdom,Consumer,2018-04-12,Yes
+CUST-00438,Alex Walker,alex.walker438@example.com,Chicago,IL,United States,Enter prise,10-Aug-2019, yes 
+CUST-00439,Robin Mitchell,robin.mitchell439@example.com,Seattle,WA,United States,Consumer,"Sep 29, 2022",Yes
+CUST-00440,Jamie Ibrahim,jamie.ibrahim440@example.com,Berlin,Berlin,Germany,Corporate,2023-07-08,Yes
+CUST-00441,Lee Green,lee.green441@example.com,Austin,TX,United States,Small Business,30-Dec-2021, yes 
+CUST-00442,  Nora King,nora.king442@example.com,Lyon,Auvergne-Rhone-Alpes,France,Enterprise,01-Nov-2024, yes 
+CUST-00443,Jamie Baker,jamie.baker443@example.com,Giza,Giza,Egypt,Small Business,18/04/2025,No
+CUST-00444,Dana Johnson,dana.johnson444@example.com,Sharjah,Sharjah,United Arab Emirates,Small Business,19/01/2019,N
+CUST-00445,Robin Green,robin.green445@example.com,  London,England,United Kingdom,Corporate,2025-07-25,No
+CUST-00446,Sam Saleh,sam.saleh446@example.com,Austin,TX,United States,Enterprise,17-Nov-2022,No
+CUST-00447,Casey Walker,casey.walker447@example.com,Munich,Bavaria,Germany,Corporate,"Jan 20, 2023",Yes
+CUST-00448,Omar Foster,omar.foster448@example.com,New York,NY,United States,Consumer,03-Oct-2018,Yes
+CUST-00449,Avery Saleh,avery.saleh449@example.com,Austin,TX,United States,Small Business,09-Dec-2022,Yes
+CUST-00450,Casey Green,casey.green450@example.com,Alexandria,Alexandria,Egypt,CORPORATE ,06.10.2023,Yes
+CUST-00451,Taylor Smith,taylor.smith451@example.com,Glasgow,Scotland,United Kingdom,Small Business,2022-08-12,Yes
+CUST-00452,Nora King,nora.king452@example.com,Manchester,England,United Kingdom,Enterprise,03-Sep-2018,Yes
+CUST-00453,Lina Martin,lina.martin453@example.com,Paris,Ile-de-France,France,Corporate,2022-02-26,Yes
+CUST-00454,Kareem King,kareem.king454@example.com,Hamburg,Hamburg,Germany,Corporate,07.06.2025, yes 
+CUST-00455,Jordan Clark,jordan.clark455@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,29.09.2023,Yes
+CUST-00456,Lee Adams,lee.adams456@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,03-Feb-2019,Y
+CUST-00457,Riley Saleh,riley.saleh457@example.com,Bengeluru,Karnataka,India,Enterprise,15-Aug-2025,N
+CUST-00458,Chris King,chris.king458@example.com,Paris,Ile-de-France,France,Corporate,"Aug 12, 2025",N
+CUST-00459,Amir Ibrahim,amir.ibrahim459@example.com,New York,NY,United States,Enterprise,"May 07, 2019",Y
+CUST-00460,Cameron Martin,cameron.martin460@example.com,Glasgow,Scotland,United Kingdom,Small Business,11/05/2024,Yes
+CUST-00461,Kareem Hall,kareem.hall461@example.com,Glasgow,Scotland,United Kingdom,Corporate,"Mar 25, 2021",Y
+CUST-00462,ROBIN IBRAHIM,robin.ibrahim462@example.com,Hamburg,Hamburg,Germany,Consumer,"Sep 18, 2022",N
+CUST-00463,Drew Baker,drew.baker463@example.com,Dubai,Dubai,United Arab Emirates,Small Business,"Jul 15, 2021",Yes
+CUST-00464,Maya Taylor,maya.taylor464@example.com,Dubai,Dubai,United Arab Emirates,Small Business,2024-03-19,N
+CUST-00465,Avery Scott,avery.scott465@example.com,Cairo,Cairo,Egypt,Corporate,30/11/2025,Yes
+CUST-00466,Cameron Mitchell,cameron.mitchell466@example.com,atlanta,GA,United States,Consumer,24.04.2024,Yes
+CUST-00467,Robin Mitchell,robin.mitchell467@example.com,Sharjah,Sharjah,United Arab Emirates,Corporate,2025-05-24,Yes
+CUST-00468,Amir Lewis,amir.lewis468@example.com,Berlin,Berlin,Germany,Enter prise,06.07.2025,No
+CUST-00469,  Lina Lewis,lina.lewis469@example.com,Hamburg,Hamburg,Germany,Small Business,"Sep 19, 2018",Y
+CUST-00470,Jordan Adams,jordan.adams470@example.com,Alexandria,Alexandria,Egypt,Enterprise,"Jan 05, 2020",Yes
+CUST-00471,Amir Green,amir.green471@example.com,Abu Dhabi,Abu Dhabi,UNITED ARAB EMIRATES,Enterprise,25.09.2023,Yes
+CUST-00472,Sara Young,sara.young472@example.com,Munich,Bavaria,Germany,Small Business,08-Sep-2022, yes 
+CUST-00473,Daniel Clark,daniel.clark473@example.com,Berlin,Berlin,Germany,Small Business,26-May-2018,Yes
+CUST-00474,Alex King,alex.king474@example.com,New York,NY,United States,Consumer,03/10/2018,Yes
+CUST-00475,Cameron Young,cameron.young475@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,18.02.2022, yes 
+CUST-00476,Morgan Ibrahim,morgan.ibrahim476@example.com,  Berlin,Berlin,Germany,Consumer,22-Nov-2022,N
+CUST-00477,Nora Taylor,nora.taylor477@example.com,Munich,Bavaria,Germany,Consumer ,"May 02, 2019",Yes
+CUST-00478,Yara Green,yara.green478@example.com,Austin,TX,United States,Consumer,12.05.2019, yes 
+CUST-00479,Robin Smith,robin.smith479@example.com,Munich,Bavaria,Germany,Enterprise,2019-01-11,N
+CUST-00480,Lina Johnson,lina.johnson480@example.com,Mumbai,Maharashtra,India,Enterprise,27-Jun-2022,Yes
+CUST-00481,Maya Ibrahim,maya.ibrahim481@example.com,Austin,TX,United States,Small Business,23.01.2018, yes 
+CUST-00482,Taylor Johnson,taylor.johnson482@example.com,Austin,TX,United States,Consumer,19/07/2022,Yes
+CUST-00483,Lina Walker,lina.walker483@example.com,Atlanta,GA,United States,Small Business,2021-10-12, yes 
+CUST-00484,Lee Hall,lee.hall484@example.com,Ceiro,Cairo,Egypt,Corporate,"Sep 13, 2021", yes 
+CUST-00485,Drew Hall,drew.hall485@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,24-May-2023,No
+CUST-00486,Dana Brown,dana.brown486@example.com,Seattle,WA,United States,Consumer,24.02.2022, yes 
+CUST-00487,Amir Green,amir.green487@example.com,Glasgow,Scotland,United Kingdom,Small Business,"Oct 12, 2023", yes 
+CUST-00488,Riley Baker,riley.baker488@example.com,Munich,Bavaria,Germany,Enterprise,2024-01-25,Y
+CUST-00489,Drew King,drew.king489@example.com,Austin,TX,United States,Consumer,22.04.2025,Yes
+CUST-00490,Taylor Johnson,taylor.johnson490@example.com,Austin,TX,United States,Enterprise,06/05/2024,Y
+CUST-00491,Sara Baker,sara.baker491@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,10.02.2022,N
+CUST-00492,Avery Smith,avery.smith492@example.com,London,England,United Kingdom,Corporate,2021-11-28,Y
+CUST-00493,Maya Smith,maya.smith493@example.com,Hamburg,Hamburg,Germany,Consumer,2019-11-15, yes 
+CUST-00494,Chris Saleh,chris.saleh494@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,2022-10-05,Y
+CUST-00495,Avery Walker,avery.walker495@example.com,CHICAGO,IL,United States,Small Business,08/02/2019,No
+CUST-00496,Chris Taylor,chris.taylor496@example.com,Delhi,Delhi,India,Enterprise,24.05.2025,Y
+CUST-00497,Alex Green,alex.green497@example.com,Glasgow,Scotland,United Kingdom,Consumer,16-Sep-2024,Y
+CUST-00498,Amir Hassan,amir.hassan498@example.com,London,England,United Kingdom,Corporate,2018-12-14,Yes
+CUST-00499,Drew Foster,drew.foster499@example.com,Demmam,Eastern Province,Saudi Arabia,Small Business,"Mar 29, 2024",Yes
+CUST-00500,Lina Brown,lina.brown500@example.com,Atlanta,GA,United States,Consumer,06-Dec-2018,N
+CUST-00501,Yara Baker,yara.baker501@example.com,Lyon,Auvergne-Rhone-Alpes,France  ,Corporate,,No
+CUST-00502,Sara Martin,sara.martin502@example.com,New York,NY,United States,Small Business,12.09.2018,N
+CUST-00503,Daniel King,daniel.king503@example.com,Seattle,WA,  United States,Consumer,16-Nov-2021,Yes
+CUST-00504,Amir Hall,amir.hall504@example.com,atlanta,GA,United States,Small Business,23.03.2023,Yes
+CUST-00505,Maya Adams,maya.adams505@example.com,Bengaluru,Karnataka,India,Enterprise,"Oct 15, 2023", yes 
+CUST-00506,Kareem Walker,kareem.walker506@example.com,Atlanta,GA,united states,Enterprise,2021-04-28, yes 
+CUST-00507,Dana Walker,dana.walker507@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,26.04.2025,Yes
+CUST-00508,Sam Brown,sam.brown508@example.com,Chicago,IL,United States,Consumer,2024-02-24,Yes
+CUST-00509,Lina Foster,lina.foster509@example.com,Berlin,Berlin,GERMANY,Consumer,2019-08-27, yes 
+CUST-00510,Morgan Foster,morgan.foster510@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,01.05.2023,Yes
+CUST-00511,Taylor Taylor,taylor.taylor511@example.com,Glasgow,Scotland,United Kingdom,Corporate,"Oct 20, 2023",Yes
+CUST-00512,Dana Ibrahim,dana.ibrahim512@example.com,Hamburg,Hamburg,Germany,Consumer,25/08/2020,Y
+CUST-00513,Cameron King,cameron.king513@example.com,Atlanta,GA,United States,Small Business,11-Nov-2023,Yes
+CUST-00514,Casey Wilson,casey.wilson514@example.com,Sharjah,Sharjah,United Arab Emirates,Corporate,"Feb 18, 2025", yes 
+CUST-00515,Riley Clark,riley.clark515@example.com,Austin,TX,United States,Consumer,"Jun 27, 2024",Y
+CUST-00516,Dana Young,dana.young516@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,21.01.2024,N
+CUST-00517,Kareem Scott,kareem.scott517@example.com,Jeddah,  Makkah,Saudi Arabia,Consumer,15-Jan-2023,Yes
+CUST-00518,Riley Hall,riley.hall518@example.com,Paris,Ile-de-France,FRANCE,Consumer,24/02/2020,No
+CUST-00519,Sam Clark,sam.clark519@example.com,Cairo,Cairo,Egypt,Corporate,2024-04-25,Yes
+CUST-00520,Riley Clark,riley.clark520@example.com,Chicago,IL,United States,Corporate,22-Nov-2020, yes 
+CUST-00521,Jordan Foster,jordan.foster521@example.com,Chicago,IL,United States,Enterprise,2022-03-24,Yes
+CUST-00522,Maya King,maya.king522@example.com,Munich,Bavaria,Germany,Corporate,"Jun 30, 2020",N
+CUST-00523,Riley Baker,riley.baker523@example.com,Chicago,IL,United States,Corporate,2020-06-26,Yes
+CUST-00524,Jamie Saleh,jamie.saleh524@example.com,Hamburg,Hamburg,Germany,Corporate,03/04/2019,No
+CUST-00525,Robin Brown,robin.brown525@example.com,New York,NY,United States,Enterprise,19/08/2025,Yes
+CUST-00526,Cameron Hall,cameron.hall526@example.com,Austin,TX,United States,Corporate,05-Mar-2019,Yes
+CUST-00527,Robin Scott,robin.scott527@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,08/09/2018,No
+CUST-00528,Omar Baker,omar.baker528@example.com,Atlanta,GA,United States,Consumer,"Jun 07, 2025",Yes
+CUST-00529,Drew Smith,drew.smith529@example.com,Manchester,England,United Kingdom,Corporate,29-May-2022,Y
+CUST-00530,Casey Wilson,casey.wilson530@example.com,New York,NY,United States,Enterprise,23.06.2021,Yes
+CUST-00531,Nora Taylor,nora.taylor531@example.com,Dubai,Dubai,United Arab Emirates,Corporate,2023-11-09,No
+CUST-00532,Drew Mitchell,drew.mitchell532@example.com,Manchester,England,United Kingdom,Corporate,"Jan 16, 2021",No
+CUST-00533,Chris Clark,chris.clark533@example.com,Berlin,Berlin,Germany,Small Business,06.01.2019,Yes
+CUST-00534,Lee Brown,lee.brown534@example.com,Chicago,IL,United States,Consumer,18-Oct-2023,N
+CUST-00535,Robin Hall,robin.hall535@example.com,Delhi,Delhi,India,Consumer,"May 26, 2019",Yes
+CUST-00536,Jamie Martin,jamie.martin536@example.com,London  ,England,United Kingdom,Corporate,23-May-2022,Yes
+CUST-00537,  Sam Green,sam.green537@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,15/07/2025,No
+CUST-00538,Morgan Wilson,morgan.wilson538@example.com,Austin,TX,United States,Small Business,07-Jun-2025, yes 
+CUST-00539,Daniel Taylor,daniel.taylor539@example.com,New York,NY,United States,Small Business,2020-11-12,N
+CUST-00540,Yara Johnson,yara.johnson540@example.com,Abu Dhabi,Abu Dhabi,united arab emirates,Consumer,12-Mar-2024,Yes
+CUST-00541,Dana Smith,dana.smith541@example.com,  New York,NY,United States,Consumer,12.11.2022,Y
+CUST-00542,Sam Khan,sam.khan542@example.com,Austin,TX,United States,Enterprise,22-Oct-2021,Yes
+CUST-00543,Jamie Brown,jamie.brown543@example.com,Glasgow  ,Scotland,United Kingdom,Enterprise,"Feb 10, 2019", yes 
+CUST-00544,Cameron Taylor,cameron.taylor544@example.com,Paris,Ile-de-France,France,Small Business,27-Dec-2020, yes 
+CUST-00545,Sam Smith,sam.smith545@example.com,Cairo,Cairo,Egypt,Small busines,2023-03-06,Yes
+CUST-00546,Jamie Ibrahim,jamie.ibrahim546@example.com,Seattle,WA,United States,Small Business,01-Nov-2025,Yes
+CUST-00547,Maya Green,maya.green547@example.com,London,England,United Kingdom,Consumer,15/01/2018, yes 
+CUST-00548,Jamie Ibrahim,jamie.ibrahim548@example.com,giza,Giza,Egypt,Consumer,13/09/2023,Yes
+CUST-00549,Omar Clark,omar.clark549@example.com,Atlanta,GA,United States,Small Business,20.09.2024,N
+CUST-00550,Taylor King,taylor.king550@example.com,Seattle,WA,United States,Small Business,21.07.2025,No
+CUST-00551,Daniel Khan,daniel.khan551@example.com,Delhi,Delhi,India,Corporate,14.05.2021,Yes
+CUST-00552,Alex Smith,alex.smith552@example.com,Chicago,IL,United States,Corporate,"Dec 10, 2018",Yes
+CUST-00553,Morgan Scott,morgan.scott553@example.com,London,England,United Kingdom,Small Business,25-Feb-2020,N
+CUST-00554,Dana Lewis,dana.lewis554@example.com,Seattle,WA,United States,Corporate,02/10/2024,Yes
+CUST-00555,Sara Martin,,Atlanta,GA,United States,Small Business,21.12.2024,Yes
+CUST-00556,Omar Mitchell,omar.mitchell556@example.com,Giza,Giza,Egypt,Small Business,22/01/2023,Yes
+CUST-00557,  Chris Hall,,Giza,Giza,Egypt,Small Business,22/12/2018,Yes
+CUST-00558,Riley Adams,riley.adams558@example.com,Chicago,IL,United States,Small Business,20.12.2018,No
+CUST-00559,Morgan Foster,morgan.foster559@example.com,  Sharjah,Sharjah,United Arab Emirates,Small Business,2021-10-18,Yes
+CUST-00560,Sara Saleh,sara.saleh560@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,02-Sep-2022,Y
+CUST-00561,Sara Young,sara.young561@example.com,Hamburg,Hamburg,Germany,Corporate,04.04.2018, yes 
+CUST-00562,Casey Smith,casey.smith562@example.com,Giza,Giza,Egypt,Corporate,"Jun 13, 2023",No
+CUST-00563,Amir Young,,Cairo,Cairo,Egypt,Consumer,2022-04-29,Yes
+CUST-00564,Sara Taylor,sara.taylor564@example.com,Hamburg,Hamburg,Germany,Consumer,05.02.2018, yes 
+CUST-00565,Lee Martin,lee.martin565@example.com,Atlanta,GA,United States,Small Business,05.10.2018,N
+CUST-00566,Chris Walker,chris.walker566@example.com,Austin,TX,United States,Small Business,10-Aug-2021, yes 
+CUST-00567,Daniel Brown,daniel.brown567@example.com,Atlanta,GA,United States,Small Business,27-Sep-2023,Yes
+CUST-00568,Kareem Saleh,kareem.saleh568@example.com,Austin,TX,United States,Consumer,"Jul 21, 2024",Y
+CUST-00569,Dana Young,dana.young569@example.com,Seattle,WA,United States,Consumer,04/06/2021, yes 
+CUST-00570,Nora Mitchell,nora.mitchell570@example.com,Paris,Ile-de-France,FRANCE,Consumer,2020-05-06,Yes
+CUST-00571,AMIR CLARK,amir.clark571@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,2025-09-09, yes 
+CUST-00572,Kareem Scott,kareem.scott572@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,22.08.2021,Yes
+CUST-00573,Drew Clark,drew.clark573@example.com,Hamburg,Hamburg,Germany,Consumer,03.07.2020,N
+CUST-00574,Lee Adams,lee.adams574@example.com,Chicago,IL,United States,Consumer,06/07/2021,No
+CUST-00575,Sara Martin,sara.martin575@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,05.02.2018,Yes
+CUST-00576,Chris Adams,chris.adams576@example.com,Chicago,IL,United States,Consumer,25.05.2020,Yes
+CUST-00577,Robin Smith,robin.smith577@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,2022-02-04, yes 
+CUST-00578,Nora Foster,nora.foster578@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,CONSUMER,"Apr 17, 2025",No
+CUST-00579,Omar Foster,omar.foster579@example.com,Atlanta,GA,United States,Consumer,11/11/2023,Y
+CUST-00580,Taylor Khan,taylor.khan580@example.com,Chicago,IL,United States,Consumer,2024-03-15,Yes
+CUST-00581,Sara Khan,sara.khan581@example.com,Bristol,England,United Kingdom,Corporate,2022-04-30,Yes
+CUST-00582,Drew Clark,drew.clark582@example.com,Chicago,IL,United States,Consumer,17/11/2018,No
+CUST-00583,Sara Green,sara.green583@example.com,Hamburg,Hamburg,Germany,Consumer,"Feb 07, 2021",Y
+CUST-00584,Sam Green,sam.green584@example.com,Chicago,IL,United States,Consumer,01-Dec-2025,Yes
+CUST-00585,Jamie Walker,,Riyadh,Riyadh,Saudi Arabia,Consumer,09.05.2018,Yes
+CUST-00586,Lina Hall,lina.hall586@example.com,Munich,Bavaria,Germany,Consumer,"Dec 24, 2024",Y
+CUST-00587,Nora Saleh,nora.saleh587@example.com,Abu Dhebi,Abu Dhabi,United Arab Emirates,Enterprise,09-Jun-2023,N
+CUST-00588,Daniel Green,daniel.green588@example.com,Dammam,Eastern Province,Saudi Arabia,Corporate,03/04/2020,Yes
+CUST-00589,Drew Green,drew.green589@example.com,Dubai,Dubai,United Arab Emirates,Consumer,06.03.2024, yes 
+CUST-00590,Sara Hassan,sara.hassan590@example.com,Delhi,Delhi,India,Small Business,2024-08-24,N
+CUST-00591,Kareem King,kareem.king591@example.com,munich,Bavaria,Germany,Enterprise,06/05/2018,Yes
+CUST-00592,Maya King,maya.king592@example.com,Chicago,IL,United States,Small Business,2018-11-05,Yes
+CUST-00593,Cameron Clark,,Bristol,England,United Kingdom,Small Business,15.04.2023,Y
+CUST-00594,Robin Smith,robin.smith594@example.com,Mumbai,Maharashtra,India,CORPORATE ,2025-12-07,Y
+CUST-00595,Dana Taylor,dana.taylor595@example.com,Berlin,Berlin,Germany,Corporate,2018-03-11,No
+CUST-00596,Avery Wilson,avery.wilson596@example.com,Alexandria,Alexandria,Egypt,Corporate,15-Apr-2023,Yes
+CUST-00597,Nora Mitchell,nora.mitchell597@example.com,Chicago,IL,United States,Small Business,"Jan 31, 2019",N
+CUST-00598,Casey Taylor,casey.taylor598@example.com,Delhi,Delhi,India,Consumer,"Mar 01, 2023",N
+CUST-00599,Drew Hall,drew.hall599@example.com,Seattle,WA,United States,Consumer,13/12/2022,N
+CUST-00600,Nora Taylor,nora.taylor600@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,20-Sep-2018,Yes
+CUST-00601,Alex Ibrahim,alex.ibrahim601@example.com,Delhi,Delhi,India,Small Business,"May 29, 2023",No
+CUST-00602,Morgan Walker,morgan.walker602@example.com,Abu Dhabi,Abu Dhabi,UNITED ARAB EMIRATES,Small Business,"Feb 14, 2025",Yes
+CUST-00603,Nora King,nora.king603@example.com,Hamburg,Hamburg,Germany,Consumer,"Nov 08, 2024",Y
+CUST-00604,Amir Walker,amir.walker604@example.com,Dubai,Dubai,United Arab Emirates,Consumer,26/03/2018,Yes
+CUST-00605,Taylor Khan,taylor.khan605@example.com,Cairo,Cairo,Egypt  ,Small Business,"Dec 15, 2019",Yes
+CUST-00606,Amir Taylor,amir.taylor606@example.com,Delhi,Delhi,India,Small Business,30-Nov-2019,Yes
+CUST-00607,Yara Clark,yara.clark607@example.com,Paris,Ile-de-France,France,Enterprise,07.08.2021,Y
+CUST-00608,Alex Martin,alex.martin608@example.com,Manchester,England,United Kingdom,Consumer,19/02/2019,Yes
+CUST-00609,Morgan Martin  ,morgan.martin609@example.com,Giza,Giza,Egypt,Corporate,13/10/2024, yes 
+CUST-00610,Alex Foster,alex.foster610@example.com,New York,NY,United States,Corporate,02-Mar-2024,Yes
+CUST-00611,Robin Lewis,robin.lewis611@example.com,Paris,Ile-de-France,France,Corporate,02.06.2024,N
+CUST-00612,Lee Lewis,lee.lewis612@example.com,Manchester,England,United Kingdom,Small Business,29/07/2019,No
+CUST-00613,Riley Saleh  ,riley.saleh613@example.com,Chicago,IL,United States,Corporate,12.02.2018,Yes
+CUST-00614,Chris Taylor,chris.taylor614@example.com,Munich,  Bavaria,Germany,Consumer,25/03/2025, yes 
+CUST-00615,Amir Ibrahim,,Chicago,IL,United States,Consumer,17.04.2020, yes 
+CUST-00616,Nora Wilson,nora.wilson616@example.com,Austin,TX,United States,Corporate,19.03.2023,Yes
+CUST-00617,Alex Lewis,alex.lewis617@example.com,Chicago,IL,United States,Corporate,22/03/2025,Yes
+CUST-00618,Robin Brown,robin.brown618@example.com,Austin,TX,United States,Consumer,15/04/2018,N
+CUST-00619,Drew King,drew.king619@example.com,Giza,Giza,Egypt,Small Business,,Yes
+CUST-00620,Sam Wilson,sam.wilson620@example.com,Riyadh,Riyadh,Saudi Arabia,Small Business,16/01/2018,Yes
+CUST-00621,Sam Adams,sam.adams621@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,"Mar 30, 2019",No
+CUST-00622,Omar Khan,omar.khan622@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,30-May-2018,Yes
+CUST-00623,ROBIN KHAN,robin.khan623@example.com,New York,NY,United States,Consumer,"Jul 05, 2024",No
+CUST-00624,Jordan Wilson,jordan.wilson624@example.com,chicago,IL,United States,Consumer,"Oct 24, 2022", yes 
+CUST-00625,Robin Wilson,robin.wilson625@example.com,Chicago,IL,United States,Enterprise,13-Oct-2025,No
+CUST-00626,Lee Foster,lee.foster626@example.com,Hamburg,Hamburg,Germany,Consumer,13.05.2024,N
+CUST-00627,Omar Walker,omar.walker627@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,25/08/2025,No
+CUST-00628,Chris Martin,chris.martin628@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,23/11/2019,Yes
+CUST-00629,Dana Clark,dana.clark629@example.com,Dammam,EASTERN PROVINCE,Saudi Arabia,Corporate,2020-04-14, yes 
+CUST-00630,Omar Clark,omar.clark630@example.com,Mumbai,Maharashtra,India,Corporate,2024-09-29,Yes
+CUST-00631,Drew Scott,drew.scott631@example.com,Austin,TX,United States,Small Business,2019-12-12,Y
+CUST-00632,Alex Saleh,alex.saleh632@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,15/06/2018, yes 
+CUST-00633,Yara Martin,yara.martin633@example.com,Cairo,Cairo,Egypt,Enterprise,25.04.2023,Yes
+CUST-00634,Chris Lewis,chris.lewis634@example.com,Bengaluru,Karnataka,India,Consumer ,2024-05-11,No
+CUST-00635,Avery Hall,avery.hall635@example.com,Austin,TX,United States,Corporate,08.09.2025,N
+CUST-00636,Lina Adams,lina.adams636@example.com,Mumbai,Maharashtra,India,Small Business,14-May-2025,Yes
+CUST-00637,Maya Baker,maya.baker637@example.com,Seattle,WA,United States,Consumer,, yes 
+CUST-00638,Avery Saleh,avery.saleh638@example.com,Seattle,WA,United States,Small Business,2024-02-18,Yes
+CUST-00639,Chris Green,chris.green639@example.com,New York,NY,United States,Corporate,"Sep 19, 2024",Yes
+CUST-00640,Amir Clark,amir.clark640@example.com,PARIS,Ile-de-France,France,Enterprise,2023-07-18, yes 
+CUST-00641,Cameron Foster,cameron.foster641@example.com,Alexandria,Alexandria,Egypt,Corporate,05-Jul-2024,Yes
+CUST-00642,Dana Young,dana.young642@example.com,Mumbai,Maharashtra,India,Consumer,27-Aug-2024,N
+CUST-00643,Omar Ibrahim,omar.ibrahim643@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,18-Jul-2021,Yes
+CUST-00644,Casey Adams,casey.adams644@example.com,Seattle,WA,United States,Small Business,"Apr 27, 2018",Yes
+CUST-00645,Dana Khan,dana.khan645@example.com,Chicago,IL,United States,Consumer ,15-Aug-2021,Y
+CUST-00646,Yara Adams,yara.adams646@example.com,Riyadh,Riyadh,Saudi Arabia,Small Business,09.08.2019,No
+CUST-00647,Omar Green,omar.green647@example.com,Manchester,England,United Kingdom,Small Business,2018-11-26,Yes
+CUST-00648,Dana Taylor,dana.taylor648@example.com,Sharjah,Sharjah,UNITED ARAB EMIRATES,Enterprise,29.12.2018,Y
+CUST-00649,Nora Taylor,nora.taylor649@example.com,Manchester,England,United Kingdom,SMALL BUSINESS,"Jul 16, 2023",Yes
+CUST-00650,  Drew Green,drew.green650@example.com,Bristol,England,United Kingdom,Small Business,03-Jan-2022,Yes
+CUST-00651,Jamie Khan,jamie.khan651@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,15/04/2022,No
+CUST-00652,Avery Green,avery.green652@example.com,Bengaluru,Karnataka,India,Consumer,"Dec 02, 2023",Yes
+CUST-00653,Taylor Brown,,Peris,Ile-de-France,France,Enterprise,09/05/2022,No
+CUST-00654,Avery Lewis,avery.lewis654@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,02-Jan-2023,Yes
+CUST-00655,Amir Saleh,amir.saleh655@example.com,Paris,Ile-de-France,France,Enterprise,07/09/2018,No
+CUST-00656,Dana Brown,dana.brown656@example.com,New York,NY,United States,Consumer,2024-10-04,Yes
+CUST-00657,Daniel Johnson,daniel.johnson657@example.com,Giza,Giza,Egypt,Corporate,25/07/2021,Y
+CUST-00658,Maya Hassan,maya.hassan658@example.com,New York,NY,United States,Corporate,27-Mar-2019,Yes
+CUST-00659,Robin Khan,robin.khan659@example.com,Berlin,Berlin,Germany,Small Business,16-Jun-2024,No
+CUST-00660,Drew Martin,drew.martin660@example.com,Atlanta,GA,United States,Small Business,01.11.2023,No
+CUST-00661,Robin Foster,robin.foster661@example.com,Austin,TX,United States,Consumer,"Jun 03, 2018",Yes
+CUST-00662,Avery Young,avery.young662@example.com,London,England,United Kingdom,Consumer,2019-07-14,N
+CUST-00663,Lina Young,lina.young663@example.com,Glasgow,Scotland,United Kingdom,Small Business,2018-02-15,Y
+CUST-00664,sara green,sara.green664@example.com,Delhi,Delhi,India,Consumer,25-Feb-2020,Y
+CUST-00665,Drew Smith,drew.smith665@example.com,London,England,United Kingdom,Consumer,2018-10-17,Yes
+CUST-00666,Nora Taylor,nora.taylor666@example.com,Dubai,Dubai,United Arab Emirates,Corporate,21.08.2023,Yes
+CUST-00667,Nora Foster,nora.foster667@example.com,Alexandria,Alexandria,Egypt,Corporate,24.02.2022,Yes
+CUST-00668,Kareem King,kareem.king668@example.com,Chicago,IL,United States,Consumer,2025-10-13,Yes
+CUST-00669,Cameron Martin,cameron.martin669@example.com,Glasgow,Scotland,United Kingdom,Consumer,14.12.2023,N
+CUST-00670,Jamie Saleh,jamie.saleh670@example.com,Atlanta,GA,United States,Corporate,"Nov 09, 2022", yes 
+CUST-00671,Amir Clark,amir.clark671@example.com,Bengaluru  ,Karnataka,India,Small Business,"Jan 17, 2022", yes 
+CUST-00672,Drew Baker,drew.baker672@example.com,Hamburg,Hamburg,Germany,Consumer,08.06.2018,Yes
+CUST-00673,Avery Mitchell,avery.mitchell673@example.com,Seattle,WA,United States,Consumer,2018-07-23,No
+CUST-00674,Robin Walker,robin.walker674@example.com,Alexandria,Alexandria,Egypt,Corporate,2022-11-23,Yes
+CUST-00675,Dana Clark,dana.clark675@example.com,Sharjah,Sharjah,United Arab Emirates,Enterprise,2018-01-13,Yes
+CUST-00676,Lina Walker,lina.walker676@example.com,New York,NY,United States,Corporate,03-May-2018,No
+CUST-00677,Robin Foster,robin.foster677@example.com,Chicago,IL,United States,Consumer,28/09/2019,Yes
+CUST-00678,Avery Martin,avery.martin678@example.com,London,ENGLAND,United Kingdom,Consumer,2025-01-08,Y
+CUST-00679,  Lina Smith,lina.smith679@example.com,Glasgow,Scotland,United Kingdom,Consumer,23/08/2021, yes 
+CUST-00680,Kareem Young,kareem.young680@example.com,Austin,TX,UNITED STATES,Enterprise,"Aug 20, 2023", yes 
+CUST-00681,Nora Taylor,nora.taylor681@example.com,Giza,Giza,Egypt,Consumer,"Apr 08, 2021",N
+CUST-00682,Robin Clark,robin.clark682@example.com,Alexandria,Alexandria,Egypt,Small Business,"May 18, 2019",Yes
+CUST-00683,Sam Scott,sam.scott683@example.com,Bristol,England,United Kingdom,Corporate,"Dec 12, 2020", yes 
+CUST-00684,Morgan Smith,morgan.smith684@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,2018-09-23, yes 
+CUST-00685,Jordan Clark,jordan.clark685@example.com,GLASGOW,Scotland,UNITED KINGDOM,Consumer,"Feb 12, 2024",N
+CUST-00686,Taylor Walker,taylor.walker686@example.com,Paris,Ile-de-France,France,Small Business,17.06.2019,No
+CUST-00687,Cameron Hall,cameron.hall687@example.com,London,England,United Kingdom,Small Business,"Dec 27, 2020",Yes
+CUST-00688,Drew Saleh,drew.saleh688@example.com,London,England,United Kingdom,Consumer,13-Oct-2025,No
+CUST-00689,Dana Green,dana.green689@example.com,Glasgow,Scotland,United Kingdom,Consumer,"Sep 13, 2022",Yes
+CUST-00690,Lina Hall,lina.hall690@example.com,Atlanta,GA,  United States,Consumer,2021-08-22,Yes
+CUST-00691,Lina Adams,lina.adams691@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates  ,Consumer,24.04.2022,Yes
+CUST-00692,Drew Foster,drew.foster692@example.com,Chicago,IL,United States,Consumer,"Mar 23, 2024",Yes
+CUST-00693,Nora Smith,nora.smith693@example.com,New York,NY,United States,Consumer,08-Jan-2020, yes 
+CUST-00694,Sara Ibrahim,sara.ibrahim694@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,20.01.2023,No
+CUST-00695,Lina Adams,lina.adams695@example.com,London,England,United Kingdom,SMALL BUSINESS,05.12.2024,Yes
+CUST-00696,Amir Foster,amir.foster696@example.com,Dubai,Dubai,United Arab Emirates,Consumer,,Yes
+CUST-00697,Robin Hassan,robin.hassan697@example.com,Manchester,England,United Kingdom,Consumer,18-Jul-2021,No
+CUST-00698,Chris Adams,chris.adams698@example.com,Seattle,WA,United States,Enterprise,"Feb 25, 2019", yes 
+CUST-00699,Alex Martin,alex.martin699@example.com,London,England,United Kingdom,Small Business,22/12/2019,Yes
+CUST-00700,Kareem Scott,kareem.scott700@example.com,Mumbai,  Maharashtra,India,Consumer,2025-07-06,Yes
+CUST-00701,Chris Wilson,chris.wilson701@example.com,Glasgow,Scotland,United Kingdom,Consumer,"Apr 19, 2022", yes 
+CUST-00702,Lina Smith  ,lina.smith702@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,23/05/2020,N
+CUST-00703,Amir Hassan,amir.hassan703@example.com,Giza,Giza,Egypt,Enterprise,28.04.2021,No
+CUST-00704,Lina Brown,lina.brown704@example.com,Dubai,Dubai,United Arab Emirates,Consumer,04-Aug-2022,No
+CUST-00705,Avery Hall,avery.hall705@example.com,Cairo,Cairo,  Egypt,Enterprise,08-Apr-2022,N
+CUST-00706,Dana Walker,dana.walker706@example.com,Austin,TX,United States,Consumer,23/07/2023,No
+CUST-00707,Daniel Johnson,daniel.johnson707@example.com,Atlanta,GA,United States,Small Business,2020-01-17,Yes
+CUST-00708,  Jamie Foster,jamie.foster708@example.com,Atlanta  ,GA,United States,Consumer,"Feb 26, 2023",No
+CUST-00709,Yara Wilson,yara.wilson709@example.com,Seattle,WA,United States,Consumer,2021-07-07,Yes
+CUST-00710,Alex Lewis,alex.lewis710@example.com,Atlanta,GA  ,United States,Enterprise,20/06/2025,Yes
+CUST-00711,Daniel Foster,daniel.foster711@example.com,Austin,TX,United States,Consumer,03.04.2019,N
+CUST-00712,Jamie Baker,jamie.baker712@example.com,Alexandria,Alexandria,Egypt,Enterprise,2019-03-07,Yes
+CUST-00713,Daniel Adams,daniel.adams713@example.com,Bengaluru,Karnataka,India,Consumer,31/08/2021,Yes
+CUST-00714,Amir Baker,amir.baker714@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,14.01.2022,No
+CUST-00715,Chris Baker,chris.baker715@example.com,Seattle,WA,UNITED STATES,Consumer,27-Jun-2023, yes 
+CUST-00716,Riley Smith,riley.smith716@example.com,Bengaluru,Karnataka,India,Small Business,17-Mar-2021, yes 
+CUST-00717,Dana Saleh,dana.saleh717@example.com,Lyon,Auvergne-Rhone-Alpes,France,Corporate,03-Apr-2025,Yes
+CUST-00718,Sam Saleh,sam.saleh718@example.com,Lyon,Auvergne-Rhone-Alpes,France,CORPORATE ,07-Oct-2021, yes 
+CUST-00719,Lee Baker,,Menchester,England,United Kingdom,Consumer,11-Jan-2019,Y
+CUST-00720,Lee Martin,lee.martin720@example.com,Dubai,Dubai,United Arab Emirates,Corporate,2018-12-12,N
+CUST-00721,Lee Saleh,lee.saleh721@example.com,Atlanta,GA,United States,Consumer,23-Sep-2025,Y
+CUST-00722,Jamie King,jamie.king722@example.com,Giza,Giza,Egypt,Consumer,24.01.2019,Yes
+CUST-00723,Daniel King,daniel.king723@example.com,Austin,TX,United States,Corporat,2025-07-11,Yes
+CUST-00724,Maya Hassan,maya.hassan724@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,2020-03-17,Yes
+CUST-00725,Amir Khan,amir.khan725@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,28-Sep-2018,Yes
+CUST-00726,Jamie Young,jamie.young726@example.com,Delhi,Delhi,India,Corporate,02.06.2020,Yes
+CUST-00727,Maya Brown,maya.brown727@example.com,Atlanta,GA,United States,Enterprise,18/11/2022, yes 
+CUST-00728,Lina Mitchell,lina.mitchell728@example.com,Bengaluru,Karnataka,India,Corporate,25/05/2021,Yes
+CUST-00729,Avery Taylor,avery.taylor729@example.com,Mumbai,maharashtra,India  ,Small Business,"Mar 28, 2024",No
+CUST-00730,Casey Scott,casey.scott730@example.com,Delhi,Delhi,India,Corporate,2022-11-07,Yes
+CUST-00731,Lee Green,lee.green731@example.com,Alexandria,Alexandria,Egypt,Small Business,"Mar 08, 2021",Yes
+CUST-00732,Lina Saleh,lina.saleh732@example.com,New York,NY,United States,Small Business,15.01.2023,Yes
+CUST-00733,Maya Saleh,maya.saleh733@example.com,Atlanta,GA,United States,Corporate,18/09/2025,No
+CUST-00734,Daniel Young,daniel.young734@example.com,Munich,Bavaria,Germany,Consumer,"Apr 09, 2021", yes 
+CUST-00735,Sara Walker,sara.walker735@example.com,  Chicago,IL,United States,Enterprise,, yes 
+CUST-00736,Riley Hall,riley.hall736@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,31.03.2021,No
+CUST-00737,Casey Walker,casey.walker737@example.com,Berlin,Berlin,Germany,Corporate,02.09.2024,N
+CUST-00738,Taylor Young,taylor.young738@example.com,Giza,Giza,Egypt,Consumer,2019-09-24,N
+CUST-00739,Casey Saleh,casey.saleh739@example.com,Dubai,Dubai,United Arab Emirates,Consumer,2025-07-15,Y
+CUST-00740,Riley Smith,riley.smith740@example.com,Bengaluru,Karnataka,India,Enterprise,03-Sep-2022,No
+CUST-00741,Drew Lewis,drew.lewis741@example.com,Dubai,Dubai,United Arab Emirates,Small Business,11-Oct-2022,No
+CUST-00742,Jamie Mitchell,jamie.mitchell742@example.com,Lyon,Auvergne-Rhone-Alpes,France,Corporate,08.07.2020,Y
+CUST-00743,Alex Hall,alex.hall743@example.com,Berlin,Berlin,Germany,Small Business,23.04.2025,Yes
+CUST-00744,Nora Lewis,nora.lewis744@example.com,Delhi,Delhi,India,Corporate,"Apr 15, 2018",Y
+CUST-00745,Kareem Smith,kareem.smith745@example.com,London,England,United Kingdom,Corporate,16/05/2020,Yes
+CUST-00746,Yara Lewis,yara.lewis746@example.com,Delhi,Delhi,India,Corporat,"Apr 28, 2021",Yes
+CUST-00747,  Jordan Martin,jordan.martin747@example.com,Hemburg,Hamburg,Germany,Consumer,2021-10-16,Yes
+CUST-00748,Alex Smith,alex.smith748@example.com,Seattle,WA,United States,Consumer,06.10.2021,Y
+CUST-00749,Cameron Baker,cameron.baker749@example.com,Alexandria,Alexandria,Egypt,Enterprise,"Mar 05, 2019",Y
+CUST-00750,Nora Scott,nora.scott750@example.com,New York,NY  ,United States,Consumer,17-Oct-2019,Yes
+CUST-00751,Morgan Khan,morgan.khan751@example.com,New York,NY,United States,Small Business,04/10/2018,Yes
+CUST-00752,Dana Hall,dana.hall752@example.com,Jeddah,Makkah,Saudi Arabia  ,Consumer,"Jul 19, 2022",No
+CUST-00753,Sam Baker,sam.baker753@example.com,Manchester,England,United Kingdom,CONSUMER,14/10/2020,Yes
+CUST-00754,Jordan Green,jordan.green754@example.com,Berlin,Berlin,Germany,Enterprise,29-Jun-2022,N
+CUST-00755,Cameron Hassan,cameron.hassan755@example.com,Bengaluru,Karnataka,India,Enterprise,"Sep 07, 2022",Y
+CUST-00756,Riley Young,riley.young756@example.com,Glasgow,Scotland,United Kingdom,Consumer,2023-07-29,Yes
+CUST-00757,Yara Taylor,yara.taylor757@example.com,Cairo,Cairo,Egypt,Consumer,2022-05-06,Yes
+CUST-00758,Lina Hall,lina.hall758@example.com,Glasgow,Scotland,United Kingdom,Corporate,23/02/2023,Yes
+CUST-00759,Maya Saleh,maya.saleh759@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,30.08.2022,Yes
+CUST-00760,Riley Brown,riley.brown760@example.com,Chicago,IL,United States,Consumer,08.03.2023,No
+CUST-00761,Drew Hassan,drew.hassan761@example.com,Alexandria,Alexandria,Egypt,Small Business,"Nov 24, 2022", yes 
+CUST-00762,Amir Walker,amir.walker762@example.com,Chicago,IL,United States,Enterprise,06/07/2020,Yes
+CUST-00763,Sara King,sara.king763@example.com,Delhi,Delhi,India,Enterprise,16/12/2019,No
+CUST-00764,Alex Saleh,alex.saleh764@example.com,Manchester,ENGLAND,UNITED KINGDOM,Corporate,02-Apr-2024,Yes
+CUST-00765,Alex Adams,alex.adams765@example.com,Sharjah,Sharjah,United Arab Emirates,Small Business,"Sep 20, 2020",N
+CUST-00766,Casey Brown,casey.brown766@example.com,Chicago,IL,United States,Consumer,"May 12, 2022",N
+CUST-00767,Yara Martin,yara.martin767@example.com,Austin,TX,United States,Corporate,"Jul 26, 2019",Yes
+CUST-00768,Avery Baker,avery.baker768@example.com,Cairo,Cairo,Egypt,Enterprise,2021-06-05,Yes
+CUST-00769,Taylor Saleh,taylor.saleh769@example.com,Munich,Bavaria,Germany,consumer,17/03/2022,N
+CUST-00770,Kareem Lewis,kareem.lewis770@example.com,London,England,United Kingdom,Consumer,"Dec 21, 2022",Yes
+CUST-00771,Cameron Clark,cameron.clark771@example.com,Berlin,Berlin,Germany,Small Business,07/03/2022,Yes
+CUST-00772,Casey Khan,casey.khan772@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,11-Nov-2020,Yes
+CUST-00773,Cameron Clark,cameron.clark773@example.com,Berlin,Berlin,Germany,Consumer,"Aug 21, 2025",Yes
+CUST-00774,Amir King,amir.king774@example.com,London,England,United Kingdom,Small Business,"Jan 26, 2022",Yes
+CUST-00775,Daniel Baker,daniel.baker775@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,2024-06-02,Yes
+CUST-00776,Morgan Green,morgan.green776@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,"Nov 07, 2023",Yes
+CUST-00777,Casey Mitchell,casey.mitchell777@example.com,Paris,Ile-de-France,France,Consumer,,Yes
+CUST-00778,Drew Hall,drew.hall778@example.com,Chicago,IL,United States,Consumer,,Yes
+CUST-00779,Omar Mitchell,omar.mitchell779@example.com,Glasgow,Scotland,United Kingdom,Small Business,07/01/2019,No
+CUST-00780,Sara Green,sara.green780@example.com,Jeddah,Makkah,Saudi Arabia,Corporate,25-Apr-2025,Yes
+CUST-00781,Daniel Ibrahim,daniel.ibrahim781@example.com,London,England,United Kingdom,Consumer,01.10.2024,Yes
+CUST-00782,Sara Adams,,Glasgow,Scotland,United Kingdom,Small Business,2021-12-31,N
+CUST-00783,avery young,avery.young783@example.com,Mumbai,Maharashtra,India,Small Business,28.10.2023,Y
+CUST-00784,Yara Young,yara.young784@example.com,Glasgow,Scotland,United Kingdom,Consumer,17-Feb-2022,N
+CUST-00785,Maya Ibrahim,maya.ibrahim785@example.com,dubai,Dubai,United Arab Emirates,Consumer,19-Feb-2020,N
+CUST-00786,Omar Walker,omar.walker786@example.com,London,  England,United Kingdom,CONSUMER,08/05/2024,Yes
+CUST-00787,Kareem Wilson,kareem.wilson787@example.com,Dubai,Dubai,United Arab Emirates,Corporate,"Dec 15, 2019",Y
+CUST-00788,Sam King,sam.king788@example.com,Berlin,Berlin,Germany,Consumer,2020-06-30,Yes
+CUST-00789,Kareem Foster,kareem.foster789@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,14/02/2022,N
+CUST-00790,Lina Adams,lina.adams790@example.com,Jeddah,Makkah,Saudi Arabia,Corporate,25-Aug-2024,Yes
+CUST-00791,Alex Green,alex.green791@example.com,Chicago,IL,United States,SMALL BUSINESS,"Jan 18, 2021",Yes
+CUST-00792,Lee Saleh,lee.saleh792@example.com,Giza,GIZA,Egypt,Enterprise,04.12.2021,Yes
+CUST-00793,Sara Scott,sara.scott793@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,01-May-2018,Yes
+CUST-00794,Lee Mitchell,lee.mitchell794@example.com,Bristol,England,United Kingdom,enterprise,02.12.2018,Yes
+CUST-00795,Chris Ibrahim,chris.ibrahim795@example.com,Manchester,England,United Kingdom,Small Business,12.06.2018,Y
+CUST-00796,Dana Ibrahim,dana.ibrahim796@example.com,Manchester,England,United Kingdom,Consumer,28/07/2018, yes 
+CUST-00797,Drew Baker,drew.baker797@example.com,Glasgow,Scotland,United Kingdom,Small Business,23.11.2024,Y
+CUST-00798,Dana Clark,dana.clark798@example.com,Alexandria,Alexandria,Egypt,Consumer,"Sep 07, 2024",Yes
+CUST-00799,Sara Brown,sara.brown799@example.com,Seettle,WA,United States,Enterprise,11-Jul-2024,N
+CUST-00800,Nora Clark,nora.clark800@example.com,Mumbai,Maharashtra,India,Consumer,11.06.2018,Y
+CUST-00801,  Sam Martin,sam.martin801@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,14.08.2018,Yes
+CUST-00802,Morgan Ibrahim,morgan.ibrahim802@example.com,Bengaluru,Karnataka,India,Consumer,2020-03-24,Yes
+CUST-00803,Dana Taylor,dana.taylor803@example.com,Glasgow,Scotland,United Kingdom,Enterprise,28.06.2022,Yes
+CUST-00804,Amir Brown,amir.brown804@example.com,Bristol,England,United Kingdom,Consumer,26-Aug-2020,Y
+CUST-00805,Casey Hassan,casey.hassan805@example.com,Chicago,IL,United States,Corporate,14.11.2021,N
+CUST-00806,Casey Ibrahim  ,casey.ibrahim806@example.com,Manchester,England,UNITED KINGDOM,Consumer,"May 17, 2019",No
+CUST-00807,Robin Foster,robin.foster807@example.com,Berlin,Berlin,Germany,Corporate,21.10.2023,No
+CUST-00808,Sam Lewis,sam.lewis808@example.com,New York,NY,United States,Corporate,2020-06-29, yes 
+CUST-00809,Jamie Clark,jamie.clark809@example.com,Giza,Giza,Egypt,Consumer,2018-07-12, yes 
+CUST-00810,Maya Lewis,maya.lewis810@example.com,Atlanta,GA,United States,Consumer,"Nov 24, 2023",Yes
+CUST-00811,Kareem Clark,kareem.clark811@example.com,Dubai  ,Dubai,United Arab Emirates,Consumer,2025-03-03,Yes
+CUST-00812,Riley Adams,riley.adams812@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer ,2018-02-12,N
+CUST-00813,Riley Saleh,riley.saleh813@example.com,Bengaluru,Karnataka,India,Small Business,20.06.2021,Y
+CUST-00814,Cameron Khan,cameron.khan814@example.com,Bristol,England,United Kingdom,Enterprise,,Y
+CUST-00815,Avery Brown,avery.brown815@example.com,Berlin,Berlin,Germany,Consumer,10/08/2023,Yes
+CUST-00816,Sam Hassan,sam.hassan816@example.com,Bristol,England,United Kingdom,Enterprise,19/10/2024,Y
+CUST-00817,Maya Adams,maya.adams817@example.com,Alexandria,Alexandria,Egypt,Corporate,19-Apr-2021, yes 
+CUST-00818,Drew Green,drew.green818@example.com,Alexandria,Alexandria,Egypt,Consumer,15-Dec-2020,Yes
+CUST-00819,riley mitchell,riley.mitchell819@example.com,Riyadh,Riyadh,Saudi Arabia,Corporate,"Aug 19, 2023",No
+CUST-00820,Taylor Lewis,taylor.lewis820@example.com,Mumbai,Maharashtra,India,Enterprise,22.03.2019,Yes
+CUST-00821,Jordan Taylor,jordan.taylor821@example.com,Glasgow,Scotland,United Kingdom,Enterprise,26.11.2019, yes 
+CUST-00822,Lina Hall,lina.hall822@example.com,Chicago,IL,United States,Small Business,2022-10-09,Yes
+CUST-00823,Yara Young,yara.young823@example.com,Riyadh,Riyadh,Saudi Arabia,Small Business,23-Apr-2023,Yes
+CUST-00824,Casey Taylor,casey.taylor824@example.com,Dubai,Dubai,United Arab Emirates,Small Business,2018-12-14,Y
+CUST-00825,Omar Adams,omar.adams825@example.com,Delhi,Delhi,India,Consumer,2022-01-14,Y
+CUST-00826,Amir Clark,amir.clark826@example.com,Bengaluru,Karnataka,India,Small Business,24/11/2020,N
+CUST-00827,maya green,maya.green827@example.com,Abu Dhabi  ,Abu Dhabi,United Arab Emirates,Corporate,26-Dec-2021,Y
+CUST-00828,Riley Saleh,riley.saleh828@example.com,Munich,Bavaria,Germany,ENTERPRISE ,2025-08-11, yes 
+CUST-00829,Taylor Young,taylor.young829@example.com,Austin,TX,United States,Consumer,2018-08-11,Yes
+CUST-00830,Morgan Scott,,Delhi,Delhi,India,Consumer,2025-11-26,Yes
+CUST-00831,Kareem Hassan,kareem.hassan831@example.com,Munich,Bavaria,Germany,Consumer,2021-07-27, yes 
+CUST-00832,Cameron Hassan,cameron.hassan832@example.com,Hamburg,Hamburg,Germany,Consumer,2024-02-18,No
+CUST-00833,JAMIE BROWN,jamie.brown833@example.com,Lyon,Auvergne-Rhone-Alpes,France  ,Small Business,,Y
+CUST-00834,Jordan Johnson,jordan.johnson834@example.com,Seattle,WA,United States,Corporate,20/06/2020,Yes
+CUST-00835,Avery Smith,avery.smith835@example.com,Mumbai,Maharashtra,India,Corporate,2024-02-13,N
+CUST-00836,Jordan Khan,jordan.khan836@example.com,Delhi,Delhi,India,Enterprise,18.06.2023,No
+CUST-00837,Casey Ibrahim,casey.ibrahim837@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,2019-02-22,No
+CUST-00838,Riley Wilson,riley.wilson838@example.com,Munich,Bavaria,Germany,Consumer,08/08/2023,Yes
+CUST-00839,Sam Baker,sam.baker839@example.com,Austin,TX,United States,Enterprise,2023-12-24,N
+CUST-00840,Amir Johnson,amir.johnson840@example.com,Delhi  ,Delhi,India,Consumer,29-Jan-2021,Yes
+CUST-00841,Chris Baker,chris.baker841@example.com,Sharjah,Sharjah,United Arab Emirates,Corporate,08/05/2025,Yes
+CUST-00842,Omar Baker,omar.baker842@example.com,Glasgow,Scotland,United Kingdom,corporate,02/02/2023,No
+CUST-00843,Omar Hall,omar.hall843@example.com,Mumbai,Maharashtra,India,Small Business,"Aug 25, 2020",Yes
+CUST-00844,Alex Clark,alex.clark844@example.com,Chicago,IL,United States,Enterprise,"Feb 01, 2018",Yes
+CUST-00845,Sara Martin,sara.martin845@example.com,London,England,United Kingdom,Consumer,12-May-2023,Yes
+CUST-00846,Drew Scott,drew.scott846@example.com,Lyon,Auvergne-Rhone-Alpes,FRANCE,Small Business,30/08/2019,N
+CUST-00847,Jordan Green,jordan.green847@example.com,Dubai,Dubai,United Arab Emirates,Consumer,03.01.2024,Y
+CUST-00848,Taylor Lewis,taylor.lewis848@example.com,Austin,TX,United States,Small Business,03-Mar-2022,Yes
+CUST-00849,Drew Hassan,drew.hassan849@example.com,Sharjah,Sharjah,United Arab Emirates,Small Business,15-Sep-2021,Yes
+CUST-00850,Chris Walker,chris.walker850@example.com,Paris,Ile-de-France,France,Enterprise,2019-04-20,N
+CUST-00851,Robin Lewis,robin.lewis851@example.com,Sharjah,Sharjah,United Arab Emirates,Small Business,26-Aug-2023,N
+CUST-00852,Sara Walker,sara.walker852@example.com,Hamburg,Hamburg,Germany,Consumer,27.04.2019,Y
+CUST-00853,  Chris Ibrahim,chris.ibrahim853@example.com,Sharjah,Sharjah,United Arab Emirates,Small Business,26/04/2021,Yes
+CUST-00854,Daniel Green,daniel.green854@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,22.08.2024,N
+CUST-00855,Lina Martin,,Mumbai,maharashtra,India,Consumer,23-Apr-2025,Yes
+CUST-00856,Cameron Baker,cameron.baker856@example.com,Paris,Ile-de-France,France,Corporate,08-Nov-2025, yes 
+CUST-00857,Taylor Young,taylor.young857@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,10/08/2025, yes 
+CUST-00858,Yara Adams,yara.adams858@example.com,Bristol,England,United Kingdom,Corporate,"Jun 01, 2022",Yes
+CUST-00859,Avery Scott,avery.scott859@example.com,Dammam,Eastern Province,Saudi Arabia,Consumer,"Aug 05, 2019",Yes
+CUST-00860,Morgan Hall,morgan.hall860@example.com,Glasgow,Scotland,United Kingdom,Corporate,30.08.2024,Yes
+CUST-00861,Jamie Lewis  ,jamie.lewis861@example.com,Mumbai,Maharashtra,India,Consumer,"May 13, 2024",Yes
+CUST-00862,Lina Scott,lina.scott862@example.com,Munich,Bavaria,Germany,Small Business,11/11/2025,Yes
+CUST-00863,Yara Wilson,yara.wilson863@example.com,Dubai,Dubai,United Arab Emirates,Consumer,"Mar 03, 2023",Yes
+CUST-00864,Jamie King,jamie.king864@example.com,Atlanta,GA,United States,Enterprise,"Feb 15, 2019",No
+CUST-00865,Alex Khan,alex.khan865@example.com,Chicago,IL,United States,Corporate,29-Dec-2021,N
+CUST-00866,Nora Green,nora.green866@example.com,Atlanta,GA,United States,Small Business,"Jul 23, 2021",No
+CUST-00867,SARA SALEH,sara.saleh867@example.com,Atlenta,GA,United States,Enterprise,10/09/2024,N
+CUST-00868,Avery Martin,,Atlanta,GA,United States,Consumer,12.02.2021,N
+CUST-00869,Avery Taylor,avery.taylor869@example.com,Hamburg,Hamburg,Germany,Small Business,2020-08-10,Yes
+CUST-00870,MAYA WALKER,,Berlin,Berlin,GERMANY,Enterprise,"Aug 21, 2018",Y
+CUST-00871,Avery Clark,avery.clark871@example.com,London,England,United Kingdom,Enterprise,19.08.2024,N
+CUST-00872,Maya Wilson,maya.wilson872@example.com,Mumbai,Maharashtra,India,Enterprise,2023-12-31,Yes
+CUST-00873,Maya Martin,maya.martin873@example.com,Giza,Giza,Egypt,Enterprise,30.04.2018,Yes
+CUST-00874,Sam Lewis,sam.lewis874@example.com,Cairo,Cairo,Egypt,Small Business,"Jun 11, 2021",Yes
+CUST-00875,Sara Foster,sara.foster875@example.com,Mumbai,Maharashtra,India,Enterprise,23/10/2021,Yes
+CUST-00876,Chris Green,chris.green876@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,2021-09-23,Y
+CUST-00877,Taylor Hall,taylor.hall877@example.com,Mumbai,Maharashtra,India,Enterprise,18/04/2025,Yes
+CUST-00878,Sara Green,sara.green878@example.com,Paris,Ile-de-France,France,Consumer,13/03/2019,N
+CUST-00879,Nora Clark,nora.clark879@example.com,Manchester,England,United Kingdom,consumer,07-Jun-2020,Yes
+CUST-00880,Robin Scott,robin.scott880@example.com,Paris,Ile-de-France,France,Consumer,09-Jun-2019,Yes
+CUST-00881,Dana Smith,dana.smith881@example.com,Lyon,Auvergne-Rhone-Alpes,France,corporate,09.12.2019,Yes
+CUST-00882,Taylor Foster,taylor.foster882@example.com,Cairo,Cairo,Egypt,Small Business,15.03.2025,Yes
+CUST-00883,Lina Walker,lina.walker883@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,2025-06-21,Yes
+CUST-00884,Avery Brown,avery.brown884@example.com,Seattle,WA,United States,Consumer,"May 10, 2018", yes 
+CUST-00885,Kareem Young,kareem.young885@example.com,Peris,Ile-de-France,France,Consumer,08.01.2023,No
+CUST-00886,Maya Brown,maya.brown886@example.com,Austin,TX,United States,Corporate,"Nov 07, 2019",Yes
+CUST-00887,Jordan Taylor  ,jordan.taylor887@example.com,Austin,TX,  United States,Enterprise,,Yes
+CUST-00888,Lina Taylor,lina.taylor888@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,26-Apr-2020,N
+CUST-00889,Kareem Lewis,kareem.lewis889@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Corporate,18/07/2019,Yes
+CUST-00890,Chris Walker,chris.walker890@example.com,Manchester,England,United Kingdom,Consumer,22.11.2021,Yes
+CUST-00891,Riley Scott,riley.scott891@example.com,Delhi,Delhi,India,Small Business,27/11/2025,Yes
+CUST-00892,Lina Clark,lina.clark892@example.com,Chicago,IL,United States,Enterprise,28.08.2022,Yes
+CUST-00893,Amir Baker,amir.baker893@example.com,Munich,Bavaria,Germany,Enterprise,29.09.2023,Yes
+CUST-00894,Yara Clark,yara.clark894@example.com,Paris,Ile-de-France,France,Corporate,01/12/2021,No
+CUST-00895,Kareem Wilson,kareem.wilson895@example.com,Manchester,England,United Kingdom,Enterprise,2018-02-10,Yes
+CUST-00896,Sam Brown,sam.brown896@example.com,New York,NY,United States,Consumer,01.09.2018,No
+CUST-00897,Drew Hall,drew.hall897@example.com,Manchester,England,United Kingdom,Consumer,19-Feb-2020,N
+CUST-00898,Morgan Mitchell,morgan.mitchell898@example.com,Mumbai,Maharashtra,India,Consumer,08-Dec-2019,No
+CUST-00899,Lee Smith,lee.smith899@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,03.09.2024,Yes
+CUST-00900,Amir Young,amir.young900@example.com,Chicago,IL,United States,Consumer,12-Sep-2024, yes 
+CUST-00901,Maya Smith,maya.smith901@example.com,Bristol,England,United Kingdom,Consumer,12.10.2024,N
+CUST-00902,Jordan Wilson,jordan.wilson902@example.com,atlanta,GA,United States,Consumer,24-Jan-2023,N
+CUST-00903,Maya Green,maya.green903@example.com,Bristol,England,United Kingdom,Corporate,2022-06-01, yes 
+CUST-00904,Maya Taylor,,Alexandria,Alexandria,Egypt,Consumer,2023-02-26,Yes
+CUST-00905,Sam Ibrahim,sam.ibrahim905@example.com,Giza,Giza,Egypt,Small Business,2021-03-25,Yes
+CUST-00906,Alex Green,alex.green906@example.com,New York,NY,United States,Consumer,28.04.2023,Y
+CUST-00907,Drew Mitchell,drew.mitchell907@example.com,Alexandria  ,Alexandria,Egypt,Small Business,22/04/2024,N
+CUST-00908,Riley Martin,riley.martin908@example.com,New York,NY,United States,Consumer,22.01.2024,Yes
+CUST-00909,Jamie Hassan,,Dammam,Eastern Province,Saudi Arabia,Corporate,16.11.2022,Yes
+CUST-00910,Lee Smith,lee.smith910@example.com,Giza,Giza,Egypt,Corporate,18-Jun-2018,N
+CUST-00911,Robin Adams,robin.adams911@example.com,Delhi,Delhi,India,SMALL BUSINESS,04.10.2023,Yes
+CUST-00912,Lee Baker,lee.baker912@example.com,Delhi  ,Delhi,India,Small Business,29-Nov-2020,Yes
+CUST-00913,avery wilson,avery.wilson913@example.com,Munich,Bavaria,germany,Consumer,"Nov 27, 2023",Yes
+CUST-00914,Daniel Adams,daniel.adams914@example.com,Seattle,WA,United States,Consumer,"Apr 14, 2022",Yes
+CUST-00915,Nora Clark,nora.clark915@example.com,Atlenta,GA,United States,Corporate,"Dec 30, 2024",Yes
+CUST-00916,YARA WILSON,yara.wilson916@example.com,Bristol,England,United Kingdom,Consumer,08-Sep-2020,N
+CUST-00917,Cameron Khan,cameron.khan917@example.com,Delhi,Delhi,India,Consumer,"May 25, 2025",Yes
+CUST-00918,Nora Saleh,nora.saleh918@example.com,Riyedh,Riyadh,Saudi Arabia,Enterprise,14-Sep-2024,Yes
+CUST-00919,Cameron Wilson,cameron.wilson919@example.com,Berlin,Berlin,Germany,Small Business,18-Aug-2020,Yes
+CUST-00920,Daniel Khan,daniel.khan920@example.com,Hamburg,Hamburg,Germany,Consumer,"Oct 31, 2021",Yes
+CUST-00921,dana smith,dana.smith921@example.com,Seattle,WA,United States,Corporate,"Mar 21, 2022",Yes
+CUST-00922,Morgan Walker,morgan.walker922@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,"Feb 08, 2024",No
+CUST-00923,Kareem Scott,kareem.scott923@example.com,Bristol,England,UNITED KINGDOM,Corporate,2023-06-22,Y
+CUST-00924,Nora Brown,nora.brown924@example.com,Chicago,IL,United States,Consumer,06.10.2024,Yes
+CUST-00925,Chris Khan,chris.khan925@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,08-Dec-2020,Yes
+CUST-00926,Alex Johnson  ,alex.johnson926@example.com,Atlanta,GA,United States,Small Business,03.01.2022, yes 
+CUST-00927,Alex Hassan,alex.hassan927@example.com,Abu Dhabi,Abu Dhabi  ,United Arab Emirates,Small Business ,03-Jun-2021,Y
+CUST-00928,Chris Clark,chris.clark928@example.com,Mumbei,Maharashtra,India,Enterprise,22-Mar-2025,Yes
+CUST-00929,Chris Taylor,chris.taylor929@example.com,Bristol,England,United Kingdom,Small Business,2020-06-03,N
+CUST-00930,Riley Saleh,riley.saleh930@example.com,Paris,Ile-de-France,France  ,Consumer,30-Aug-2022,Yes
+CUST-00931,Alex Clark,alex.clark931@example.com,Hamburg,Hamburg,Germany,Consumer,15.12.2018,No
+CUST-00932,Sara Lewis,sara.lewis932@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,01.10.2024,N
+CUST-00933,Morgan Johnson,morgan.johnson933@example.com,Dubai,Dubai,United Arab Emirates,Small Business,2021-01-19,Yes
+CUST-00934,Riley Taylor,riley.taylor934@example.com,Seattle,WA,United States,Consumer,"Sep 14, 2020",N
+CUST-00935,Alex Saleh,alex.saleh935@example.com,Abu Dhabi,Abu Dhabi,united arab emirates,Consumer,2022-08-18,Y
+CUST-00936,Taylor Walker,taylor.walker936@example.com,BENGALURU,Karnataka,India,Consumer,2021-12-17, yes 
+CUST-00937,Omar Adams,omar.adams937@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,25-Sep-2024,N
+CUST-00938,Sam Foster,sam.foster938@example.com,Dubai,Dubai,United Arab Emirates,Small Business,"Mar 22, 2022",No
+CUST-00939,Taylor Ibrahim,taylor.ibrahim939@example.com,Glasgow,Scotland,United Kingdom,Corporate,08/02/2022,Y
+CUST-00940,Lina Wilson,lina.wilson940@example.com,Manchester,England,United Kingdom,Small busines,01-Nov-2018,Y
+CUST-00941,Kareem Lewis,kareem.lewis941@example.com,Cairo,Cairo,Egypt,Small Business,05.03.2018,Yes
+CUST-00942,Dana Taylor,dana.taylor942@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,2021-03-01,N
+CUST-00943,Chris Hall,chris.hall943@example.com,Paris,ILE-DE-FRANCE,France,Consumer,2025-12-04,Yes
+CUST-00944,Dana King,dana.king944@example.com,London,England,United Kingdom,Enterprise,"Apr 14, 2025",Y
+CUST-00945,Jordan Adams,jordan.adams945@example.com,Seattle,WA,United States,Small Business,30-Dec-2022,N
+CUST-00946,Chris Johnson,chris.johnson946@example.com,Berlin,Berlin,Germany,Consumer,04.01.2023,No
+CUST-00947,Daniel Adams,,Cairo,Cairo  ,Egypt,Small Business,"Feb 09, 2021",No
+CUST-00948,Lee Walker,lee.walker948@example.com,Chicago,IL,United States,Enterprise,30/05/2019,Yes
+CUST-00949,Dana Taylor,dana.taylor949@example.com,Bristol,England  ,United Kingdom,consumer,"Jan 25, 2018", yes 
+CUST-00950,Lee Taylor,lee.taylor950@example.com,Munich,Bavaria,Germany,ENTERPRISE ,09-Sep-2020,N
+CUST-00951,Nora Johnson,nora.johnson951@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,06/07/2020,Yes
+CUST-00952,Taylor Saleh,taylor.saleh952@example.com,Chicago,IL,United States,Enterprise,"Jul 10, 2019",Yes
+CUST-00953,  Drew Wilson,drew.wilson953@example.com,Chicago,IL,United States,Corporat,22/01/2020, yes 
+CUST-00954,Riley Mitchell,riley.mitchell954@example.com,Berlin,Berlin,Germany,Consumer,"Mar 13, 2018",Yes
+CUST-00955,Nora Hassan,nora.hassan955@example.com,Mumbai,Maharashtra,India,Consumer,2022-10-30, yes 
+CUST-00956,Chris Smith,chris.smith956@example.com,Hamburg,Hamburg,Germany,Corporate,"May 13, 2025",No
+CUST-00957,Avery Lewis,avery.lewis957@example.com,  Sharjah,Sharjah,United Arab Emirates,Consumer,2023-06-27,Yes
+CUST-00958,Lee Foster,lee.foster958@example.com,Bristol,England,United Kingdom,Corporate,"Jul 23, 2021",N
+CUST-00959,Daniel Ibrahim,daniel.ibrahim959@example.com,Sharjah,Sharjah,United Arab Emirates,Small Business,03-May-2021,Yes
+CUST-00960,Maya Lewis,maya.lewis960@example.com,Bengaluru,Karnataka,India,Consumer,10-Jun-2020,Y
+CUST-00961,Riley Ibrahim,riley.ibrahim961@example.com,Munich,Bavaria,Germany,Corporate,"Feb 17, 2019",Yes
+CUST-00962,Amir Lewis,amir.lewis962@example.com,Austin,TX,United States,Corporate,"Oct 02, 2022",No
+CUST-00963,Cameron Ibrahim,cameron.ibrahim963@example.com,Dubai,Dubai  ,United Arab Emirates,Small Business,"Jul 01, 2022",Y
+CUST-00964,Lina Green,lina.green964@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,2018-01-22,Yes
+CUST-00965,Jordan Brown,jordan.brown965@example.com,Riyadh,Riyadh,Saudi Arabia,corporate,2021-04-20,Yes
+CUST-00966,Drew Green,drew.green966@example.com,Bristol,England,United Kingdom,Enterprise,17-Mar-2020, yes 
+CUST-00967,Riley Khan,riley.khan967@example.com,Seattle,WA,United States,Consumer,09.05.2019,Yes
+CUST-00968,Avery Martin,avery.martin968@example.com,Atlanta,GA,United States,Consumer,2023-08-01, yes 
+CUST-00969,Lee Wilson,lee.wilson969@example.com,SEATTLE,WA,United States,Enterprise,05-Mar-2022,Yes
+CUST-00970,Daniel Scott,daniel.scott970@example.com,Atlanta,GA,United States,Corporate,12/01/2023,Yes
+CUST-00971,Jamie Hall,jamie.hall971@example.com,Bristol,England,United Kingdom,Small Business,2023-09-01,No
+CUST-00972,Chris Smith,chris.smith972@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,18/10/2025,Yes
+CUST-00973,Maya Ibrahim,maya.ibrahim973@example.com,Bengaluru,Karnataka,India,Consumer,"May 17, 2024",Yes
+CUST-00974,Lee Wilson,lee.wilson974@example.com,Bristol,England,United Kingdom,Corporate,"Dec 05, 2022",Yes
+CUST-00975,Avery Hall,avery.hall975@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,24/12/2024,Y
+CUST-00976,Omar King,omar.king976@example.com,Seattle  ,WA,United States,CONSUMER,16.10.2021,Yes
+CUST-00977,Casey Wilson,casey.wilson977@example.com,Seattle,WA,United States,Corporate,"Oct 26, 2025", yes 
+CUST-00978,Casey Smith,casey.smith978@example.com,Seattle,WA,United States,Small Business,"Jan 18, 2024",Yes
+CUST-00979,Yara Scott,yara.scott979@example.com,Dammam,Eastern Province,  Saudi Arabia,Small Business,03-Mar-2023,Yes
+CUST-00980,Chris Scott,chris.scott980@example.com,abu dhebi,Abu Dhabi,United Arab Emirates,Small Business,04/03/2025,N
+CUST-00981,Jamie Wilson,,Jeddah,Makkah,Saudi Arabia,Small Business,2022-02-02,Yes
+CUST-00982,Drew King,drew.king982@example.com,Paris,Ile-de-France,France,Small Business,2023-09-22, yes 
+CUST-00983,  Robin Young,robin.young983@example.com,Mumbai,Maharashtra,India,consumer,05-Apr-2020,Yes
+CUST-00984,Daniel Baker,daniel.baker984@example.com,Hamburg,Hamburg,Germany,Corporate,"Aug 25, 2025",N
+CUST-00985,Taylor Wilson,taylor.wilson985@example.com,Giza,Giza,Egypt,Small Business,13-Dec-2022,No
+CUST-00986,Drew Smith,drew.smith986@example.com,New York,NY,United States,Enterprise,17/03/2024,Yes
+CUST-00987,Jordan Walker,jordan.walker987@example.com,Paris,Ile-de-France,France,Consumer,29-Aug-2021,Y
+CUST-00988,Nora Walker,nora.walker988@example.com,Alexandria,Alexandria,Egypt,Corporate,18-Nov-2024, yes 
+CUST-00989,Jamie Smith,jamie.smith989@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,2018-08-04, yes 
+CUST-00990,Jamie Lewis,jamie.lewis990@example.com,Chicago,IL,United States,Consumer,27/11/2018,Yes
+CUST-00991,Taylor Young,taylor.young991@example.com,Sharjah,Sharjah,UNITED ARAB EMIRATES,Small Business,10.01.2022,No
+CUST-00992,Dana Lewis,dana.lewis992@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,2023-10-25,Yes
+CUST-00993,Taylor Foster,taylor.foster993@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,04-Jun-2024,N
+CUST-00994,Avery Hall,avery.hall994@example.com,  Dubai,Dubai,United Arab Emirates,Enterprise,30.06.2021,Yes
+CUST-00995,Daniel Hassan,daniel.hassan995@example.com,Bristol,England,United Kingdom,Consumer,"Feb 28, 2023",Yes
+CUST-00996,Chris Young,chris.young996@example.com,Cairo,Cairo,Egypt,Small Business,24/05/2022, yes 
+CUST-00997,  Sara Young,sara.young997@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,2025-08-20,Yes
+CUST-00998,Sam Saleh,sam.saleh998@example.com,Dammam,Eastern Province,Saudi Arabia,Small Business,12/03/2023,No
+CUST-00999,Avery Scott,avery.scott999@example.com,Alexandria,Alexandria,Egypt,Consumer,23-Apr-2021,No
+CUST-01000,Kareem Green,kareem.green1000@example.com,Austin,TX,United States,Enterprise,13-Sep-2025,Yes
+CUST-01001,Jamie Hassan,jamie.hassan1001@example.com,Chicago,IL,United States,Consumer,08-Nov-2018,Yes
+CUST-01002,Maya Clark,maya.clark1002@example.com,Seattle,WA,United States,Enterprise,2025-10-26,No
+CUST-01003,Omar Baker,omar.baker1003@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,"Mar 23, 2019",Y
+CUST-01004,Lina Lewis,lina.lewis1004@example.com,Austin,TX,United States,consumer,15.04.2020,Yes
+CUST-01005,Jordan Brown,jordan.brown1005@example.com,GLASGOW,Scotland,United Kingdom,Enterprise,"Jul 10, 2024",N
+CUST-01006,Jamie Scott,jamie.scott1006@example.com,dubai,Dubai,United Arab Emirates,Enterprise,29/10/2023,N
+CUST-01007,Sara Hall,sara.hall1007@example.com,Cairo,Cairo,Egypt,Small Business,"Sep 15, 2025",N
+CUST-01008,Morgan Smith,morgan.smith1008@example.com,Chicago,IL,United States,Corporate,15.12.2023,Y
+CUST-01009,Cameron Brown,cameron.brown1009@example.com,Atlanta,GA,United States,Consumer,2023-01-22,Yes
+CUST-01010,Avery Hassan,avery.hassan1010@example.com,Austin,TX,United States,Small Business,2020-10-01, yes 
+CUST-01011,Riley Martin,riley.martin1011@example.com,Hamburg  ,Hamburg,Germany,Enterprise,14.01.2018,No
+CUST-01012,Riley Johnson,riley.johnson1012@example.com,Bristol,England,United Kingdom,Enterprise,26-Dec-2018, yes 
+CUST-01013,Morgan Ibrahim,morgan.ibrahim1013@example.com,Berlin,Berlin,Germany,Enterprise,2020-05-13, yes 
+CUST-01014,Jamie Hall,jamie.hall1014@example.com,DELHI,Delhi,India,Consumer,29/04/2018,Yes
+CUST-01015,Taylor Hassan,taylor.hassan1015@example.com,GLASGOW,Scotland,United Kingdom,Corporate,"Jan 13, 2022",Y
+CUST-01016,Morgan Taylor,morgan.taylor1016@example.com,Delhi,Delhi,India,Corporate,"Mar 04, 2024", yes 
+CUST-01017,Yara Khan,yara.khan1017@example.com,Dubai,Dubai,United Arab Emirates,Enterprise,25.08.2025,Yes
+CUST-01018,kareem johnson,kareem.johnson1018@example.com,ALEXANDRIA,Alexandria,Egypt,Enterprise,21/11/2021,Yes
+CUST-01019,Amir Saleh,amir.saleh1019@example.com,Manchester,England,United Kingdom,Consumer,12/12/2024,No
+CUST-01020,Cameron Saleh,cameron.saleh1020@example.com,Atlanta,GA,United States,Consumer,29-Oct-2025,Yes
+CUST-01021,Dana Saleh,dana.saleh1021@example.com,Atlanta,GA,  United States,Consumer,29-Oct-2024,N
+CUST-01022,Amir Saleh,amir.saleh1022@example.com,Chicago,IL,  United States,Consumer,10/09/2021,Yes
+CUST-01023,Amir Clark,amir.clark1023@example.com,Paris,Ile-de-France,France,Consumer,01-Aug-2020,Yes
+CUST-01024,Sara Hassan,sara.hassan1024@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,06/10/2025,No
+CUST-01025,Dana Johnson,dana.johnson1025@example.com,Hamburg,Hamburg,Germany,Consumer,03-Dec-2019,Yes
+CUST-01026,Dana Smith,dana.smith1026@example.com,Manchester,England,United Kingdom,Consumer,08.04.2021,No
+CUST-01027,Jamie Baker,jamie.baker1027@example.com,Glesgow,Scotland,United Kingdom,Consumer,03-Aug-2018,N
+CUST-01028,Yara Taylor,yara.taylor1028@example.com,Bristol,England,United Kingdom,Corporate,20/04/2024, yes 
+CUST-01029,Amir Adams,amir.adams1029@example.com,Peris,Ile-de-France,France,consumer,28-Feb-2023,N
+CUST-01030,Yara Walker,yara.walker1030@example.com,Jeddah,Makkah,Saudi Arabia,Enterprise,03-Sep-2018,Yes
+CUST-01031,  Omar Young,omar.young1031@example.com,Berlin,Berlin,Germany,Enterprise,06.10.2019,Y
+CUST-01032,Morgan Mitchell,morgan.mitchell1032@example.com,Paris,Ile-de-France,  France,Consumer,30-May-2022,N
+CUST-01033,Riley Brown,riley.brown1033@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,17.04.2022,N
+CUST-01034,Sara Smith,sara.smith1034@example.com,Manchester,England,United Kingdom,Consumer,2024-05-14,No
+CUST-01035,Lee Khan,lee.khan1035@example.com,Alexandria,Alexandria,Egypt,Consumer,2020-02-11,N
+CUST-01036,Riley Wilson,riley.wilson1036@example.com,Chicago,IL,United States,Small Business,05-May-2025, yes 
+CUST-01037,YARA BROWN,yara.brown1037@example.com,Cairo  ,Cairo,Egypt,Small Business,12/07/2021,Yes
+CUST-01038,Dana Lewis,dana.lewis1038@example.com,New York,NY,United States,Enterprise,"Jul 13, 2024",Yes
+CUST-01039,Daniel Khan,daniel.khan1039@example.com,Mumbai,Maharashtra,India,Small Business,2019-11-23,Yes
+CUST-01040,Omar Baker,omar.baker1040@example.com,Glasgow,Scotland,United Kingdom,Consumer,"Apr 18, 2018",No
+CUST-01041,Jordan Hassan,jordan.hassan1041@example.com,Manchester,England,United Kingdom,Consumer,"Jun 09, 2018",Y
+CUST-01042,Sam Khan,sam.khan1042@example.com,Austin,TX,United States,Small Business,16/12/2020,Y
+CUST-01043,Kareem Foster,kareem.foster1043@example.com,Hamburg,Hamburg,Germany,Corporat,2025-07-27, yes 
+CUST-01044,Taylor Young,taylor.young1044@example.com,Riyadh,Riyadh,Saudi Arabia,Enterprise,22-May-2018,Yes
+CUST-01045,Daniel Smith,daniel.smith1045@example.com,Dammam,Eastern Province,Saudi Arabia,Corporate,2020-12-06,Y
+CUST-01046,Sara Saleh,sara.saleh1046@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,13-Nov-2018,No
+CUST-01047,Dana Baker,,Munich,Bavaria,Germany,Consumer,25-May-2025,Y
+CUST-01048,Lina Taylor,lina.taylor1048@example.com,Seattle,WA,UNITED STATES,Corporate,13.05.2023,N
+CUST-01049,Amir Adams,amir.adams1049@example.com,New York,NY,United States,Small Business,"Jan 21, 2024",Yes
+CUST-01050,Cameron Johnson,cameron.johnson1050@example.com,New York,NY,United States,corporate,31/08/2023,Y
+CUST-01051,Jamie Hassan,jamie.hassan1051@example.com,LYON,Auvergne-Rhone-Alpes,France,Consumer,21-Mar-2023,N
+CUST-01052,Amir Mitchell,amir.mitchell1052@example.com,Atlanta,GA,United States,Corporate,"Feb 22, 2024",No
+CUST-01053,Cameron Brown,cameron.brown1053@example.com,Austin,TX,United States,Small Business,2018-01-24,Yes
+CUST-01054,Kareem Mitchell,kareem.mitchell1054@example.com,Manchester,England,  United Kingdom,Consumer,14-Nov-2024, yes 
+CUST-01055,Jamie Taylor,jamie.taylor1055@example.com,London,England,United Kingdom,Enterprise,2023-11-16,N
+CUST-01056,Drew Mitchell,drew.mitchell1056@example.com,Cairo,Cairo,Egypt,Corporate,15-Nov-2023,Y
+CUST-01057,Chris Lewis,chris.lewis1057@example.com,London,England,United Kingdom,Consumer,"Feb 14, 2021",Yes
+CUST-01058,Amir Mitchell,amir.mitchell1058@example.com,New York,ny,United States,Small Business,"May 11, 2024", yes 
+CUST-01059,Chris Taylor,chris.taylor1059@example.com,Hamburg,Hamburg,Germany  ,Small Business,2021-01-12,Y
+CUST-01060,Morgan Khan,morgan.khan1060@example.com,Seattle,WA,United States,Consumer,"May 22, 2018",Yes
+CUST-01061,Alex Ibrahim,alex.ibrahim1061@example.com,Lyon,Auvergne-Rhone-Alpes,France,Enterprise,"Mar 17, 2025",N
+CUST-01062,Morgan Khan,morgan.khan1062@example.com,Jeddah,Makkah,Saudi Arabia,Enterprise,12/11/2019,Yes
+CUST-01063,Casey Brown,casey.brown1063@example.com,Sharjah,Sharjah,United Arab Emirates,Corporate,"Oct 23, 2018",Y
+CUST-01064,Robin Foster,,London,England,United Kingdom,Consumer,2022-12-09,N
+CUST-01065,Jordan Clark,jordan.clark1065@example.com,New York,NY,United States,Consumer,09.11.2019,Yes
+CUST-01066,Morgan Martin,morgan.martin1066@example.com,Manchester,England,United Kingdom,Corporate,24.10.2024,No
+CUST-01067,Casey Ibrahim,casey.ibrahim1067@example.com,Dammam,Eastern Province,Saudi Arabia,Corporate,10.07.2021, yes 
+CUST-01068,Jamie Adams,jamie.adams1068@example.com,Austin  ,TX,United States,Enterprise,14-Jan-2018,No
+CUST-01069,Daniel Johnson,daniel.johnson1069@example.com,Cairo,Cairo,Egypt,enterprise,"Jul 22, 2025", yes 
+CUST-01070,Yara Saleh,yara.saleh1070@example.com,Atlanta,GA,United States,Enterprise,"Feb 01, 2022",N
+CUST-01071,Lee Brown,lee.brown1071@example.com,Giza,Giza,Egypt,Enterprise,02-Feb-2020,Yes
+CUST-01072,Lina Ibrahim,lina.ibrahim1072@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,19.05.2023,No
+CUST-01073,Dana Ibrahim,dana.ibrahim1073@example.com,Dubai,Dubai,United Arab Emirates,Small Business,19/03/2022,N
+CUST-01074,Kareem Lewis,kareem.lewis1074@example.com,Atlanta,GA,United States,Enterprise,2018-03-27, yes 
+CUST-01075,Alex King,alex.king1075@example.com,Jeddah,Makkah,Saudi Arabia,consumer,12-Jan-2024,Y
+CUST-01076,Sara Walker,sara.walker1076@example.com,Alexandria,Alexandria,Egypt,enterprise,2021-03-09,N
+CUST-01077,Riley Hassan,riley.hassan1077@example.com,Mumbai,Maharashtra,India,Consumer,23-Jul-2023, yes 
+CUST-01078,Jordan Smith,jordan.smith1078@example.com,Munich,Bavaria,Germany,Consumer,10.02.2025,Y
+CUST-01079,  Sara Clark,sara.clark1079@example.com,New York,NY,United States,Consumer,2022-11-06, yes 
+CUST-01080,Lee Green,lee.green1080@example.com,Cairo,Cairo,Egypt,Enterprise,02/05/2023,N
+CUST-01081,nora baker,nora.baker1081@example.com,London,England,United Kingdom,Consumer,09/01/2020,Yes
+CUST-01082,Kareem Adams,kareem.adams1082@example.com,New York,NY,United States,Small Business,2019-11-21,No
+CUST-01083,Taylor Clark,taylor.clark1083@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,18.04.2021,Yes
+CUST-01084,Lee Smith,lee.smith1084@example.com,Berlin,Berlin,Germany,Consumer,"Oct 09, 2024",N
+CUST-01085,Nora Khan,nora.khan1085@example.com,Glasgow,Scotland,United Kingdom,Consumer,01/03/2022, yes 
+CUST-01086,Casey Scott,casey.scott1086@example.com,Dubai,Dubai,United Arab Emirates,Consumer,06.10.2020,No
+CUST-01087,Lee Adams,lee.adams1087@example.com,Dubai,Dubai,United Arab Emirates,Consumer,10/03/2024,Yes
+CUST-01088,Maya Green,maya.green1088@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,"Oct 10, 2024",Yes
+CUST-01089,Avery Khan,avery.khan1089@example.com,Bengaluru,Karnataka,India,Consumer,"Mar 02, 2025",N
+CUST-01090,Sara Taylor,sara.taylor1090@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,2020-05-16,Yes
+CUST-01091,Omar Wilson,omar.wilson1091@example.com,Jeddah,Makkah,Saudi Arabia,Consumer,20-Aug-2023,Yes
+CUST-01092,Lee Taylor,lee.taylor1092@example.com,Dammam,Eastern Province,Saudi Arabia,Consumer,"Sep 08, 2022",No
+CUST-01093,Omar Saleh,omar.saleh1093@example.com,Paris,Ile-de-France,France,consumer,2021-07-26, yes 
+CUST-01094,Daniel Lewis,daniel.lewis1094@example.com,London,England,United Kingdom,Enterprise,"Feb 25, 2021",Y
+CUST-01095,Amir Brown,amir.brown1095@example.com,Dubai,Dubai,united arab emirates,Enterprise,29/11/2018,Y
+CUST-01096,Nora Clark,nora.clark1096@example.com,Glasgow,Scotland,United Kingdom,Consumer,07.03.2020,No
+CUST-01097,Chris Khan,chris.khan1097@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Small Business,14.05.2022,N
+CUST-01098,Sam Mitchell,sam.mitchell1098@example.com,Atlanta,GA,United States,Consumer,15-Jan-2025, yes 
+CUST-01099,  Kareem Ibrahim,kareem.ibrahim1099@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,17-Nov-2024,Yes
+CUST-01100,Chris Baker,chris.baker1100@example.com,Atlanta,GA,United States,Corporate,"Jun 29, 2019", yes 
+CUST-01101,Jamie Clark,jamie.clark1101@example.com,Glasgow,Scotland,United Kingdom,Enterprise,"May 25, 2023", yes 
+CUST-01102,Avery Young,avery.young1102@example.com,Glasgow,Scotland,United Kingdom,Consumer,03-Sep-2018,Yes
+CUST-01103,Morgan Khan,morgan.khan1103@example.com,Atlanta,GA,United States,Consumer,"May 12, 2023",Yes
+CUST-01104,Drew Walker,drew.walker1104@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,18.09.2020,Y
+CUST-01105,Riley Hassan,riley.hassan1105@example.com,BERLIN,Berlin,Germany,Consumer,28-Jul-2021, yes 
+CUST-01106,Riley Martin,riley.martin1106@example.com,London,England,United Kingdom,Small Business,2023-09-13,Yes
+CUST-01107,CASEY FOSTER,casey.foster1107@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,"May 17, 2021",No
+CUST-01108,Kareem Wilson,kareem.wilson1108@example.com,Sherjah,Sharjah,United Arab Emirates,Corporate,30/05/2024,Yes
+CUST-01109,Dana Johnson,dana.johnson1109@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Enterprise,28.03.2022,N
+CUST-01110,Kareem Mitchell,kareem.mitchell1110@example.com,Bristol,England,United Kingdom,Enterprise,"Dec 06, 2025",Yes
+CUST-01111,Taylor Green,taylor.green1111@example.com,LONDON,England,United Kingdom,Consumer,25/01/2023,Yes
+CUST-01112,Sam Young,sam.young1112@example.com,Dubei,Dubai,United Arab Emirates,Corporate,09-May-2020,Yes
+CUST-01113,Chris Saleh,chris.saleh1113@example.com,Glasgow,Scotland,United Kingdom,Consumer,27.02.2024,N
+CUST-01114,Casey Smith,casey.smith1114@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,"Mar 29, 2021", yes 
+CUST-01115,Casey Clark,casey.clark1115@example.com,Dammam,EASTERN PROVINCE,Saudi Arabia,Enterprise,2022-03-30,Y
+CUST-01116,Nora Martin  ,nora.martin1116@example.com,Austin,TX,United States,Corporate,01/02/2019,Yes
+CUST-01117,Cameron King,cameron.king1117@example.com,Hamburg,Hamburg,Germany,Consumer,13.12.2018,No
+CUST-01118,Jamie Taylor,jamie.taylor1118@example.com,Bengaluru,Karnataka,India,Consumer,26.07.2022, yes 
+CUST-01119,Lina Foster,lina.foster1119@example.com,Cairo,Cairo,Egypt,Consumer,26/06/2019,Yes
+CUST-01120,Sara Saleh,sara.saleh1120@example.com,Alexandria,Alexandria,Egypt,Enterprise,"Dec 02, 2025", yes 
+CUST-01121,Sam Khan,sam.khan1121@example.com,Mumbai,Maharashtra,India,Consumer,17-Oct-2024,Yes
+CUST-01122,Cameron Walker,cameron.walker1122@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,26.07.2023,Yes
+CUST-01123,Lee Brown,lee.brown1123@example.com,Chicago,IL,United States,Enterprise,01-Nov-2023,Yes
+CUST-01124,Maya Lewis,maya.lewis1124@example.com,Sharjah,Sharjah,United Arab Emirates,Consumer,2022-09-23,Yes
+CUST-01125,Daniel Mitchell,daniel.mitchell1125@example.com,Glasgow,Scotland,United Kingdom,Enterprise,"Jun 24, 2018",Yes
+CUST-01126,Chris Johnson,chris.johnson1126@example.com,Atlanta,GA,United States,Consumer,"Feb 11, 2021",Yes
+CUST-01127,Robin Martin,robin.martin1127@example.com,New York,NY  ,United States,Enterprise,"Dec 08, 2021",N
+CUST-01128,Taylor Hall,taylor.hall1128@example.com,London,England,united kingdom,Enterprise,"Apr 08, 2025",No
+CUST-01129,Casey Scott,casey.scott1129@example.com,New York,NY,United States,Consumer,29/09/2019,Yes
+CUST-01130,Morgan Taylor,morgan.taylor1130@example.com,New York,NY,United States,Consumer,12.12.2021,Yes
+CUST-01131,Kareem Clark,kareem.clark1131@example.com,Atlanta,GA  ,United States,Small Business,"Sep 24, 2020",Yes
+CUST-01132,Avery Taylor,avery.taylor1132@example.com,Austin,TX,United States,ENTERPRISE ,25/01/2019,Yes
+CUST-01133,Casey Smith,casey.smith1133@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Corporate,2018-10-26, yes 
+CUST-01134,Casey Saleh,casey.saleh1134@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,"Nov 25, 2020",Yes
+CUST-01135,riley smith,riley.smith1135@example.com,Manchester,England,United Kingdom,Consumer,28.08.2018,Yes
+CUST-01136,Daniel Johnson,daniel.johnson1136@example.com,Atlanta,GA  ,United States,Consumer,2018-07-14,Yes
+CUST-01137,  Sara Foster,sara.foster1137@example.com,Manchester,England,United Kingdom,Corporate,14.10.2020,Yes
+CUST-01138,Daniel Brown,daniel.brown1138@example.com,Hamburg,Hamburg,Germany,Corporate,09-Aug-2019,No
+CUST-01139,Jordan Khan,jordan.khan1139@example.com,Berlin,Berlin,Germany,Enterprise,28.05.2022,No
+CUST-01140,Nora Martin,nora.martin1140@example.com,London,England,United Kingdom,Consumer,2018-02-21,Yes
+CUST-01141,Taylor Clark,taylor.clark1141@example.com,Alexandria,Alexandria,Egypt,Consumer,25-May-2020,Y
+CUST-01142,Drew Clark,drew.clark1142@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,07.08.2021,Y
+CUST-01143,Riley Taylor,riley.taylor1143@example.com,London,England,United Kingdom,Consumer,25.08.2025,No
+CUST-01144,Robin Saleh,robin.saleh1144@example.com,Riyadh,RIYADH,Saudi Arabia,Consumer,15-Jan-2023,N
+CUST-01145,Morgan Johnson,morgan.johnson1145@example.com,Dubai,DUBAI,United Arab Emirates,Small Business,2024-12-29, yes 
+CUST-01146,Yara Foster,yara.foster1146@example.com,Giza,Giza,Egypt,corporate,2020-09-22, yes 
+CUST-01147,Daniel Adams,daniel.adams1147@example.com,Sharjah,Sharjah,United Arab Emirates,Enterprise,2021-07-28, yes 
+CUST-01148,Omar Hall,omar.hall1148@example.com,Munich,Bavaria,Germany,Consumer,04/05/2021, yes 
+CUST-01149,Riley Hassan,riley.hassan1149@example.com,Manchester,England,United Kingdom,Enterprise,17-Jan-2025,Yes
+CUST-01150,Casey Smith,casey.smith1150@example.com,Bengaluru,Karnataka,India,Small Business,2025-08-13,N
+CUST-01151,Cameron Taylor,cameron.taylor1151@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,"Aug 22, 2025",Y
+CUST-01152,Lee Wilson,lee.wilson1152@example.com,Bengaluru,Karnataka,India,Small Business,"Dec 21, 2023",Yes
+CUST-01153,Omar Scott,omar.scott1153@example.com,Riyadh,Riyadh,Saudi Arabia,Consumer,30/12/2021,Y
+CUST-01154,Lee Smith,lee.smith1154@example.com,lyon,Auvergne-Rhone-Alpes,France,Consumer,18/04/2022,No
+CUST-01155,Daniel Scott,daniel.scott1155@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Consumer,14.10.2025,Y
+CUST-01156,Lee Scott,lee.scott1156@example.com,  Mumbai,Maharashtra,India,Small Business,2020-04-05, yes 
+CUST-01157,Robin Green,robin.green1157@example.com,Dubai,Dubai,United Arab Emirates,Consumer,02.10.2020,Yes
+CUST-01158,Lina Mitchell,lina.mitchell1158@example.com,Seattle,WA,United States,Corporate,14.02.2025,Y
+CUST-01159,Daniel Green,,Austin,TX,United States,Corporate,25-Jan-2021,Y
+CUST-01160,Dana Walker,dana.walker1160@example.com,Dammam,Eastern Province,Saudi Arabia,Enterprise,13/11/2019,Y
+CUST-01161,Casey Walker,casey.walker1161@example.com,Seattle,WA,United States,Enterprise,14/06/2022, yes 
+CUST-01162,Robin Mitchell,robin.mitchell1162@example.com,Chicago,IL,United States,Consumer,2020-08-01,Yes
+CUST-01163,Jordan Walker,jordan.walker1163@example.com,Chicago,IL  ,United States,Small Business,27.01.2025,Yes
+CUST-01164,Dana Young,dana.young1164@example.com,London,England,United Kingdom,Corporate,2025-03-21, yes 
+CUST-01165,Cameron Ibrahim,cameron.ibrahim1165@example.com,Munich,Bavaria,Germany,Consumer,2020-06-06,Yes
+CUST-01166,Dana Hassan,dana.hassan1166@example.com,Austin,TX,United States,Consumer,"Mar 16, 2022",N
+CUST-01167,Yara Saleh,yara.saleh1167@example.com,Dubai,Dubai,United Arab Emirates,Small Business,"Oct 24, 2025",Yes
+CUST-01168,morgan taylor,morgan.taylor1168@example.com,Paris,Ile-de-France,France,Consumer,2023-11-23,Yes
+CUST-01169,Sara Johnson,sara.johnson1169@example.com,Hamburg,Hamburg,Germany,Enterprise,"Sep 18, 2019",Y
+CUST-01170,Daniel Johnson,daniel.johnson1170@example.com,Bristol,England,United Kingdom,Consumer,10/09/2022,Yes
+CUST-01171,Chris Mitchell,chris.mitchell1171@example.com,Glasgow,Scotland,United Kingdom,Enterprise,03-Dec-2022,Yes
+CUST-01172,Nora Baker,nora.baker1172@example.com,Hamburg,Hamburg,Germany,Enterprise,"Mar 10, 2023",Yes
+CUST-01173,Robin Walker,robin.walker1173@example.com,Berlin,Berlin,Germany,Consumer,14-Mar-2018,Y
+CUST-01174,Jordan Smith,jordan.smith1174@example.com,Dubai,Dubai,United Arab Emirates,Consumer,18.05.2020,N
+CUST-01175,  Chris Wilson,chris.wilson1175@example.com,Alexandria,Alexandria,Egypt,Small Business,"Oct 14, 2024", yes 
+CUST-01176,Jordan Smith,jordan.smith1176@example.com,Lyon,Auvergne-Rhone-Alpes,France,Consumer,01/12/2019, yes 
+CUST-01177,Daniel King,daniel.king1177@example.com,Atlanta,GA,United States,Consumer,19.05.2020,Yes
+CUST-01178,Avery Johnson,avery.johnson1178@example.com,New York,NY,United States,Small Business,24.07.2020,Y
+CUST-01179,Robin Walker,robin.walker1179@example.com,Manchester,England,United Kingdom,Consumer,30-May-2019,Yes
+CUST-01180,Cameron Hall,cameron.hall1180@example.com,Seattle,WA,United States,Small Business,27/03/2019,N
+CUST-01181,Omar Ibrahim,omar.ibrahim1181@example.com,Lyon,Auvergne-Rhone-Alpes,France,Small Business,03/10/2020,Yes
+CUST-01182,Amir Mitchell,amir.mitchell1182@example.com,Giza,Giza,Egypt,Consumer,10-Dec-2024,N
+CUST-01183,Jordan Brown,jordan.brown1183@example.com,Atlanta,GA,United States,Consumer,05/01/2018,Yes
+CUST-01184,Casey Walker,casey.walker1184@example.com,  Giza,Giza,Egypt,Consumer,01-Apr-2020,Y
+CUST-01185,Robin Martin,robin.martin1185@example.com,Delhi,Delhi,India,Corporate,2018-06-25,No
+CUST-01186,Lee Khan,lee.khan1186@example.com,Dubai,Dubai,United Arab Emirates,Corporate,"Jun 17, 2022",N
+CUST-01187,Lina Hassan,lina.hassan1187@example.com,Glasgow,Scotland,United Kingdom,Enterprise,28-Dec-2019, yes 
+CUST-01188,Cameron Scott,cameron.scott1188@example.com,Berlin,Berlin,Germany,Enterprise,"Apr 15, 2024",N
+CUST-01189,Avery Hassan,avery.hassan1189@example.com,Seattle,WA,United States,consumer,"Aug 24, 2022",Yes
+CUST-01190,Yara Saleh,yara.saleh1190@example.com,Paris,Ile-de-France  ,France,consumer,23.03.2024,No
+CUST-01191,Jordan Smith,jordan.smith1191@example.com,Berlin,Berlin,Germany,Enterprise,16/01/2023,Yes
+CUST-01192,Drew Johnson,drew.johnson1192@example.com,London,England,United Kingdom,Enterprise,25.06.2021,Yes
+CUST-01193,Amir Wilson,amir.wilson1193@example.com,Munich,Bavaria,  Germany,Enterprise,01/11/2024,Yes
+CUST-01194,  Sam Saleh,sam.saleh1194@example.com,Bristol,England,United Kingdom,Corporate,2021-10-13,N
+CUST-01195,Drew Brown,drew.brown1195@example.com,bristol,England,United Kingdom,Consumer,"Jul 17, 2025",Yes
+CUST-01196,Jordan Hassan,jordan.hassan1196@example.com,Jeddah,Makkah,Saudi Arabia,Enterprise,"Nov 24, 2025",Y
+CUST-01197,Chris Ibrahim,chris.ibrahim1197@example.com,Dubei,Dubai,United Arab Emirates,Consumer,05.09.2022, yes 
+CUST-01198,Alex King,alex.king1198@example.com,Abu Dhabi,Abu Dhabi,United Arab Emirates,Corporate,2023-05-11,Yes
+CUST-01199,Lee Foster,lee.foster1199@example.com,Austin,TX,United States,Consumer,"Jan 12, 2020",Yes
+CUST-01200,Lee King,lee.king1200@example.com,Paris,Ile-de-France,France,Consumer,"Jun 20, 2024",Yes
+CUST-UNKNOWN,Unknown Customer,,Unknown,Unknown,Unknown,Unknown,,Unknown
+CUST-00244,Sara Young,sara.young244@example.com,Manchester,England,United Kingdom,ENTERPRISE ,29/05/2025,N
+CUST-01025,Dana Johnson,dana.johnson1025@example.com,Hamburg,Hamburg,Germany,Consumer,03-Dec-2019,Yes
+CUST-00234,  Lee Mitchell,lee.mitchell234@example.com,Jeddah,Makkah,Saudi Arabia,Small Business,04/11/2018,N
+CUST-00071,Yara Hassan,yara.hassan71@example.com,London,England,United Kingdom,Consumer,30.09.2024,Yes

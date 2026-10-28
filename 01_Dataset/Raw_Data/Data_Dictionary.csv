@@ -1,0 +1,52 @@
+﻿FileName,ColumnOrGroup,Meaning_AR
+Dim_Customers.csv,CustomerID,مفتاح العميل الفريد؛ CUST-UNKNOWN للسجلات التي يتعذر تحديد عميلها.
+Dim_Customers.csv,CustomerName,اسم العميل.
+Dim_Customers.csv,Email,البريد الإلكتروني؛ قد يكون مفقوداً.
+Dim_Customers.csv,City / StateProvince / Country,موقع العميل.
+Dim_Customers.csv,Segment,شريحة العميل: Consumer أو Corporate أو Small Business أو Enterprise.
+Dim_Customers.csv,RegistrationDate,تاريخ تسجيل العميل بصيغ نصية مختلطة في الملف الخام.
+Dim_Products.csv,ProductID,مفتاح المنتج الفريد؛ PROD-UNKNOWN للمنتج غير المعروف.
+Dim_Products.csv,ProductName,اسم المنتج.
+Dim_Products.csv,Category / Subcategory,التصنيف والتصنيف الفرعي للمنتج.
+Dim_Products.csv,Brand,العلامة التجارية؛ قد تكون مفقودة.
+Dim_Products.csv,SupplierID,مفتاح المورد للدمج مع جدول الموردين.
+Dim_Products.csv,StandardCost / ListPrice,التكلفة القياسية والسعر المرجعي للمنتج.
+Dim_Suppliers.csv,SupplierID,مفتاح المورد الفريد.
+Dim_Suppliers.csv,SupplierName / Country,اسم المورد وبلده.
+Dim_Suppliers.csv,LeadTimeDays,مدة التوريد بالأيام؛ توجد قيم سالبة غير منطقية للتنظيف.
+Dim_Suppliers.csv,SupplierRating / SupplierStatus,تقييم المورد وحالته.
+Dim_Branches.csv,BranchID,مفتاح الفرع؛ BR-UNKNOWN للمفتاح المفقود.
+Dim_Branches.csv,BranchName / City / Country / Region,اسم الفرع وموقعه ومنطقته.
+Dim_Branches.csv,OpeningDate / BranchStatus,تاريخ افتتاح الفرع وحالته.
+Dim_Employees.csv,EmployeeID,مفتاح الموظف؛ EMP-UNKNOWN للموظف غير المعروف.
+Dim_Employees.csv,EmployeeName / JobTitle / Department,اسم الموظف ومسمّاه وقسمه.
+Dim_Employees.csv,BranchID / HireDate / EmploymentStatus,الفرع وتاريخ التعيين وحالة العمل.
+Dim_Warehouses.csv,WarehouseID,مفتاح المستودع؛ WH-UNKNOWN للمستودع غير المعروف.
+Dim_Warehouses.csv,WarehouseName / City / Country / Region,اسم المستودع وموقعه الجغرافي.
+Dim_Warehouses.csv,CapacityUnits / WarehouseStatus,السعة التقريبية للمستودع وحالته.
+"Fact_Sales_2023.csv, Fact_Sales_2024.csv, Fact_Sales_2025.csv",SalesID / OrderID,معرف سجل المبيعات ومعرف الطلب؛ كل صف يمثل بند مبيعات واحداً.
+Fact_Sales_*.csv,OrderDate,تاريخ الطلب كنص بصيغ مختلفة، مع عدد قليل من القيم غير الصالحة.
+Fact_Sales_*.csv,CustomerID / ProductID / BranchID / EmployeeID,مفاتيح الأبعاد المرتبطة بعملية البيع؛ توجد مفاتيح فارغة عمداً.
+Fact_Sales_*.csv,Quantity,كمية الوحدات؛ توجد أصفار وسوالب قليلة غير منطقية.
+Fact_Sales_*.csv,UnitPrice / UnitCost / DiscountPct,سعر الوحدة والتكلفة والخصم؛ توجد قيم مفقودة أو شاذة عمداً.
+Fact_Sales_*.csv,Currency / SalesChannel / PaymentMethod / OrderStatus,عملة البيع وقناته وطريقة الدفع وحالة الطلب؛ قد تحتوي اختلافات كتابية.
+Dim_Currency.csv,CurrencyCode / CurrencyName / CurrencySymbol,قاموس العملات؛ جميع المقاييس الموحدة ستُحوّل إلى الدولار الأمريكي USD.
+Fact_FXRates.csv,Date / CurrencyCode / USD_Rate,سعر تحويل يومي تقريبي من وحدة العملة المحلية إلى الدولار الأمريكي؛ مفتاح الدمج هو التاريخ والعملة.
+Fact_Returns.csv,ReturnID / SalesID / OrderID,مفتاح المرتجع ومعرف المبيعات والطلب المرجعي للمراجعة.
+Fact_Returns.csv,ReturnDate / ReturnQty / RefundAmount / Currency,تاريخ المرتجع وكميته وقيمة الاسترداد وعملة المعاملة.
+Fact_Returns.csv,CustomerID / ProductID / BranchID,مفاتيح العميل والمنتج والفرع لتحليل المرتجعات عبر الأبعاد.
+Fact_Returns.csv,ReturnReason / ReturnStatus,سبب المرتجع وحالته؛ يوجد اختلاف كتابي مقصود.
+Fact_Shipments.csv,ShipmentID / SalesID / OrderID,معرف الشحنة وربطها بسجل المبيعات والطلب.
+Fact_Shipments.csv,ShipDate / PromisedDeliveryDate / DeliveryDate,تواريخ الشحن والتسليم المخطط والفعلي؛ بعضها نصوص غير صالحة أو مفقود.
+Fact_Shipments.csv,CustomerID / ProductID / BranchID / WarehouseID,مفاتيح التحليل اللوجستي.
+Fact_Shipments.csv,ShippingMode / ShippingCost / ShipmentStatus / Currency,وسيلة الشحن وتكلفته وعملة التكلفة وحالة الشحنة.
+Fact_Inventory.csv,InventoryID / SnapshotDate,معرف لقطة المخزون وتاريخ اللقطة الشهري.
+Fact_Inventory.csv,ProductID / WarehouseID,المنتج والمستودع في لقطة المخزون.
+Fact_Inventory.csv,OnHandQty / ReservedQty / ReorderPoint,المتاح والمحجوز وحد إعادة الطلب؛ توجد قيم غير منطقية عمداً.
+Fact_Inventory.csv,UnitCost / InventoryValue,تكلفة الوحدة وقيمة المخزون.
+Fact_Targets.csv,TargetID / MonthStart,مفتاح سجل الهدف والشهر المستهدف.
+Fact_Targets.csv,BranchID / ProductCategory,الفرع وفئة المنتج للهدف.
+Fact_Targets.csv,SalesTarget / ProfitTarget / UnitTarget,أهداف المبيعات والربح والوحدات شهرياً.
+Dim_Date.csv,Date,التاريخ اليومي الموحد؛ استخدمه كجدول تاريخ معتمد في النموذج.
+Dim_Date.csv,Year / Quarter / MonthNumber / MonthName / YearMonth,حقول التحليل الزمني والفرز الصحيح للشهر.
+Dim_Date.csv,WeekNumber / DayOfMonth / DayName / IsWeekend,حقول تحليل الأسبوع واليوم ونهاية الأسبوع.

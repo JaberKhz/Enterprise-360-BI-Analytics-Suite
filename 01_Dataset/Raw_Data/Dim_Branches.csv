@@ -1,0 +1,21 @@
+﻿BranchID,BranchName,City,Country,Region,OpeningDate,BranchStatus
+BR-001,New York Flagship,New York,United States,North America,08-Jun-2018,Active
+BR-002,Chicago Central,Chicago,United States,North America,24/08/2020,Temporarily Closed
+BR-003,Austin South,Austin,United States,North America,23-Jul-2014,Active
+BR-004,London Hub,London,United Kingdom,Europe,19.07.2019,Active
+BR-005,Manchester Retail,Manchester,United Kingdom,Europe,03-Jul-2016,Temporarily Closed
+BR-006,Berlin Mitte,Berlin,  Germany,Eur ope,10-Oct-2013,Temporarily Closed
+BR-007,Munich South,Munich,Germany,Europe,22.08.2013,Active
+BR-008,Dubai Marina,Dubai,United Arab Emirates,Middle East,21-May-2017,Active
+BR-009,abu dhabi centre,Abu Dhabi,United Arab Emirates,Middle East,23-Jan-2015,Temporarily Closed
+BR-010,Cairo East,Cairo,Egypt,Middle East & Africa,22-Dec-2012,Active
+BR-011,Alexandria Port,Alexandria,Egypt,Middle East & Africa,2016-02-04,Active
+BR-012,Riyadh Central,Riyadh,Saudi Arabia  ,Middle East,2018-04-04,Active
+BR-013,Jeddah Red Sea,Jeddah,Saudi Arabia,Midle East,21.01.2015,Active
+BR-014,Mumbai West,Mumbai,india,Asia Pacific,25-Feb-2021,Active
+BR-015,delhi north,Delhi,India,Asia Pacific,"Jun 21, 2019",Active
+BR-016,Paris Centre,Paris,France,Europe,"Nov 29, 2016",Temporarily Closed
+BR-017,Singapore Trade,Singapore,Singapore,Asia Pacific,"Dec 15, 2020",Active
+BR-018,Toronto North,Toronto,Canada,North America,"Feb 24, 2016",Active
+BR-UNKNOWN,Unknown Branch,Unknown,Unknown,Unknown,,Unknown
+BR-001,New York Flagship,New York,United States,North America,08-Jun-2018,Active

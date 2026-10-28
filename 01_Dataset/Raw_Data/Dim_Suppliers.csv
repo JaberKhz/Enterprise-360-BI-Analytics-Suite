@@ -1,0 +1,77 @@
+﻿SupplierID,SupplierName,Country,LeadTimeDays,SupplierRating,SupplierStatus
+SUP-0001,Apex Industrial 001,China,5,3.5,Active
+SUP-0002,Meridian Works 002  ,China,28,4.6,Inactive
+SUP-0003,Pioneer Logistics 003,United States,4,2.6,Active
+SUP-0004,Meridian Works 004,Mexico,25,4.9,Active
+SUP-0005,Crescent Supply 005,Vietnam,27,4.4,Active
+SUP-0006,Evergreen Parts 006,China,27,2.7,Active
+SUP-0007,Pioneer Logistics 007,Mexico,30,3.4,Active
+SUP-0008,Meridian Works 008  ,Turkey,17,4.8,Active
+SUP-0009,Northstar Components 009,India,28,4.5,Active
+SUP-0010,Crescent Supply 010,Turkey,23,3.6,Active
+SUP-0011,Pioneer Logistics 011,Germany,17,3.8,Inactive
+SUP-0012,Silverline Industries 012,  India,9,2.6,Active
+SUP-0013,Atlas Materials 013,Vietnam,31,4.0,Active
+SUP-0014,Silverline Industries 014,India,30,4.4,Active
+SUP-0015,BlueRiver Manufacturing 015,United Kingdom,25,4.9,Inactive
+SUP-0016,Meridian Works 016,Vietnam,14,4.7,Inactive
+SUP-0017,Northstar Components 017,Mexico,25,2.9,Active
+SUP-0018,Meridian Works 018,Vietnam,28,3.6,Inactive
+SUP-0019,  Pioneer Logistics 019,United Kingdom,18,2.8,Inactive
+SUP-0020,Silverline Industries 020,United Kingdom,3,4.2,Active
+SUP-0021,Pioneer Logistics 021,United Kingdom,33,4.9,Active
+SUP-0022,BlueRiver Manufacturing 022,India,27,3.2,Inactive
+SUP-0023,MERIDIAN WORKS 023,United States,32,3.6,Active
+SUP-0024,Apex Industrial 024,India,14,2.9,Under Review
+SUP-0025,Pioneer Logistics 025,China,17,3.6,Inactive
+SUP-0026,Atlas Materials 026,Germany,6,3.0,Inactive
+SUP-0027,Nova Industrial 027,India,21,3.5,Under Review
+SUP-0028,  Northstar Components 028,Mexico,24,4.6,Active
+SUP-0029,Apex Industrial 029,India,23,3.2,Active
+SUP-0030,Northstar Components 030,Turkey,25,4.6,Inactive
+SUP-0031,Nova Industrial 031,Germany,16,3.4,Under Review
+SUP-0032,Summit Global 032,Vietnam,29,3.1,Under Review
+SUP-0033,Nova Industrial 033,Mexico,10,2.8,Active
+SUP-0034,Nova Industrial 034,Vietnam,25,2.9,Active
+SUP-0035,BlueRiver Manufacturing 035,Mexico,29,4.4,Active
+SUP-0036,Pioneer Logistics 036,Mexico,2,4.1,Active
+SUP-0037,Summit Global 037,China,18,4.4,Under Review
+SUP-0038,BlueRiver Manufacturing 038,United States,25,3.6,Under Review
+SUP-0039,Evergreen Parts 039,United Kingdom,19,2.8,Under Review
+SUP-0040,Summit Global 040,Germany,21,2.7,Inactive
+SUP-0041,nova industrial 041,United States,16,3.6,Inactive
+SUP-0042,Apex Industrial 042,Germany,24,3.9,Inactive
+SUP-0043,Silverline Industries 043,China,4,4.1,Inactive
+SUP-0044,Meridian Works 044,India,28,3.8,Inactive
+SUP-0045,Atlas Materials 045,Turkey,5,3.2,Under Review
+SUP-0046,Silverline Industries 046,Germany,21,2.5,Active
+SUP-0047,Vertex Trading 047,United States,13,3.0,Inactive
+SUP-0048,Pioneer Logistics 048,India,16,3.5,Active
+SUP-0049,Atlas Materials 049,Turkey,35,3.0,Inactive
+SUP-0050,Silverline Industries 050,United States,31,2.6,Active
+SUP-0051,Northstar Components 051,United Kingdom,31,3.2,Active
+SUP-0052,Nova Industrial 052,India,11,4.1,Inactive
+SUP-0053,Atlas Materials 053,Mexico,6,4.4,Under Review
+SUP-0054,Apex Industrial 054,United Kingdom,-7,3.5,Active
+SUP-0055,Nova Industrial 055,Germany,24,4.5,Active
+SUP-0056,Nova Industrial 056,China,12,2.5,Inactive
+SUP-0057,Evergreen Parts 057,Germany,7,2.6,Active
+SUP-0058,Summit Global 058,Turkey,28,3.6,Inactive
+SUP-0059,Meridian Works 059,Vietnam,26,2.8,Active
+SUP-0060,Evergreen Parts 060,Germany,32,2.8,Under Review
+SUP-0061,Atlas Materials 061,India,19,4.2,Active
+SUP-0062,Summit Global 062,Mexico,18,3.4,Active
+SUP-0063,Apex Industrial 063,India,17,3.2,Active
+SUP-0064,Crescent Supply 064,United Kingdom,25,3.3,Inactive
+SUP-0065,Apex Industrial 065,Turkey,23,2.6,Active
+SUP-0066,Northstar Components 066,United States,13,4.9,Under Review
+SUP-0067,Evergreen Parts 067,china,6,4.8,Active
+SUP-0068,Crescent Supply 068,India,18,3.1,Inactive
+SUP-0069,Silverline Industries 069,Turkey,25,4.9,Active
+SUP-0070,Crescent Supply 070,Vietnam,10,4.3,Under Review
+SUP-0071,Silverline Industries 071,Vietnam,28,3.6,Under Review
+SUP-0072,Atlas Materials 072,United States,27,2.7,Active
+SUP-0073,Vertex Trading 073,Mexico,11,4.7,Active
+SUP-0074,Atlas Materials 074,China,6,2.9,Active
+SUP-0075,Summit Global 075,united kingdom,17,3.2,Inactive
+SUP-0005,Crescent Supply 005,Vietnam,27,4.4,Active
